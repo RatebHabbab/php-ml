@@ -1,0 +1,30 @@
+Ford Harrison=> Hanks Tom = 75%
+Martin Steve=> Hanks Tom = 75%
+Ford Harrison=> Hanks Tom = 73.58%
+Cage Nicolas=> Hanks Tom = 73.58%
+Gibson Mel=> Hanks Tom = 73.58%
+Jones James Earl=> Hanks Tom = 70.73%
+Cage Nicolas=> Hanks Tom = 82.22%
+Jones James Earl=> Hanks Tom = 82.22%
+Hanks Tom=> DeNiro Robert = 72.92%
+Cage Nicolas=> DeNiro Robert = 72.92%
+Connery Sean=> DeNiro Robert = 72.92%
+Gibson Mel=> Hanks Tom = 76.36%
+Nicholson Jack=> Hanks Tom = 76.36%
+Gibson Mel=> Hanks Tom = 71.19%
+Williams Robin=> Hanks Tom = 71.19%
+Gibson Mel=> Hanks Tom = 71.19%
+Hopkins Anthony=> Hanks Tom = 71.19%
+Nicholson Jack=> Hanks Tom = 73.08%
+Eastwood Clint=> Hanks Tom = 73.08%
+Nicholson Jack=> Hanks Tom = 75.51%
+Hopkins Anthony=> Hanks Tom = 75.51%
+Jackson Samuel L.=> Hanks Tom = 72%
+Hackman Gene=> Hanks Tom = 72%
+Jackson Samuel L.=> Hanks Tom = 74.47%
+Hopkins Anthony=> Hanks Tom = 74.47%
+Cusack Joan=> Cusack John = 80.56%
+Cage Nicolas=> Cusack John = 83.72%
+Cusack Joan=> Cusack John = 83.72%
+DeNiro Robert=> Pacino Al = 72.55%
+Pitt Brad=> Pacino Al = 72.55%

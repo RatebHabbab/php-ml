@@ -1,0 +1,1282 @@
+47,Doctorate,Male,Own,DSL,Married,2,2,2,1,1,Never,Monthly,DVD,Monthly,Weekly,877723,Rarely,Weekly,Cable,Spouse/Partner,0
+31,"Grade School",Female,Own,DSL,Married,2,3,3,3,1,Never,Rarely,DVD,Rarely,Never,917146,Monthly,Rarely,Cable,Children,1
+39,"Master's Degree",Male,Own,Dial-Up,Married,2.5,4,2,1,2,Rarely,Rarely,DVD,Monthly,Monthly,917167,Rarely,Weekly,Cable,Spouse/Partner,1
+33,"Some College",Male,Rent,DSL,Divorced,1,1,1,1,2,Never,Monthly,DVD,Weekly,Weekly,917173,Monthly,Never,Cable,Me,1
+43,"Associate's Degree",Female,Rent,DSL,Married,2,3,2,3,4,Never,Weekly,DVD,Monthly,Daily,917175,Rarely,Weekly,Cable,Me,1
+42,"Master's Degree",Male,Own,Dial-Up,Married,3,5,2,2,1,Monthly,Rarely,VHS,Monthly,Monthly,917188,Monthly,Rarely,"Digital Satellite",Me,1
+40,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,3,2,5,Rarely,Never,DVD,Monthly,Weekly,917211,Monthly,Daily,Cable,Me,1
+42,"Master's Degree",Male,Own,"Cable Modem",Married,3,5,2,2,3,Never,Rarely,DVD,Rarely,Weekly,883565,Rarely,Rarely,Cable,Me,2
+36,"Some College",Male,Own,DSL,Married,3.5,4,2,3,3,Never,Rarely,DVD,Weekly,Weekly,883597,Monthly,Weekly,Cable,Spouse/Partner,2
+31,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,3,2,1,1,Never,Rarely,VHS,Monthly,Weekly,883613,Rarely,Rarely,"Analog antennae",Me,2
+29,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,3,5,Rarely,Monthly,DVD,Weekly,Daily,883619,Rarely,Weekly,"Digital Satellite",Me,2
+37,"Bachelor's Degree",Male,Rent,DSL,Married,4.5,5,2,2,2,Never,Monthly,VHS,Monthly,Daily,883624,Monthly,Weekly,Cable,Spouse/Partner,2
+37,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,2,2,Never,Rarely,DVD,Monthly,Monthly,891660,Rarely,Never,Cable,Children,3
+42,"Master's Degree",Male,Own,Dial-Up,Married,2,4,2,2,1,Never,Rarely,DVD,Rarely,Monthly,891670,Monthly,Rarely,"Analog antennae",Me,3
+32,"Master's Degree",Male,Own,Dial-Up,Married,2.5,4,1,1,1,Rarely,Rarely,VHS,Rarely,Rarely,891671,Rarely,Weekly,Cable,Me,3
+32,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,3,3,Never,Rarely,DVD,Weekly,Weekly,891673,Monthly,Monthly,Cable,Other,3
+35,"Bachelor's Degree",Male,Own,Other,Married,2.5,4,2,2,2,Never,Never,DVD,Weekly,Weekly,891675,Monthly,Rarely,Cable,Spouse/Partner,3
+44,"Bachelor's Degree",Female,Own,Dial-Up,Divorced,2.5,3,1,1,1,Never,Rarely,DVD,Weekly,Weekly,891684,Rarely,Never,"Don't watch TV",Me,3
+28,"Bachelor's Degree",Female,Own,DSL,Married,2.5,4,2,2,2,Never,Rarely,VHS,Rarely,Rarely,891655,Monthly,Weekly,Cable,Spouse/Partner,3
+40,"Bachelor's Degree",Male,Own,"Cable Modem",Married,4.5,5,2,2,5,Never,Monthly,DVD,Monthly,Weekly,891644,Rarely,Weekly,Cable,Me,3
+39,"Master's Degree",Female,Own,"Cable Modem",Married,2.5,3,2,1,1,Never,Rarely,VHS,Monthly,Weekly,916069,Rarely,Weekly,Cable,Spouse/Partner,4
+38,"Master's Degree",Male,Own,DSL,Married,2,3,2,1,3,Monthly,Rarely,DVD,Rarely,Monthly,916091,Rarely,Weekly,"Digital Satellite",Spouse/Partner,4
+39,"Bachelor's Degree",Male,Own,Other,Married,4,6,3,4,5,Weekly,Monthly,DVD,Monthly,Weekly,916133,Monthly,Daily,"Digital Satellite",Me,4
+43,"Bachelor's Degree",Female,Own,Dial-Up,Married,4,5,3,3,4,Rarely,Monthly,DVD,Monthly,Weekly,916139,Monthly,Daily,"Digital Satellite",Me,4
+33,"Master's Degree",Male,Own,"Cable Modem",Separated,2.5,4,2,2,3,Rarely,Rarely,DVD,Weekly,Weekly,900024,Monthly,Weekly,Cable,Spouse/Partner,5
+40,"Master's Degree",Female,Own,Dial-Up,Married,3,4,3,3,1,Rarely,Monthly,DVD,Monthly,Weekly,900062,Rarely,Weekly,"Digital Satellite",Spouse/Partner,5
+30,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,1,1,2,Rarely,Rarely,VHS,Rarely,Monthly,900094,Rarely,Monthly,Cable,Spouse/Partner,5
+39,"Bachelor's Degree",Male,Own,DSL,Married,2,2,2,2,2,Never,Rarely,DVD,Weekly,Weekly,887939,Rarely,Weekly,"Analog antennae",Me,6
+42,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,3,2,Never,Monthly,DVD,Monthly,Weekly,887945,Rarely,Rarely,Cable,Me,6
+39,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,3,2,4,Monthly,Rarely,DVD,Rarely,Weekly,887946,Monthly,Daily,"Digital Satellite",Me,6
+44,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,2,2,1,Never,Rarely,DVD,Rarely,Weekly,887952,Monthly,Rarely,Cable,Other,6
+32,"Bachelor's Degree",Male,Own,"Cable Modem",Married,5,4,2,2,4,Never,Monthly,DVD,Weekly,Weekly,887954,Rarely,Monthly,Cable,Me,6
+43,"Master's Degree",Female,Own,Dial-Up,Married,2.5,3,3,2,2,Never,Rarely,"Video CD",Rarely,Monthly,887957,Rarely,Daily,"Digital Satellite",Me,6
+38,"Master's Degree",Male,Own,IDSN,Married,3,6,2,3,3,Never,Monthly,DVD,Monthly,Weekly,925654,Monthly,Never,"Analog Satellite",Me,7
+43,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,2,2,Monthly,Monthly,VHS,Monthly,Weekly,912529,Monthly,Monthly,Cable,Me,8
+38,"Some College",Male,Rent,"Cable Modem",Married,1.5,4,2,1,3,Monthly,Rarely,DVD,Monthly,Monthly,912535,Monthly,Monthly,"Digital Satellite",Me,8
+31,"Some College",Male,Own,DSL,Married,2,4,2,1,1,Never,Rarely,DVD,Weekly,Weekly,912548,Monthly,Monthly,Cable,Spouse/Partner,8
+40,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,1,Never,Rarely,DVD,Weekly,Weekly,912560,Monthly,Never,"Analog antennae",Spouse/Partner,8
+34,"Bachelor's Degree",Male,Own,Other,Married,3,4,3,2,2,Never,Never,DVD,Monthly,Weekly,912575,Rarely,Never,Cable,Other,8
+38,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,2,2,Rarely,Never,DVD,Weekly,Weekly,912576,Monthly,Daily,Cable,Me,8
+42,"Some College",Male,Own,DSL,Married,2.5,2,2,4,3,Monthly,Rarely,DVD,Monthly,Monthly,904469,Monthly,Daily,Cable,Spouse/Partner,9
+30,"Some College",Male,Own,"Cable Modem",Married,2.5,4,2,3,3,Never,Monthly,DVD,Monthly,Daily,904502,Rarely,Rarely,"Analog antennae",Me,9
+33,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,2,4,Never,Weekly,DVD,Rarely,Weekly,904527,Monthly,Rarely,"Digital Satellite",Me,9
+36,"Bachelor's Degree",Male,Own,DSL,Married,2,5,2,2,1,Never,Rarely,VHS,Rarely,Rarely,904531,Rarely,Never,"Analog antennae",Me,9
+48,"Bachelor's Degree",Male,Own,Other,Married,3,3,2,2,3,Rarely,Rarely,DVD,Weekly,Weekly,904533,Never,Weekly,Cable,Spouse/Partner,9
+28,"Bachelor's Degree",Male,Own,DSL,Married,3,4,3,1,4,Rarely,Weekly,DVD,Rarely,Weekly,912983,Monthly,Rarely,Cable,Me,10
+40,"Associate's Degree",Male,Own,DSL,Married,2,3,1,2,2,Never,Weekly,DVD,Monthly,Weekly,913008,Monthly,Never,"Don't watch TV",Me,10
+48,"Some College",Female,Own,Dial-Up,Divorced,3,5,2,1,5,Monthly,Monthly,DVD,Never,Monthly,913014,Rarely,Weekly,"Digital Satellite",Me,10
+30,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,1,2,Monthly,Rarely,DVD,Weekly,Weekly,913020,Monthly,Monthly,Cable,Me,10
+35,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,4,2,2,1,Never,Rarely,DVD,Weekly,Weekly,913021,Monthly,Weekly,"Analog antennae",Spouse/Partner,10
+32,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,1,1,Weekly,Monthly,DVD,Never,Monthly,913037,Rarely,Rarely,"Digital Satellite",Me,10
+44,"Master's Degree",Male,Own,DSL,Married,4,4,2,3,3,Never,Monthly,DVD,Monthly,Weekly,913040,Weekly,Monthly,Cable,Me,10
+38,"Master's Degree",Male,Own,IDSN,Married,3,4,2,2,2,Never,Rarely,DVD,Monthly,Monthly,913047,Rarely,Rarely,Cable,Spouse/Partner,10
+32,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,1,1,3,Never,Rarely,DVD,Weekly,Weekly,913058,Monthly,Never,Cable,Me,10
+47,"Master's Degree",Female,Own,Dial-Up,Married,4.5,5,3,2,3,Never,Monthly,DVD,Weekly,Weekly,889390,Rarely,Rarely,Cable,Spouse/Partner,11
+57,Doctorate,Male,Own,"Cable Modem",Married,2,2,2,2,4,Never,Rarely,VHS,Rarely,Rarely,889417,Monthly,Weekly,Cable,Me,11
+36,"Master's Degree",Male,Rent,"Cable Modem",Married,2.5,4,2,1,3,Weekly,Rarely,DVD,Weekly,Weekly,918155,Weekly,Daily,Cable,Me,12
+37,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,2,3,Monthly,Weekly,DVD,Monthly,Weekly,918157,Rarely,Weekly,Cable,Spouse/Partner,12
+29,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,4,2,2,3,Rarely,Monthly,DVD,Weekly,Daily,918161,Rarely,Weekly,Cable,Children,12
+29,"Associate's Degree",Male,Own,DSL,Married,2.5,4,2,3,4,Never,Rarely,DVD,Monthly,Weekly,888698,Monthly,Weekly,Cable,Me,13
+49,"Some College",Female,Own,"Cable Modem",Divorced,1.5,4,1,3,3,Rarely,Rarely,DVD,Monthly,Monthly,888710,Monthly,Never,"Don't watch TV",Children,13
+39,"Master's Degree",Female,Own,DSL,Married,2.5,4,3,1,4,Weekly,Monthly,DVD,Rarely,Weekly,888712,Monthly,Weekly,"Digital Satellite",Me,13
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,3,2,1,3,Rarely,Monthly,DVD,Rarely,Weekly,888713,Rarely,Weekly,Cable,Other,13
+35,"Some College",Male,Own,"Cable Modem",Married,1,3,2,2,2,Never,Monthly,DVD,Weekly,Weekly,888723,Rarely,Never,Cable,Spouse/Partner,13
+33,"Master's Degree",Male,Rent,DSL,Married,1.5,2,1,2,2,Never,Rarely,DVD,Daily,Daily,888731,Rarely,Monthly,Cable,Me,13
+42,"Master's Degree",Male,Own,"Cable Modem",Married,3,4,2,4,4,Never,Weekly,DVD,Rarely,Weekly,888734,Monthly,Rarely,"Digital Satellite",Children,13
+27,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,1,2,2,Rarely,Rarely,DVD,Weekly,Weekly,888736,Rarely,Daily,Cable,Me,13
+33,"Associate's Degree",Male,Own,Dial-Up,Married,2.5,4,2,1,2,Never,Rarely,DVD,Weekly,Weekly,888738,Rarely,Rarely,Cable,Spouse/Partner,13
+44,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,3,2,1,2,Never,Monthly,DVD,Rarely,Monthly,906061,Rarely,Weekly,Cable,Spouse/Partner,14
+25,"Bachelor's Degree",Male,Own,Dial-Up,Married,3,4,2,1,2,Never,Never,DVD,Never,Monthly,906073,Rarely,Monthly,"Digital Satellite",Spouse/Partner,14
+35,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,2,2,1,Never,Never,DVD,Monthly,Weekly,906090,Monthly,Daily,Cable,Me,14
+39,"Bachelor's Degree",Male,Own,Dial-Up,Married,4,5,2,3,2,Never,Rarely,DVD,Weekly,Weekly,906101,Rarely,Weekly,Cable,Me,14
+39,"Associate's Degree",Male,Own,Dial-Up,Married,2.5,4,2,1,1,Never,Rarely,DVD,Weekly,Weekly,906104,Rarely,Monthly,"Digital Satellite",Other,14
+37,"Some College",Male,Own,DSL,Married,3,4,5,4,5,Monthly,Monthly,DVD,Rarely,Weekly,906110,Monthly,Weekly,"Digital Satellite",Me,14
+40,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3.5,4,2,1,3,Monthly,Monthly,DVD,Rarely,Weekly,892649,Rarely,Daily,"Digital Satellite",Me,15
+23,"Some College",Male,Own,"Cable Modem",Married,2,2,4,2,2,Never,Never,DVD,Rarely,Monthly,892657,Rarely,Never,"Don't watch TV",Children,15
+41,"Bachelor's Degree",Male,Own,DSL,Married,2,4,2,1,5,Never,Monthly,DVD,Monthly,Weekly,892669,Monthly,Weekly,Cable,Spouse/Partner,15
+31,"Master's Degree",Male,Own,DSL,Married,4,5,1,2,2,Never,Rarely,DVD,Monthly,Monthly,892671,Monthly,Monthly,Cable,Me,15
+36,"Bachelor's Degree",Male,Own,DSL,Married,1,1,2,2,1,Never,Rarely,DVD,Weekly,Weekly,892702,Rarely,Never,"Analog antennae",Me,15
+34,"Bachelor's Degree",Male,Own,"Cable Modem",Divorced,2,3,4,1,4,Never,Monthly,DVD,Rarely,Weekly,892734,Monthly,Weekly,"Digital Satellite",Me,15
+43,"Some College",Male,Own,DSL,Married,2.5,4,2,2,3,Rarely,Monthly,VHS,Monthly,Monthly,892737,Rarely,Monthly,Cable,Me,15
+34,"Some College",Male,Rent,Dial-Up,Married,1,3,1,3,1,Never,Monthly,DVD,Never,Monthly,892741,Rarely,Weekly,"Digital Satellite",Me,15
+36,"Bachelor's Degree",Male,Rent,"Cable Modem",Married,2.5,4,2,3,3,Never,Monthly,DVD,Weekly,Weekly,889853,Rarely,Daily,Cable,Me,16
+34,"Bachelor's Degree",Male,Rent,DSL,Married,1.5,3,2,1,1,Never,Monthly,DVD,Monthly,Weekly,889861,Monthly,Never,Cable,Me,16
+43,"Bachelor's Degree",Male,Own,DSL,Married,5,5,2,2,3,Rarely,Rarely,DVD,Monthly,Monthly,889869,Rarely,Weekly,"Digital Satellite",Me,16
+40,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,5,2,2,3,Never,Rarely,DVD,Weekly,Weekly,889872,Rarely,Daily,"Digital Satellite",Me,16
+35,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,1,2,3,1,Rarely,Rarely,DVD,Weekly,Weekly,909068,Monthly,Weekly,"Digital Satellite",Me,17
+47,Doctorate,Male,Own,"Cable Modem",Married,2.5,3,2,2,1,Never,Rarely,VHS,Monthly,Weekly,909102,Rarely,Never,Cable,Children,17
+42,Post-Doc,Male,Own,"Cable Modem",Married,2,3,2,1,2,Never,Rarely,DVD,Monthly,Monthly,885544,Rarely,Never,"Don't watch TV",Other,18
+38,"Master's Degree",Female,Rent,Dial-Up,Divorced,2.5,3,2,1,2,Never,Rarely,VHS,Monthly,Monthly,885582,Rarely,Weekly,Cable,Me,18
+30,"Bachelor's Degree",Female,Own,DSL,Married,2.5,4,3,1,3,Never,Weekly,DVD,Never,Weekly,885638,Rarely,Monthly,Cable,Spouse/Partner,18
+44,Doctorate,Male,Own,DSL,Married,4,4,3,2,3,Never,Weekly,DVD,Rarely,Weekly,885715,Monthly,Weekly,Cable,Other,18
+33,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,2,4,Never,Monthly,DVD,Monthly,Weekly,879535,Monthly,Weekly,"Digital Satellite",Me,19
+48,"Master's Degree",Male,Own,Dial-Up,Married,2.5,4,2,2,2,Never,Rarely,VHS,Weekly,Weekly,879500,Monthly,Rarely,"Digital Satellite",Me,19
+32,"Bachelor's Degree",Male,Own,DSL,Married,4,4,2,1,2,Monthly,Rarely,DVD,Monthly,Monthly,895646,Monthly,Weekly,"Digital Satellite",Spouse/Partner,20
+47,"Master's Degree",Female,Own,Other,Married,3.5,4,3,1,3,Never,Rarely,DVD,Weekly,Weekly,904143,Monthly,Rarely,Cable,Me,21
+35,"Bachelor's Degree",Female,Rent,Dial-Up,Married,2,2,2,2,4,Never,Monthly,DVD,Weekly,Weekly,904153,Rarely,Rarely,Cable,Spouse/Partner,21
+37,"Bachelor's Degree",Male,Own,"Cable Modem",Married,1,3,2,2,1,Never,Rarely,DVD,Weekly,Weekly,885063,Monthly,Never,Cable,Me,22
+37,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,3,1,3,Never,Monthly,DVD,Weekly,Weekly,885085,Weekly,Rarely,Cable,Spouse/Partner,22
+41,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,4,1,3,Never,Weekly,DVD,Weekly,Daily,885086,Monthly,Never,"Analog antennae",Spouse/Partner,22
+38,"Some College",Male,Own,"Cable Modem",Married,2.5,4,2,2,3,Rarely,Rarely,DVD,Weekly,Weekly,912761,Monthly,Monthly,Cable,Spouse/Partner,23
+31,"High School",Male,Own,"Cable Modem",Married,3,4,2,2,3,Never,Monthly,DVD,Monthly,Weekly,912762,Monthly,Monthly,Cable,Me,23
+34,"Master's Degree",Male,Rent,Dial-Up,Married,2,2,1,1,1,Weekly,Monthly,DVD,Weekly,Weekly,912763,Monthly,Daily,Cable,Me,23
+34,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,2,1,2,Monthly,Monthly,DVD,Weekly,Weekly,912767,Monthly,Daily,"Digital Satellite",Me,23
+45,"Master's Degree",Male,Own,DSL,Married,2.5,5,3,2,2,Never,Never,DVD,Monthly,Monthly,912812,Rarely,Weekly,Cable,Me,23
+45,"Trade School",Male,Own,Dial-Up,Married,3,3,1,2,2,Never,Never,DVD,Monthly,Monthly,903583,Rarely,Never,Cable,Other,24
+35,"Some College",Female,Own,DSL,Divorced,1,2,1,1,2,Never,Rarely,DVD,Weekly,Weekly,903585,Rarely,Rarely,Cable,Me,24
+34,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,2,3,3,Rarely,Weekly,DVD,Monthly,Weekly,903597,Monthly,Daily,Cable,Spouse/Partner,24
+27,"Some College",Male,Own,Dial-Up,Married,2,4,2,2,3,Rarely,Monthly,DVD,Monthly,Weekly,903600,Rarely,Weekly,"Digital Satellite",Me,24
+42,"Bachelor's Degree",Female,Own,Dial-Up,Other,2,3,1,1,1,Never,Never,VHS,Monthly,Monthly,903604,Monthly,Weekly,Cable,Me,24
+28,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,1,4,Rarely,Monthly,DVD,Monthly,Monthly,903609,Monthly,Rarely,Cable,Me,24
+48,"Bachelor's Degree",Male,Rent,Dial-Up,Married,2,4,4,4,2,Never,Monthly,DVD,Weekly,Weekly,903616,Monthly,Weekly,Cable,Me,24
+31,"Some College",Male,Rent,"Cable Modem",Married,1,3,1,4,3,Never,Monthly,DVD,Weekly,Daily,903629,Rarely,Daily,Cable,Spouse/Partner,24
+36,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,3,Rarely,Rarely,DVD,Monthly,Monthly,903636,Rarely,Weekly,Cable,Spouse/Partner,24
+25,"High School",Male,Own,DSL,Other,3,4,2,1,4,Never,Weekly,DVD,Never,Weekly,903646,Monthly,Rarely,Cable,Spouse/Partner,24
+31,"Some College",Male,Rent,"Cable Modem",Married,2,2,1,1,1,Never,Rarely,DVD,Weekly,Weekly,903652,Rarely,Monthly,Cable,Me,24
+35,"Bachelor's Degree",Male,Own,DSL,Married,4,4,2,1,2,Rarely,Rarely,DVD,Monthly,Monthly,908084,Monthly,Monthly,"Digital Satellite",Me,25
+57,"Bachelor's Degree",Male,Own,DSL,Married,2,3,2,3,4,Never,Rarely,DVD,Weekly,Weekly,888057,Monthly,Weekly,Cable,Other,26
+37,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,1,5,Rarely,Monthly,DVD,Rarely,Monthly,888060,Rarely,Weekly,Cable,Spouse/Partner,26
+45,"Bachelor's Degree",Male,Own,DSL,Married,2,3,2,1,3,Never,Rarely,DVD,Daily,Daily,888069,Rarely,Weekly,"Digital Satellite",Me,26
+27,"Bachelor's Degree",Male,Own,Dial-Up,Married,1,3,1,2,1,Never,Rarely,DVD,Weekly,Weekly,888071,Monthly,Rarely,"Analog antennae",Me,26
+33,"Master's Degree",Female,Own,DSL,Married,2.5,4,3,2,2,Rarely,Rarely,DVD,Weekly,Weekly,888049,Monthly,Weekly,"Digital Satellite",Me,26
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,2,1,Never,Monthly,DVD,Monthly,Monthly,888061,Monthly,Weekly,Cable,Spouse/Partner,26
+29,"Bachelor's Degree",Male,Rent,"Cable Modem",Married,2,3,1,2,2,Rarely,Monthly,DVD,Weekly,Weekly,888064,Rarely,Weekly,Cable,Me,26
+35,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,2,2,Rarely,Rarely,DVD,Rarely,Rarely,889575,Monthly,Weekly,"Digital Satellite",Me,27
+35,"Bachelor's Degree",Female,Own,IDSN,Married,2.5,4,2,1,6,Never,Rarely,VHS,Monthly,Monthly,889576,Monthly,Daily,Cable,Spouse/Partner,27
+38,"Master's Degree",Male,Own,DSL,"Never Married",2.5,4,2,1,1,Monthly,Monthly,DVD,Monthly,Weekly,889578,Never,Monthly,Cable,Spouse/Partner,27
+29,"Bachelor's Degree",Male,Own,DSL,Married,3,4,2,1,3,Never,Monthly,DVD,Rarely,Monthly,889584,Rarely,Weekly,Cable,Me,27
+39,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,3,Monthly,Monthly,VHS,Weekly,Weekly,889585,Rarely,Rarely,Cable,Spouse/Partner,27
+45,Doctorate,Male,Own,"Cable Modem",Married,3.5,5,3,4,6,Rarely,Monthly,DVD,Weekly,Daily,889589,Weekly,Daily,Cable,Children,27
+31,"Master's Degree",Male,Own,Dial-Up,Married,3,4,2,1,4,Rarely,Rarely,DVD,Monthly,Monthly,889592,Rarely,Monthly,Cable,Me,27
+41,"Grade School",Male,Own,"Cable Modem",Married,4,4,2,1,2,Rarely,Rarely,DVD,Weekly,Weekly,889598,Rarely,Rarely,Cable,Me,27
+43,"Some College",Male,Own,DSL,Married,1,3,2,2,2,Never,Monthly,DVD,Weekly,Weekly,889603,Monthly,Never,Cable,Spouse/Partner,27
+42,"Bachelor's Degree",Male,Own,"Cable Modem",Divorced,2,4,2,2,2,Never,Monthly,DVD,Weekly,Weekly,889611,Monthly,Weekly,Cable,Me,27
+30,"Master's Degree",Female,Own,"Cable Modem",Married,2.5,4,2,1,3,Never,Rarely,DVD,Rarely,Rarely,889613,Rarely,Weekly,Cable,Me,27
+38,"Master's Degree",Male,Own,Other,Divorced,3,4,5,2,1,Rarely,Weekly,DVD,Monthly,Weekly,889620,Monthly,Rarely,Cable,Children,27
+38,"Master's Degree",Male,Own,"Cable Modem",Married,3,4,2,2,5,Monthly,Rarely,DVD,Weekly,Weekly,889643,Rarely,Daily,"Digital Satellite",Me,27
+31,"Bachelor's Degree",Male,Own,"Cable Modem",Married,1.5,2,2,1,2,Never,Rarely,VHS,Monthly,Monthly,882415,Rarely,Rarely,"Analog antennae",Spouse/Partner,28
+30,"Master's Degree",Female,Own,DSL,Married,2.5,3,2,1,1,Never,Never,DVD,Monthly,Monthly,882419,Rarely,Monthly,Cable,Spouse/Partner,28
+40,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,4,2,2,Monthly,Monthly,DVD,Rarely,Monthly,882423,Rarely,Monthly,"Digital Satellite",Me,28
+33,"Master's Degree",Male,Own,Dial-Up,Married,2.5,2,1,2,1,Rarely,Rarely,DVD,Rarely,Weekly,882426,Rarely,Daily,Cable,Me,28
+40,"Master's Degree",Male,Own,"Cable Modem",Married,4.5,6,3,2,3,Rarely,Monthly,DVD,Monthly,Weekly,882433,Monthly,Monthly,"Digital Satellite",Spouse/Partner,28
+39,Post-Doc,Male,Own,"Cable Modem",Married,3,5,2,2,1,Never,Monthly,DVD,Weekly,Weekly,882435,Monthly,Never,"Don't watch TV",Me,28
+38,"Bachelor's Degree",Female,Rent,"Cable Modem",Married,2,3,5,1,4,Rarely,Rarely,VHS,Monthly,Monthly,882439,Rarely,Monthly,Cable,Me,28
+30,Doctorate,Male,Own,"Cable Modem",Married,3,4,2,1,1,Never,Never,DVD,Weekly,Weekly,882442,Rarely,Never,Cable,Me,28
+41,"Master's Degree",Male,Own,DSL,Married,2.5,4,1,2,2,Never,Weekly,VHS,Weekly,Weekly,894603,Weekly,Never,Cable,Children,29
+37,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,1,5,Never,Rarely,DVD,Monthly,Monthly,915129,Monthly,Monthly,Cable,Spouse/Partner,30
+40,"Some College",Male,Own,"Cable Modem",Married,1.5,5,1,2,3,Weekly,Monthly,DVD,Weekly,Weekly,915141,Monthly,Daily,"Digital Satellite",Spouse/Partner,30
+30,"Master's Degree",Male,Rent,"Cable Modem",Married,1,2,1,2,1,Rarely,Rarely,DVD,Weekly,Weekly,915150,Rarely,Daily,Cable,Me,30
+39,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,3,2,3,Rarely,Rarely,DVD,Weekly,Weekly,915175,Rarely,Rarely,Cable,Me,30
+44,"Master's Degree",Male,Own,DSL,Married,2.5,5,2,6,3,Monthly,Rarely,DVD,Monthly,Monthly,912400,Rarely,Monthly,"Digital Satellite",Spouse/Partner,31
+42,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,2,1,2,Never,Never,VHS,Monthly,Monthly,912402,Weekly,Never,Cable,Me,31
+31,"Some College",Male,Own,"Cable Modem",Married,2,3,2,2,2,Monthly,Rarely,DVD,Monthly,Weekly,912408,Monthly,Weekly,"Digital Satellite",Me,31
+35,"Master's Degree",Male,Own,"Cable Modem",Married,3.5,4,2,2,1,Never,Rarely,VHS,Monthly,Monthly,912412,Rarely,Weekly,Cable,Me,31
+29,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,1,2,Rarely,Weekly,DVD,Monthly,Weekly,912413,Monthly,Monthly,"Digital Satellite",Me,31
+33,"Some College",Male,Rent,"Cable Modem",Married,2,3,2,2,4,Rarely,Rarely,DVD,Weekly,Weekly,912438,Rarely,Weekly,Cable,Me,31
+41,"Some College",Female,Own,Dial-Up,Divorced,2.5,3,1,1,4,Never,Never,DVD,Weekly,Monthly,912448,Monthly,Weekly,Cable,Me,31
+36,"Master's Degree",Male,Own,"Cable Modem",Married,3.5,4,3,2,5,Monthly,Rarely,DVD,Rarely,Rarely,912451,Rarely,Never,"Digital Satellite",Children,31
+37,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,4,2,3,3,Never,Rarely,DVD,Weekly,Weekly,890317,Rarely,Monthly,Cable,Me,32
+25,"Bachelor's Degree",Male,Own,DSL,Married,1,3,3,1,1,Rarely,Rarely,DVD,Monthly,Weekly,890323,Rarely,Monthly,"Digital Satellite",Me,32
+37,"Associate's Degree",Male,Rent,"Cable Modem",Divorced,2,2,3,1,2,Never,Monthly,DVD,Weekly,Daily,890324,Rarely,Monthly,Cable,Spouse/Partner,32
+31,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,1,2,Weekly,Rarely,DVD,Monthly,Monthly,890326,Monthly,Weekly,"Digital Satellite",Spouse/Partner,32
+28,"Master's Degree",Male,Rent,IDSN,Married,2.5,3,2,1,3,Never,Monthly,DVD,Weekly,Weekly,890329,Weekly,Daily,"Digital Satellite",Me,32
+37,"Bachelor's Degree",Male,Rent,DSL,Married,1,2,1,2,1,Never,Rarely,DVD,Monthly,Monthly,890353,Rarely,Rarely,"Analog antennae",Me,32
+35,"Master's Degree",Male,Own,Dial-Up,Married,2.5,4,2,2,2,Never,Monthly,DVD,Weekly,Weekly,890362,Monthly,Weekly,"Analog antennae",Me,32
+50,"Bachelor's Degree",Female,Own,"Cable Modem",Married,1.5,3,3,3,1,Never,Rarely,VHS,Rarely,Monthly,892421,Rarely,Weekly,Cable,Me,33
+34,"Bachelor's Degree",Female,Own,"Cable Modem","Never Married",2,2,1,1,1,Never,Monthly,DVD,Rarely,Weekly,892448,Rarely,Weekly,Cable,Me,33
+29,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,4,2,1,2,Never,Rarely,DVD,Monthly,Monthly,892450,Rarely,Rarely,"Analog antennae",Me,33
+36,"Bachelor's Degree",Female,Own,Dial-Up,Married,2.5,4,2,3,1,Never,Rarely,DVD,Monthly,Weekly,892453,Monthly,Monthly,Cable,Me,33
+30,"Associate's Degree",Female,Own,Other,Married,2.5,4,1,2,2,Never,Monthly,DVD,Monthly,Weekly,892461,Weekly,Monthly,Cable,Me,33
+36,Post-Doc,Male,Own,DSL,Married,2.5,4,2,2,2,Never,Monthly,DVD,Monthly,Monthly,892465,Rarely,Rarely,Cable,Children,33
+29,"Associate's Degree",Female,Own,DSL,Married,2.5,4,2,2,2,Never,Rarely,DVD,Weekly,Weekly,887509,Rarely,Monthly,Cable,Me,34
+47,"Bachelor's Degree",Male,Rent,Dial-Up,Divorced,1,1,1,2,1,Never,Rarely,DVD,Monthly,Weekly,897420,Monthly,Never,Cable,Me,35
+40,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,2,Never,Rarely,VHS,Weekly,Weekly,911819,Rarely,Weekly,Cable,Me,36
+32,"Master's Degree",Male,Own,DSL,Married,1,2,2,2,2,Weekly,Rarely,DVD,Monthly,Monthly,916603,Monthly,Monthly,"Digital Satellite",Me,37
+31,"Master's Degree",Male,Own,"Cable Modem",Married,4,5,2,3,2,Rarely,Rarely,DVD,Monthly,Monthly,916624,Rarely,Weekly,Cable,Me,37
+30,"Bachelor's Degree",Male,Own,Dial-Up,Married,1.5,3,2,3,1,Never,Rarely,VHS,Never,Rarely,916646,Rarely,Rarely,"Analog antennae",Children,37
+34,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,4,2,4,3,Monthly,Monthly,DVD,Rarely,Daily,916666,Monthly,Never,"Digital Satellite",Spouse/Partner,37
+42,"Master's Degree",Male,Own,Dial-Up,Married,3,5,2,5,3,Never,Monthly,DVD,Weekly,Weekly,917497,Monthly,Monthly,"Analog antennae",Me,38
+32,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,1,3,Rarely,Monthly,DVD,Weekly,Weekly,917506,Monthly,Rarely,Cable,Me,38
+27,"Some College",Male,Own,"Cable Modem",Married,2.5,3,2,1,3,Rarely,Weekly,DVD,Weekly,Weekly,917528,Weekly,Daily,"Digital Satellite",Me,38
+38,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,5,2,2,5,Never,Rarely,DVD,Monthly,Monthly,917544,Rarely,Monthly,Cable,Me,38
+33,"Master's Degree",Male,Rent,DSL,Married,2,2,1,2,1,Never,Never,DVD,Weekly,Weekly,917560,Rarely,Monthly,"Analog antennae",Spouse/Partner,38
+40,"Bachelor's Degree",Male,Own,DSL,Married,2,3,2,1,1,Never,Rarely,DVD,Weekly,Weekly,917564,Rarely,Weekly,Cable,Spouse/Partner,38
+37,"Bachelor's Degree",Female,Own,Dial-Up,Married,2,3,2,1,1,Never,Rarely,VHS,Weekly,Weekly,914554,Rarely,Rarely,"Analog antennae",Spouse/Partner,39
+37,"Some College",Male,Own,DSL,Married,2,4,2,1,2,Never,Monthly,DVD,Weekly,Weekly,914560,Rarely,Never,Cable,Me,39
+32,"Bachelor's Degree",Female,Own,DSL,Married,2.5,3,3,1,3,Never,Never,VHS,Monthly,Monthly,914586,Rarely,Weekly,Cable,Spouse/Partner,39
+42,"Some College",Male,Own,"Cable Modem",Married,2.5,4,2,2,4,Rarely,Monthly,DVD,Weekly,Weekly,923761,Monthly,Rarely,Cable,Spouse/Partner,40
+40,"Bachelor's Degree",Female,Own,DSL,Married,1,4,6,3,6,Never,Weekly,DVD,Monthly,Weekly,914709,Monthly,Weekly,Cable,Me,41
+35,"Master's Degree",Female,Own,Dial-Up,Married,2,5,2,3,2,Never,Monthly,DVD,Monthly,Monthly,914687,Rarely,Rarely,"Don't watch TV",Spouse/Partner,41
+40,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,4,3,2,4,Monthly,Monthly,DVD,Weekly,Weekly,914678,Monthly,Weekly,Cable,Me,41
+50,"Associate's Degree",Male,Own,Dial-Up,Married,2.5,3,6,3,5,Never,Rarely,DVD,Rarely,Rarely,889674,Rarely,Rarely,Cable,Spouse/Partner,42
+39,"Master's Degree",Male,Own,DSL,Married,1.5,5,2,2,2,Rarely,Rarely,VHS,Monthly,Monthly,889687,Rarely,Weekly,Cable,Other,42
+42,"Bachelor's Degree",Male,Own,DSL,Divorced,2,3,1,2,1,Never,Monthly,DVD,Monthly,Weekly,889693,Monthly,Weekly,Cable,Me,42
+48,Doctorate,Female,Own,"Cable Modem",Separated,1,2,2,1,2,Never,Rarely,DVD,Daily,Daily,889701,Rarely,Rarely,Cable,Me,42
+34,"Master's Degree",Male,Own,Dial-Up,Married,1.5,3,2,1,1,Never,Rarely,DVD,Monthly,Monthly,889713,Rarely,Rarely,"Digital Satellite",Me,42
+50,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,2,3,1,2,Rarely,Monthly,DVD,Weekly,Weekly,889715,Weekly,Daily,Cable,Other,42
+22,"Associate's Degree",Female,Rent,"Cable Modem",Married,3,3,2,1,3,Monthly,Rarely,DVD,Weekly,Weekly,889721,Rarely,Monthly,Cable,Me,42
+39,"Master's Degree",Male,Own,DSL,Married,4,4,3,2,3,Rarely,Monthly,DVD,Monthly,Monthly,888829,Monthly,Weekly,"Digital Satellite",Me,43
+39,"Master's Degree",Female,Own,"Cable Modem",Married,2.5,4,2,1,4,Never,Monthly,DVD,Rarely,Daily,888831,Rarely,Rarely,Cable,Children,43
+37,"Bachelor's Degree",Male,Own,DSL,Married,1.5,2,2,1,1,Never,Rarely,DVD,Weekly,Weekly,888844,Monthly,Rarely,"Don't watch TV",Spouse/Partner,43
+42,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3.5,3,2,1,3,Never,Rarely,DVD,Monthly,Monthly,888863,Monthly,Monthly,Cable,Spouse/Partner,43
+33,"Bachelor's Degree",Male,Own,Dial-Up,Married,3,4,2,2,2,Never,Rarely,DVD,Monthly,Monthly,888865,Monthly,Monthly,Cable,Me,43
+33,"Some College",Male,Rent,DSL,Divorced,1,1,1,1,2,Rarely,Monthly,DVD,Rarely,Weekly,888868,Monthly,Rarely,Cable,Me,43
+37,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,2,2,2,Rarely,Monthly,DVD,Monthly,Weekly,891333,Monthly,Rarely,Cable,Spouse/Partner,44
+38,"Master's Degree",Male,Own,DSL,Married,3,5,3,3,3,Never,Rarely,VHS,Weekly,Weekly,891335,Rarely,Monthly,Cable,Spouse/Partner,44
+41,"Bachelor's Degree",Female,Own,"Cable Modem",Married,2.5,4,2,2,2,Never,Monthly,DVD,Weekly,Weekly,891321,Rarely,Monthly,Cable,Children,44
+36,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,4,2,3,2,Never,Monthly,DVD,Weekly,Weekly,891296,Weekly,Rarely,"Analog antennae",Spouse/Partner,44
+36,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,1,2,Monthly,Rarely,VHS,Monthly,Monthly,891283,Monthly,Monthly,Cable,Spouse/Partner,44
+49,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,1,3,Weekly,Rarely,DVD,Weekly,Weekly,906712,Monthly,Monthly,Cable,Me,45
+44,"Master's Degree",Male,Own,Dial-Up,Married,2.5,4,2,3,5,Never,Monthly,DVD,Rarely,Weekly,906758,Monthly,Weekly,Cable,Me,45
+46,Post-Doc,Male,Own,DSL,Married,2.5,3,2,1,1,Never,Monthly,DVD,Weekly,Weekly,906768,Monthly,Rarely,Cable,Me,45
+42,"High School",Female,Own,DSL,Other,2.5,3,2,1,2,Never,Rarely,DVD,Monthly,Monthly,906796,Monthly,Never,Cable,Me,45
+45,"Bachelor's Degree",Male,Own,DSL,Divorced,3.5,5,1,2,3,Never,Rarely,DVD,Monthly,Monthly,886888,Monthly,Monthly,Cable,Me,46
+41,Doctorate,Female,Own,DSL,Married,2,3,2,2,1,Never,Monthly,DVD,Monthly,Monthly,886898,Rarely,Never,"Don't watch TV",Spouse/Partner,46
+46,"Some College",Male,Own,"Cable Modem",Married,2,3,3,3,2,Never,Rarely,VHS,Weekly,Weekly,886938,Rarely,Monthly,Cable,Me,46
+38,"Associate's Degree",Male,Own,DSL,Married,2,3,2,2,2,Never,Monthly,VHS,Weekly,Daily,887015,Rarely,Rarely,Cable,Children,46
+33,"Master's Degree",Male,Rent,"Cable Modem",Married,1,2,1,1,1,Never,Rarely,DVD,Monthly,Monthly,882747,Rarely,Weekly,Cable,Me,47
+36,"Master's Degree",Male,Own,Dial-Up,Married,2.5,3,1,1,2,Never,Rarely,VHS,Monthly,Monthly,882752,Rarely,Weekly,"Digital Satellite",Me,47
+39,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,4,5,2,4,Never,Rarely,DVD,Monthly,Monthly,882756,Rarely,Never,"Analog antennae",Me,47
+35,"Bachelor's Degree",Male,Own,DSL,Married,2,3,2,2,2,Never,Monthly,DVD,Rarely,Weekly,882763,Rarely,Weekly,Cable,Me,47
+36,Doctorate,Male,Own,"Cable Modem",Married,2.5,3,2,2,1,Never,Monthly,DVD,Monthly,Monthly,882768,Rarely,Rarely,"Digital Satellite",Me,47
+45,"Master's Degree",Male,Own,"Cable Modem",Married,3,4,3,2,2,Never,Rarely,DVD,Weekly,Weekly,882775,Rarely,Rarely,Cable,Spouse/Partner,47
+52,Doctorate,Male,Own,Dial-Up,Married,4,4,2,2,4,Never,Rarely,DVD,Monthly,Monthly,882793,Rarely,Monthly,"Digital Satellite",Other,47
+29,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,1,2,Never,Rarely,DVD,Rarely,Monthly,882796,Rarely,Monthly,Cable,Me,47
+39,"Bachelor's Degree",Male,Own,DSL,Married,2,4,2,3,2,Never,Rarely,DVD,Weekly,Weekly,882801,Monthly,Weekly,Cable,Spouse/Partner,47
+37,"Some College",Female,Own,"Cable Modem",Married,2,4,2,2,3,Monthly,Rarely,DVD,Monthly,Monthly,917052,Monthly,Monthly,Cable,Me,48
+43,"Bachelor's Degree",Female,Own,Dial-Up,Married,3.5,4,4,2,6,Never,Rarely,DVD,Monthly,Monthly,917058,Rarely,Monthly,Cable,Me,48
+42,"Some College",Female,Rent,"Cable Modem",Married,3,5,1,3,5,Rarely,Monthly,DVD,Rarely,Weekly,917066,Monthly,Weekly,Cable,Me,48
+39,"Master's Degree",Male,Own,"Cable Modem",Married,3,4,2,2,6,Never,Rarely,DVD,Weekly,Weekly,917072,Monthly,Weekly,Cable,Spouse/Partner,48
+37,"Bachelor's Degree",Male,Own,Dial-Up,Married,3.5,4,2,3,4,Never,Monthly,DVD,Monthly,Monthly,917073,Monthly,Daily,"Digital Satellite",Children,48
+34,"Master's Degree",Male,Own,DSL,Married,2,3,2,3,1,Monthly,Rarely,DVD,Weekly,Weekly,917076,Monthly,Monthly,"Digital Satellite",Me,48
+35,Post-Doc,Male,Own,"Cable Modem",Married,2.5,3,2,3,2,Never,Rarely,DVD,Weekly,Weekly,917085,Rarely,Rarely,Cable,Spouse/Partner,48
+26,"Some College",Male,Own,Dial-Up,Married,2,3,1,1,1,Never,Rarely,DVD,Weekly,Weekly,917098,Rarely,Never,"Don't watch TV",Me,48
+35,"Master's Degree",Female,Own,"Cable Modem",Married,1,3,2,2,2,Never,Rarely,VHS,Monthly,Monthly,917107,Rarely,Rarely,"Analog antennae",Me,48
+35,"Bachelor's Degree",Male,Own,DSL,Married,2,3,2,3,2,Never,Rarely,DVD,Monthly,Weekly,917109,Weekly,Weekly,"Analog antennae",Me,48
+37,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,2,2,Never,Monthly,DVD,Monthly,Weekly,918396,Rarely,Weekly,Cable,Me,49
+28,"Associate's Degree",Male,Own,"Cable Modem",Married,3,3,1,1,2,Never,Rarely,DVD,Monthly,Weekly,918398,Monthly,Weekly,Cable,Me,49
+52,"Master's Degree",Male,Own,DSL,Divorced,2,3,2,2,4,Never,Weekly,DVD,Weekly,Daily,918418,Weekly,Weekly,Cable,Children,49
+29,"Some College",Male,Rent,DSL,"Never Married",2,3,2,1,1,Never,Monthly,DVD,Monthly,Weekly,918429,Monthly,Rarely,"Don't watch TV",Me,49
+32,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,4,Rarely,Monthly,DVD,Weekly,Weekly,918431,Rarely,Monthly,Cable,Me,49
+39,"Master's Degree",Male,Own,"Cable Modem",Married,4,4,3,2,5,Rarely,Monthly,DVD,Monthly,Weekly,918441,Rarely,Weekly,Cable,Me,49
+31,"Master's Degree",Male,Own,Dial-Up,Married,2.5,4,2,4,1,Rarely,Rarely,DVD,Weekly,Weekly,918445,Monthly,Daily,"Digital Satellite",Me,49
+35,"Some College",Male,Rent,DSL,Married,1.5,2,2,2,1,Never,Rarely,VHS,Monthly,Monthly,918451,Rarely,Monthly,"Analog antennae",Spouse/Partner,49
+43,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,3,3,2,Never,Rarely,DVD,Monthly,Monthly,918456,Rarely,Monthly,Cable,Spouse/Partner,49
+46,"Master's Degree",Male,Own,"Cable Modem",Married,3,5,3,2,4,Daily,Rarely,DVD,Monthly,Monthly,912855,Rarely,Weekly,Cable,Me,50
+35,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,3,3,Never,Rarely,DVD,Monthly,Weekly,912856,Rarely,Rarely,Cable,Spouse/Partner,50
+45,"Bachelor's Degree",Female,Own,"No Internet Connection",Married,3,4,5,2,4,Rarely,Monthly,DVD,Monthly,Weekly,912895,Monthly,Weekly,Cable,Spouse/Partner,50
+33,"Bachelor's Degree",Male,Own,Dial-Up,Married,3,4,2,2,3,Rarely,Rarely,DVD,Monthly,Monthly,912908,Rarely,Rarely,Cable,Me,50
+32,"Master's Degree",Female,Own,"Cable Modem",Married,2.5,3,2,2,2,Never,Monthly,DVD,Monthly,Daily,912911,Monthly,Monthly,"Analog Satellite",Me,50
+31,"Bachelor's Degree",Male,Own,DSL,Married,2,4,2,2,3,Never,Rarely,DVD,Monthly,Monthly,912934,Rarely,Never,Cable,Spouse/Partner,50
+28,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,1,2,Monthly,Monthly,VHS,Monthly,Rarely,912938,Monthly,Weekly,Cable,Me,50
+41,Doctorate,Male,Own,Dial-Up,Married,3.5,5,2,3,3,Never,Rarely,DVD,Monthly,Monthly,912944,Monthly,Weekly,Cable,Spouse/Partner,50
+37,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,4,2,Monthly,Monthly,DVD,Rarely,Weekly,912953,Weekly,Daily,"Digital Satellite",Me,50
+52,"Bachelor's Degree",Male,Rent,Dial-Up,Married,3,3,1,2,2,Never,Rarely,"Video CD",Monthly,Weekly,912970,Rarely,Weekly,"Digital Satellite",Me,50
+26,"Bachelor's Degree",Male,Rent,DSL,Married,1.5,2,1,1,2,Rarely,Rarely,DVD,Monthly,Monthly,890098,Monthly,Weekly,Cable,Me,51
+29,"Master's Degree",Male,Rent,IDSN,Married,1,2,1,1,1,Never,Rarely,DVD,Rarely,Rarely,890100,Monthly,Weekly,Cable,Me,51
+35,"Bachelor's Degree",Male,Own,DSL,Married,2.5,5,2,1,1,Weekly,Rarely,DVD,Weekly,Daily,890107,Monthly,Daily,Cable,Me,51
+40,"Some College",Male,Own,"Cable Modem",Married,1,3,3,2,1,Rarely,Monthly,DVD,Monthly,Weekly,890111,Rarely,Monthly,Cable,Me,51
+43,"Master's Degree",Male,Own,Dial-Up,Married,2.5,3,2,2,1,Never,Monthly,VHS,Weekly,Weekly,890119,Monthly,Never,"Don't watch TV",Spouse/Partner,51
+27,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,3,2,3,2,Never,Monthly,DVD,Weekly,Weekly,890122,Monthly,Daily,"Digital Satellite",Me,51
+33,"Some College",Male,Rent,"Cable Modem",Married,1.5,3,2,2,2,Never,Monthly,DVD,Never,Monthly,890131,Rarely,Never,Cable,Me,51
+36,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,3,4,Rarely,Rarely,DVD,Monthly,Weekly,882564,Rarely,Weekly,Cable,Me,52
+48,"Bachelor's Degree",Female,Own,Dial-Up,Married,4,4,3,2,5,Never,Monthly,DVD,Weekly,Weekly,882578,Rarely,Rarely,"Analog antennae",Children,52
+37,"Some College",Male,Own,"Cable Modem","Never Married",2.5,3,1,1,2,Rarely,Never,DVD,Never,Monthly,882583,Rarely,Rarely,"Digital Satellite",Me,52
+36,"Bachelor's Degree",Female,Own,Dial-Up,Married,2,3,3,2,5,Never,Rarely,VHS,Monthly,Monthly,882587,Rarely,Never,"Analog antennae",Children,52
+47,"Master's Degree",Female,Own,"Cable Modem",Other,2.5,5,1,2,1,Rarely,Monthly,DVD,Never,Weekly,882591,Monthly,Monthly,"Digital Satellite",Me,52
+32,"Bachelor's Degree",Female,Own,Dial-Up,Married,3,5,2,2,3,Rarely,Monthly,VHS,Never,Weekly,882593,Rarely,Monthly,"Digital Satellite",Spouse/Partner,52
+28,"Some College",Male,Own,DSL,Married,2.5,5,3,2,3,Never,Monthly,DVD,Weekly,Daily,882599,Rarely,Monthly,"Don't watch TV",Children,52
+37,Post-Doc,Male,Own,"Cable Modem",Married,1.5,3,2,2,2,Never,Weekly,DVD,Monthly,Weekly,882602,Rarely,Monthly,"Analog antennae",Me,52
+34,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,1,3,Rarely,Monthly,DVD,Weekly,Weekly,882608,Monthly,Monthly,"Digital Satellite",Me,52
+40,"Some College",Male,Own,Dial-Up,Married,3,4,2,3,2,Never,Monthly,DVD,Never,Weekly,882609,Rarely,Rarely,"Digital Satellite",Spouse/Partner,52
+45,"Bachelor's Degree",Female,Own,DSL,Divorced,3,3,2,2,2,Never,Monthly,DVD,Weekly,Weekly,889119,Monthly,Daily,Cable,Me,53
+48,"Master's Degree",Male,Own,"Cable Modem",Married,5,5,2,2,4,Rarely,Rarely,DVD,Weekly,Weekly,889123,Rarely,Monthly,Cable,Me,53
+54,Doctorate,Male,Own,DSL,Married,2.5,3,2,1,2,Never,Rarely,DVD,Monthly,Monthly,889134,Rarely,Never,"Analog antennae",Spouse/Partner,53
+31,"Bachelor's Degree",Male,Own,DSL,Married,2,3,2,1,2,Rarely,Monthly,DVD,Never,Monthly,889135,Rarely,Weekly,"Digital Satellite",Spouse/Partner,53
+35,"Bachelor's Degree",Female,Own,DSL,Married,2.5,4,2,1,2,Never,Rarely,DVD,Weekly,Weekly,889146,Rarely,Never,"Digital Satellite",Other,53
+32,"Associate's Degree",Female,Own,"Cable Modem",Married,3.5,4,2,1,3,Weekly,Rarely,VHS,Weekly,Monthly,889152,Monthly,Daily,Cable,Me,53
+47,"Master's Degree",Male,Own,"Cable Modem",Married,3,5,2,2,4,Rarely,Rarely,VHS,Weekly,Weekly,889155,Monthly,Weekly,Cable,Spouse/Partner,53
+29,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,3,2,2,4,Rarely,Rarely,VHS,Monthly,Monthly,889159,Rarely,Weekly,"Digital Satellite",Me,53
+35,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,4,2,2,3,Rarely,Monthly,DVD,Monthly,Weekly,889162,Monthly,Weekly,"Digital Satellite",Me,53
+40,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3.5,4,2,1,4,Rarely,Rarely,DVD,Weekly,Weekly,889164,Monthly,Weekly,Cable,Spouse/Partner,53
+37,"Bachelor's Degree",Male,Own,DSL,Married,3,4,3,2,3,Rarely,Weekly,DVD,Rarely,Daily,889165,Rarely,Daily,Cable,Children,53
+46,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,3,2,Rarely,Rarely,VHS,Weekly,Weekly,889167,Rarely,Weekly,Cable,Me,53
+44,"Bachelor's Degree",Male,Rent,"No Internet Connection",Married,3,4,2,5,4,Rarely,Monthly,DVD,Monthly,Monthly,889173,Monthly,Never,Cable,Children,53
+26,"Associate's Degree",Male,Rent,Dial-Up,Married,1.5,2,2,1,1,Never,Rarely,DVD,Monthly,Monthly,890841,Rarely,Rarely,"Analog antennae",Spouse/Partner,54
+41,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,3,2,3,Never,Monthly,DVD,Weekly,Weekly,890870,Rarely,Weekly,Cable,Me,54
+36,"Bachelor's Degree",Female,Own,DSL,Married,2.5,4,3,4,4,Monthly,Monthly,DVD,Monthly,Monthly,890881,Monthly,Monthly,"Digital Satellite",Children,54
+42,"Trade School",Male,Own,DSL,Married,1.5,4,3,2,5,Never,Monthly,DVD,Weekly,Weekly,890883,Monthly,Weekly,Cable,Spouse/Partner,54
+42,"Master's Degree",Male,Own,DSL,Married,4,3,2,1,3,Never,Monthly,VHS,Monthly,Weekly,890892,Monthly,Rarely,Cable,Spouse/Partner,54
+28,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,1,2,Never,Rarely,DVD,Monthly,Monthly,890896,Rarely,Monthly,Cable,Me,54
+40,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,4,3,3,Never,Rarely,DVD,Weekly,Weekly,890912,Rarely,Weekly,Cable,Me,54
+27,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,3,2,1,2,Never,Rarely,DVD,Monthly,Monthly,890918,Weekly,Weekly,Cable,Me,54
+36,Doctorate,Male,Own,"Cable Modem",Married,3,4,1,2,3,Monthly,Rarely,DVD,Monthly,Monthly,890920,Monthly,Rarely,"Digital Satellite",Children,54
+51,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,4,2,2,2,Never,Rarely,DVD,Daily,Weekly,890930,Monthly,Weekly,Cable,Me,54
+56,"Bachelor's Degree",Male,Rent,Dial-Up,Married,2.5,4,2,4,1,Never,Never,VHS,Rarely,Rarely,890951,Weekly,Never,"Don't watch TV",Me,54
+34,"Bachelor's Degree",Male,Own,Dial-Up,Married,3,4,2,3,5,Rarely,Rarely,DVD,Monthly,Monthly,893702,Rarely,Weekly,Cable,Me,55
+32,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,1,4,Never,Monthly,DVD,Rarely,Daily,893745,Rarely,Daily,"Digital Satellite",Me,55
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,4.5,5,2,2,5,Rarely,Monthly,DVD,Monthly,Monthly,893794,Rarely,Weekly,"Digital Satellite",Spouse/Partner,55
+47,"Master's Degree",Male,Own,"Cable Modem",Married,2,3,3,2,3,Monthly,Weekly,DVD,Rarely,Weekly,886081,Monthly,Rarely,"Digital Satellite",Spouse/Partner,56
+35,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,1,1,2,Never,Rarely,DVD,Weekly,Weekly,886169,Rarely,Weekly,Cable,Spouse/Partner,56
+34,"Associate's Degree",Male,Own,DSL,Married,2.5,4,2,3,6,Rarely,Monthly,DVD,Monthly,Weekly,886455,Rarely,Rarely,Cable,Children,57
+30,"Bachelor's Degree",Male,Own,"Cable Modem",Married,4,4,2,1,5,Never,Never,DVD,Monthly,Monthly,890541,Monthly,Monthly,Cable,Me,58
+35,"High School",Male,Rent,DSL,Separated,1,3,1,1,2,Never,Monthly,DVD,Rarely,Monthly,890520,Monthly,Never,"Analog antennae",Spouse/Partner,58
+51,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,5,2,2,4,Rarely,Monthly,DVD,Weekly,Weekly,890514,Rarely,Weekly,Cable,Me,58
+31,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,4,2,2,3,Never,Monthly,DVD,Monthly,Weekly,890687,Rarely,Weekly,"Analog antennae",Me,59
+36,"High School",Male,Own,DSL,Married,1.5,3,2,2,4,Never,Rarely,DVD,Rarely,Monthly,890698,Monthly,Daily,Cable,Spouse/Partner,59
+34,"Bachelor's Degree",Male,Rent,"Cable Modem",Married,3,3,1,2,2,Rarely,Monthly,DVD,Weekly,Weekly,890706,Monthly,Weekly,Cable,Me,59
+40,"Some College",Male,Own,"Cable Modem",Married,2.5,4,2,2,4,Never,Rarely,DVD,Weekly,Weekly,890719,Monthly,Weekly,Cable,Spouse/Partner,59
+39,"Bachelor's Degree",Female,Own,"Cable Modem",Married,2,4,2,2,3,Never,Rarely,VHS,Weekly,Weekly,890727,Rarely,Monthly,"Analog antennae",Children,59
+37,"Bachelor's Degree",Male,Own,Dial-Up,Married,1.5,3,2,2,1,Never,Rarely,VHS,Monthly,Monthly,916335,Rarely,Rarely,Cable,Spouse/Partner,60
+33,"Master's Degree",Male,Own,"Cable Modem",Married,1.5,3,3,2,2,Never,Rarely,DVD,Rarely,Weekly,916359,Rarely,Never,"Don't watch TV",Me,60
+36,"Bachelor's Degree",Female,Own,Dial-Up,Married,4,4,4,2,3,Rarely,Rarely,DVD,Monthly,Monthly,884766,Rarely,Rarely,Cable,Spouse/Partner,61
+29,"Bachelor's Degree",Male,Own,"Cable Modem",Married,1,3,2,1,3,Never,Monthly,DVD,Monthly,Weekly,884804,Rarely,Weekly,Cable,Me,61
+38,Post-Doc,Male,Own,Dial-Up,Married,2,3,4,1,2,Weekly,Rarely,DVD,Monthly,Monthly,892922,Monthly,Monthly,"Digital Satellite",Me,62
+36,"Master's Degree",Male,Rent,"Cable Modem",Married,1.5,4,2,1,2,Never,Rarely,DVD,Weekly,Weekly,892979,Weekly,Weekly,"Digital Satellite",Spouse/Partner,62
+43,"Bachelor's Degree",Male,Own,DSL,Married,3,4,4,2,5,Never,Rarely,VHS,Rarely,Monthly,892993,Rarely,Weekly,Cable,Me,62
+34,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,4,2,1,3,Monthly,Rarely,DVD,Monthly,Monthly,893014,Rarely,Weekly,"Digital Satellite",Other,62
+31,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,2,5,Rarely,Weekly,DVD,Rarely,Weekly,893016,Rarely,Rarely,"Digital Satellite",Me,62
+36,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,3,2,2,3,Rarely,Rarely,VHS,Weekly,Weekly,893037,Weekly,Weekly,"Digital Satellite",Children,62
+45,"Some College",Male,Own,DSL,Divorced,2.5,3,3,2,1,Never,Weekly,DVD,Never,Daily,898021,Weekly,Weekly,"Digital Satellite",Children,63
+34,"Master's Degree",Male,Own,"Cable Modem",Married,5,7,2,2,7,Never,Rarely,DVD,Weekly,Weekly,918475,Weekly,Rarely,"Digital Satellite",Me,64
+25,"High School",Male,Own,"Cable Modem",Married,2.5,4,2,2,3,Never,Monthly,DVD,Weekly,Daily,918476,Monthly,Weekly,Cable,Me,64
+46,"Master's Degree",Male,Own,"Cable Modem",Married,3,3,3,4,6,Never,Rarely,DVD,Weekly,Weekly,918515,Rarely,Monthly,Cable,Me,64
+33,Doctorate,Male,Own,"Cable Modem",Married,3,3,2,1,1,Never,Monthly,DVD,Monthly,Weekly,918556,Rarely,Daily,Cable,Spouse/Partner,64
+35,"Some College",Male,Own,"Cable Modem",Married,2.5,4,2,2,5,Rarely,Monthly,DVD,Weekly,Weekly,913393,Monthly,Never,"Digital Satellite",Me,65
+43,"High School",Female,Own,Dial-Up,Married,2.5,3,3,2,3,Never,Rarely,DVD,Never,Weekly,913426,Monthly,Never,"Digital Satellite",Me,65
+35,"Bachelor's Degree",Male,Own,"Cable Modem",Married,4.5,4,2,1,3,Never,Monthly,DVD,Weekly,Weekly,913450,Rarely,Monthly,Cable,Me,65
+33,"Some College",Male,Rent,Dial-Up,Separated,2.5,3,2,5,3,Weekly,Weekly,DVD,Weekly,Rarely,913453,Monthly,Daily,"Digital Satellite",Other,65
+33,"Master's Degree",Male,Own,"Cable Modem",Married,4,5,3,1,5,Daily,Daily,DVD,Daily,Daily,917821,Daily,Daily,Cable,Me,66
+48,"Some College",Female,Rent,Dial-Up,Divorced,1,1,1,1,1,Rarely,Rarely,DVD,Monthly,Weekly,917843,Monthly,Daily,"Digital Satellite",Me,66
+40,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,3,3,2,1,Rarely,Rarely,DVD,Monthly,Monthly,917861,Rarely,Rarely,"Digital Satellite",Spouse/Partner,66
+46,"Master's Degree",Male,Own,DSL,Married,4.5,4,2,2,3,Never,Rarely,DVD,Monthly,Monthly,917862,Monthly,Never,"Don't watch TV",Me,66
+35,"Some College",Male,Own,DSL,Married,3.5,4,3,2,3,Never,Monthly,DVD,Monthly,Weekly,917875,Rarely,Rarely,Cable,Me,66
+38,"Bachelor's Degree",Male,Own,DSL,Married,2,4,2,1,3,Never,Weekly,DVD,Rarely,Weekly,906300,Rarely,Weekly,"Digital Satellite",Me,67
+27,"Master's Degree",Male,Own,Dial-Up,Married,2,3,2,2,1,Never,Monthly,DVD,Weekly,Weekly,906332,Monthly,Never,"Don't watch TV",Spouse/Partner,67
+43,"Bachelor's Degree",Female,Own,Dial-Up,Married,2.5,4,2,2,2,Never,Never,DVD,Rarely,Monthly,906335,Weekly,Never,Cable,Me,67
+43,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,2,2,2,Rarely,Monthly,DVD,Weekly,Weekly,906343,Rarely,Weekly,Cable,Spouse/Partner,67
+30,"Some College",Male,Own,DSL,Married,2.5,3,2,2,4,Monthly,Monthly,DVD,Monthly,Weekly,906388,Rarely,Weekly,Cable,Me,67
+30,"Bachelor's Degree",Male,Rent,"Cable Modem",Married,1,3,1,1,1,Rarely,Monthly,DVD,Rarely,Daily,914283,Monthly,Daily,Cable,Me,68
+24,"Bachelor's Degree",Male,Rent,DSL,Married,2,3,2,1,2,Never,Monthly,DVD,Monthly,Monthly,914315,Monthly,Never,Cable,Spouse/Partner,68
+41,"Master's Degree",Male,Own,DSL,Married,2.5,3,2,2,2,Rarely,Rarely,DVD,Rarely,Rarely,914342,Monthly,Weekly,Cable,Children,68
+52,Doctorate,Male,Own,Dial-Up,Married,2.5,4,3,2,4,Never,Monthly,DVD,Weekly,Weekly,914352,Monthly,Rarely,"Analog antennae",Me,68
+43,"Bachelor's Degree",Male,Own,DSL,Married,5,6,3,3,7,Rarely,Monthly,DVD,Weekly,Weekly,914386,Monthly,Daily,Cable,Spouse/Partner,68
+35,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,4,2,3,3,Never,Monthly,DVD,Monthly,Monthly,890153,Rarely,Monthly,Cable,Children,69
+28,"Some College",Male,Rent,"Cable Modem",Married,2,3,1,1,1,Rarely,Monthly,DVD,Monthly,Monthly,890156,Monthly,Weekly,Cable,Me,69
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,1,3,Rarely,Rarely,DVD,Weekly,Weekly,890178,Rarely,Monthly,Cable,Me,69
+31,"High School",Male,Own,Dial-Up,Married,3,3,2,3,2,Never,Rarely,DVD,Monthly,Monthly,892062,Rarely,Monthly,"Analog antennae",Me,70
+39,"Associate's Degree",Male,Own,Dial-Up,Married,2,3,2,2,2,Rarely,Rarely,VHS,Weekly,Weekly,892070,Rarely,Monthly,Cable,Spouse/Partner,70
+34,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,4,2,Never,Rarely,DVD,Monthly,Monthly,892078,Rarely,Never,"Analog antennae",Children,70
+38,"Master's Degree",Female,Own,"Cable Modem",Married,2.5,4,3,2,4,Rarely,Rarely,DVD,Rarely,Rarely,892081,Rarely,Rarely,"Digital Satellite",Me,70
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,3,3,1,2,Rarely,Rarely,DVD,Monthly,Monthly,915704,Monthly,Monthly,Cable,Me,71
+35,"Master's Degree",Male,Own,DSL,Separated,2.5,3,1,1,2,Monthly,Rarely,DVD,Monthly,Weekly,915747,Monthly,Monthly,Cable,Me,71
+31,"Bachelor's Degree",Male,Own,DSL,Married,2,4,2,3,3,Never,Rarely,DVD,Weekly,Weekly,915750,Rarely,Never,Cable,Me,71
+40,"Bachelor's Degree",Male,Own,DSL,Married,3.5,5,5,6,4,Never,Monthly,DVD,Monthly,Monthly,882364,Rarely,Never,Cable,Me,72
+38,"Bachelor's Degree",Male,Own,DSL,Married,2.5,5,2,5,3,Never,Monthly,DVD,Weekly,Weekly,882367,Monthly,Weekly,"Digital Satellite",Me,72
+38,"Some College",Male,Own,"Cable Modem",Married,3,5,2,4,4,Rarely,Monthly,DVD,Monthly,Weekly,882368,Rarely,Daily,Cable,Me,72
+33,"Master's Degree",Male,Own,DSL,Married,2.5,3,2,1,2,Weekly,Never,DVD,Weekly,Weekly,882372,Monthly,Rarely,Cable,Me,72
+41,"Master's Degree",Male,Own,DSL,Married,2.5,4,3,2,6,Rarely,Rarely,DVD,Weekly,Weekly,882382,Rarely,Rarely,Cable,Spouse/Partner,72
+45,Doctorate,Male,Own,DSL,Married,3.5,4,2,1,2,Never,Rarely,DVD,Monthly,Monthly,882383,Monthly,Rarely,Cable,Children,72
+28,"Master's Degree",Male,Own,Dial-Up,Married,2,2,2,1,2,Never,Monthly,DVD,Weekly,Weekly,890741,Monthly,Rarely,"Analog antennae",Spouse/Partner,73
+50,"Bachelor's Degree",Female,Own,"Cable Modem",Divorced,3,3,2,1,5,Never,Monthly,DVD,Weekly,Weekly,890745,Monthly,Never,Cable,Me,73
+29,"Bachelor's Degree",Female,Own,"Cable Modem",Married,2,4,2,1,2,Rarely,Monthly,DVD,Monthly,Weekly,890758,Monthly,Rarely,Cable,Spouse/Partner,73
+31,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,2,2,Rarely,Rarely,DVD,Monthly,Monthly,890777,Monthly,Weekly,Cable,Me,73
+42,"Bachelor's Degree",Male,Own,IDSN,Married,2.5,4,4,4,8,Monthly,Weekly,DVD,Never,Weekly,890783,Monthly,Daily,"Digital Satellite",Me,73
+43,"Master's Degree",Female,Own,DSL,Married,3,4,3,1,2,Never,Rarely,DVD,Rarely,Rarely,889912,Rarely,Never,Cable,Spouse/Partner,74
+34,"Some College",Male,Rent,DSL,Married,3,4,2,4,3,Rarely,Monthly,DVD,Monthly,Weekly,889915,Monthly,Rarely,Cable,Me,74
+32,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,3,1,3,Rarely,Monthly,DVD,Rarely,Monthly,889918,Rarely,Rarely,"Digital Satellite",Me,74
+37,"Bachelor's Degree",Female,Own,"Cable Modem",Married,2,3,2,2,3,Never,Monthly,DVD,Weekly,Daily,889926,Weekly,Monthly,"Analog antennae",Spouse/Partner,74
+32,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,1,2,Never,Monthly,DVD,Rarely,Weekly,889931,Rarely,Daily,"Digital Satellite",Me,74
+31,Doctorate,Male,Own,DSL,Married,2.5,3,2,1,1,Never,Rarely,VHS,Weekly,Weekly,889938,Rarely,Weekly,Cable,Me,74
+54,"Some College",Female,Own,"Cable Modem",Married,2.5,3,3,1,5,Rarely,Rarely,DVD,Monthly,Monthly,889950,Monthly,Rarely,Cable,Spouse/Partner,74
+48,"Bachelor's Degree",Male,Own,Dial-Up,Married,3.5,4,2,3,2,Never,Weekly,DVD,Never,Weekly,882674,Rarely,Never,Cable,Me,75
+42,"Some College",Male,Own,"Cable Modem",Married,2,3,3,2,3,Never,Rarely,DVD,Rarely,Rarely,882699,Rarely,Rarely,Cable,Me,75
+35,"Master's Degree",Male,Own,DSL,Married,2,5,3,2,2,Never,Rarely,VHS,Weekly,Weekly,882700,Monthly,Never,"Analog antennae",Me,75
+36,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,4,2,2,2,Never,Rarely,DVD,Weekly,Weekly,882705,Monthly,Weekly,Cable,Spouse/Partner,75
+43,"Bachelor's Degree",Female,Own,Dial-Up,Divorced,2.5,3,2,2,3,Rarely,Rarely,VHS,Weekly,Weekly,882715,Monthly,Weekly,Cable,Me,75
+32,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,2,Monthly,Rarely,DVD,Monthly,Monthly,882729,Monthly,Rarely,Cable,Me,75
+45,"Associate's Degree",Male,Own,DSL,Married,2.5,4,2,2,3,Rarely,Monthly,DVD,Weekly,Weekly,888787,Monthly,Rarely,"Digital Satellite",Me,76
+35,"Bachelor's Degree",Male,Own,Dial-Up,Married,3,5,2,3,3,Rarely,Monthly,DVD,Weekly,Weekly,888788,Monthly,Rarely,Cable,Me,76
+38,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3.5,4,2,3,3,Never,Monthly,DVD,Monthly,Weekly,888807,Monthly,Rarely,Cable,Spouse/Partner,76
+42,"Grade School",Female,Rent,Dial-Up,Married,1,2,1,1,2,Never,Rarely,VHS,Monthly,Monthly,888815,Rarely,Monthly,Cable,Other,76
+39,"Bachelor's Degree",Male,Own,DSL,Married,3,5,4,3,5,Monthly,Weekly,DVD,Never,Weekly,888823,Rarely,Rarely,Cable,Me,76
+34,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,4,2,1,2,Rarely,Monthly,DVD,Weekly,Weekly,883979,Rarely,Weekly,Cable,Me,77
+50,"Some College",Female,Own,DSL,Divorced,2,2,1,1,2,Weekly,Rarely,DVD,Monthly,Weekly,884001,Weekly,Weekly,"Digital Satellite",Me,77
+28,"Some College",Male,Rent,DSL,Married,1.5,2,2,1,1,Never,Rarely,DVD,Monthly,Weekly,896261,Rarely,Rarely,"Analog antennae",Me,78
+39,"Bachelor's Degree",Male,Own,"No Internet Connection",Married,3,5,4,3,3,Never,Rarely,VHS,Monthly,Weekly,881801,Monthly,Weekly,Cable,Me,79
+29,"Bachelor's Degree",Male,Own,DSL,Married,2,3,2,2,5,Rarely,Monthly,DVD,Monthly,Weekly,902997,Rarely,Rarely,Cable,Me,80
+39,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,5,2,3,3,Never,Monthly,DVD,Weekly,Weekly,903084,Rarely,Monthly,Cable,Me,80
+25,"Some College",Male,Own,Dial-Up,Married,1.5,4,2,4,4,Rarely,Rarely,DVD,Weekly,Weekly,903166,Rarely,Weekly,"Analog antennae",Spouse/Partner,80
+35,"Bachelor's Degree",Female,Own,DSL,Married,2.5,4,2,1,5,Rarely,Monthly,DVD,Monthly,Weekly,903175,Rarely,Weekly,Cable,Me,80
+36,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,3,2,2,1,Never,Rarely,DVD,Monthly,Monthly,903201,Rarely,Rarely,Cable,Spouse/Partner,80
+27,"Master's Degree",Male,Rent,DSL,Married,1,2,1,2,1,Rarely,Rarely,DVD,Weekly,Weekly,906908,Rarely,Weekly,Cable,Spouse/Partner,81
+36,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,5,3,2,3,Rarely,Monthly,DVD,Monthly,Monthly,890398,Monthly,Rarely,Cable,Me,82
+31,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,4,2,1,1,Never,Never,VHS,Never,Weekly,890406,Monthly,Monthly,"Analog antennae",Me,82
+38,"Bachelor's Degree",Male,Own,Dial-Up,Married,1,3,4,3,2,Never,Rarely,DVD,Weekly,Weekly,890428,Monthly,Weekly,"Analog antennae",Spouse/Partner,82
+32,"Master's Degree",Male,Own,DSL,Married,2.5,4,2,2,1,Never,Never,VHS,Rarely,Rarely,878821,Rarely,Weekly,Cable,Me,83
+33,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,1,Never,Monthly,DVD,Monthly,Weekly,878842,Rarely,Weekly,Cable,Spouse/Partner,83
+44,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,4,Never,Weekly,DVD,Rarely,Weekly,878855,Weekly,Weekly,Cable,Me,83
+39,"Master's Degree",Male,Own,"Cable Modem",Divorced,3,3,3,2,3,Rarely,Monthly,DVD,Monthly,Weekly,878871,Rarely,Rarely,"Digital Satellite",Me,83
+37,"Some College",Male,Own,DSL,Divorced,2.5,4,4,2,3,Rarely,Rarely,DVD,Monthly,Weekly,913830,Monthly,Weekly,"Digital Satellite",Spouse/Partner,84
+56,Doctorate,Male,Own,"Cable Modem",Married,2.5,4,2,2,2,Never,Monthly,DVD,Weekly,Weekly,913908,Monthly,Daily,Cable,Me,84
+40,"Master's Degree",Male,Own,"No Internet Connection",Married,2.5,4,2,1,2,Never,Monthly,VHS,Rarely,Monthly,889262,Never,Never,Cable,Children,85
+35,"Bachelor's Degree",Male,Own,Other,Married,2.5,4,2,2,2,Monthly,Monthly,DVD,Monthly,Weekly,889268,Monthly,Weekly,"Digital Satellite",Me,85
+34,"Master's Degree",Female,Own,"Cable Modem",Married,2.5,4,2,2,2,Rarely,Rarely,DVD,Monthly,Monthly,889276,Rarely,Rarely,Cable,Me,85
+42,"Bachelor's Degree",Male,Rent,DSL,Married,2.5,4,2,2,2,Monthly,Rarely,VHS,Weekly,Daily,889282,Rarely,Daily,Cable,Me,85
+38,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,4,2,1,5,Rarely,Monthly,DVD,Monthly,Daily,901961,Monthly,Daily,Cable,Me,86
+38,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3.5,4,2,2,2,Never,Monthly,DVD,Rarely,Weekly,902050,Monthly,Weekly,Cable,Children,86
+34,"Master's Degree",Male,Own,"Cable Modem",Married,1.5,3,2,2,2,Never,Monthly,DVD,Weekly,Weekly,883716,Rarely,Monthly,Cable,Spouse/Partner,87
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3.5,5,2,2,4,Monthly,Rarely,Other,Rarely,Monthly,883724,Rarely,Monthly,"Digital Satellite",Me,87
+38,Post-Doc,Female,Own,DSL,Married,2.5,3,2,3,4,Never,Monthly,DVD,Never,Weekly,883739,Monthly,Monthly,Cable,Children,87
+26,"Master's Degree",Female,Own,DSL,Married,2.5,3,1,1,1,Never,Rarely,DVD,Never,Weekly,883753,Monthly,Never,"Don't watch TV",Spouse/Partner,87
+34,Doctorate,Female,Own,"Cable Modem",Married,3.5,4,2,1,4,Never,Monthly,DVD,Monthly,Weekly,883768,Rarely,Weekly,Cable,Spouse/Partner,87
+38,"Bachelor's Degree",Female,Own,"Cable Modem",Married,2.5,4,5,2,4,Rarely,Rarely,DVD,Rarely,Monthly,883773,Rarely,Weekly,Cable,Spouse/Partner,87
+50,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,4,4,3,4,Weekly,Weekly,DVD,Weekly,Weekly,920779,Weekly,Weekly,Cable,Children,88
+34,"Bachelor's Degree",Female,Own,DSL,Married,3,4,3,1,3,Monthly,Monthly,VHS,Monthly,Weekly,916997,Rarely,Rarely,"Digital Satellite",Children,89
+30,"Some College",Male,Own,"Cable Modem",Married,2,3,3,1,2,Monthly,Monthly,DVD,Monthly,Monthly,917005,Monthly,Daily,Cable,Me,89
+33,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,3,2,Never,Monthly,DVD,Monthly,Weekly,917007,Rarely,Weekly,"Digital Satellite",Spouse/Partner,89
+34,"Some College",Male,Rent,Dial-Up,Separated,2,3,1,1,2,Never,Rarely,DVD,Rarely,Rarely,917012,Monthly,Daily,Cable,Me,89
+34,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,1,3,Never,Rarely,DVD,Monthly,Monthly,917037,Weekly,Weekly,Cable,Me,89
+38,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,3,1,5,Rarely,Rarely,DVD,Monthly,Monthly,911950,Rarely,Monthly,"Digital Satellite",Me,90
+26,"Associate's Degree",Male,Own,"Cable Modem",Married,1.5,3,2,2,1,Never,Rarely,DVD,Rarely,Monthly,918192,Rarely,Rarely,"Don't watch TV",Spouse/Partner,91
+52,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,3,Rarely,Rarely,VHS,Monthly,Monthly,918217,Weekly,Weekly,Cable,Spouse/Partner,91
+42,"Bachelor's Degree",Male,Own,"Cable Modem",Married,4.5,5,4,2,5,Rarely,Rarely,DVD,Monthly,Weekly,918224,Monthly,Weekly,Cable,Spouse/Partner,91
+33,"Some College",Male,Own,DSL,Married,3,4,2,2,2,Never,Rarely,DVD,Rarely,Weekly,888090,Rarely,Rarely,Cable,Children,92
+54,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,4,3,2,1,Never,Rarely,VHS,Monthly,Weekly,888101,Rarely,Weekly,"Digital Satellite",Spouse/Partner,92
+26,"Some College",Male,Rent,"Cable Modem",Married,1,2,2,2,2,Rarely,Rarely,VHS,Monthly,Monthly,888104,Rarely,Monthly,Cable,Spouse/Partner,92
+34,"Master's Degree",Male,Own,DSL,Married,2.5,3,1,2,1,Rarely,Monthly,DVD,Monthly,Weekly,888114,Monthly,Daily,Cable,Me,92
+35,"Some College",Male,Own,DSL,Married,2,4,2,1,2,Never,Monthly,DVD,Monthly,Weekly,888119,Monthly,Weekly,Cable,Me,92
+32,"Bachelor's Degree",Male,Rent,Dial-Up,Married,2,3,1,1,1,Rarely,Never,DVD,Weekly,Weekly,888126,Weekly,Daily,Cable,Me,92
+35,"Master's Degree",Female,Own,DSL,Married,3,4,2,2,1,Never,Monthly,DVD,Monthly,Weekly,888130,Rarely,Rarely,Cable,Me,92
+36,"Bachelor's Degree",Male,Own,DSL,Married,1,3,2,2,3,Never,Rarely,DVD,Rarely,Monthly,888510,Rarely,Daily,Cable,Spouse/Partner,93
+35,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,2,2,1,Never,Rarely,DVD,Monthly,Monthly,888513,Rarely,Rarely,Cable,Spouse/Partner,93
+32,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,2,1,Rarely,Rarely,DVD,Monthly,Monthly,888529,Weekly,Daily,Cable,Me,93
+39,"Master's Degree",Male,Own,DSL,Married,2.5,3,2,2,1,Never,Monthly,DVD,Weekly,Weekly,888533,Rarely,Rarely,Cable,Me,93
+40,"Master's Degree",Female,Rent,"Cable Modem",Married,2,3,3,2,3,Never,Rarely,DVD,Weekly,Weekly,888535,Rarely,Never,Cable,Other,93
+36,"Some College",Male,Own,DSL,Married,2.5,3,2,4,2,Weekly,Monthly,DVD,Weekly,Weekly,888544,Monthly,Weekly,"Digital Satellite",Spouse/Partner,93
+40,"Master's Degree",Male,Rent,Dial-Up,Divorced,1,2,1,1,1,Never,Rarely,VHS,Monthly,Weekly,888549,Monthly,Monthly,Cable,Me,93
+35,Doctorate,Male,Own,DSL,Married,2,2,1,1,1,Never,Rarely,DVD,Never,Rarely,888551,Rarely,Rarely,Cable,Me,93
+40,Doctorate,Male,Own,"Cable Modem",Married,3.5,4,2,2,3,Never,Rarely,DVD,Weekly,Rarely,888565,Monthly,Weekly,Cable,Me,93
+53,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,6,2,3,3,Never,Monthly,DVD,Monthly,Monthly,910777,Rarely,Rarely,Cable,Children,94
+44,"High School",Male,Own,DSL,Married,3.5,4,2,2,6,Rarely,Rarely,DVD,Weekly,Weekly,918818,Monthly,Daily,Cable,Spouse/Partner,95
+27,"Trade School",Male,Rent,"Cable Modem",Married,2,2,2,2,3,Rarely,Weekly,DVD,Weekly,Weekly,918823,Monthly,Daily,Cable,Me,95
+47,"Bachelor's Degree",Male,Own,DSL,Married,3,3,4,2,4,Never,Monthly,DVD,Weekly,Weekly,918856,Monthly,Rarely,"Analog Satellite",Other,95
+39,"Bachelor's Degree",Male,Rent,"Cable Modem",Married,1,2,3,1,2,Monthly,Rarely,DVD,Weekly,Weekly,918801,Weekly,Weekly,"Digital Satellite",Spouse/Partner,95
+36,"Some College",Male,Rent,DSL,Separated,2,2,1,2,2,Monthly,Monthly,DVD,Weekly,Weekly,918796,Monthly,Monthly,Cable,Me,95
+32,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,1,2,Never,Monthly,DVD,Rarely,Weekly,899257,Monthly,Weekly,Cable,Me,96
+48,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,3,3,3,Never,Rarely,DVD,Weekly,Weekly,892352,Rarely,Weekly,Cable,Spouse/Partner,97
+34,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,1,3,Monthly,Rarely,DVD,Rarely,Weekly,892367,Rarely,Weekly,"Digital Satellite",Me,97
+33,"Some College",Male,Own,"Cable Modem",Married,1.5,4,2,1,2,Rarely,Rarely,DVD,Weekly,Weekly,892374,Monthly,Weekly,Cable,Spouse/Partner,97
+40,"Bachelor's Degree",Male,Own,DSL,Married,3,4,2,1,5,Never,Rarely,DVD,Monthly,Weekly,892386,Weekly,Daily,Cable,Me,97
+29,"Master's Degree",Male,Own,DSL,Married,2.5,3,2,1,2,Rarely,Rarely,DVD,Monthly,Monthly,892392,Monthly,Weekly,"Digital Satellite",Me,97
+37,"Bachelor's Degree",Male,Own,DSL,Married,4,5,3,5,2,Never,Monthly,DVD,Monthly,Daily,892402,Monthly,Never,"Analog antennae",Spouse/Partner,97
+35,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,1,3,Never,Rarely,DVD,Weekly,Weekly,889743,Monthly,Daily,Cable,Spouse/Partner,98
+38,"Master's Degree",Male,Own,DSL,Married,3,5,2,6,2,Never,Monthly,DVD,Weekly,Weekly,889755,Weekly,Weekly,"Digital Satellite",Spouse/Partner,98
+41,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,3,3,1,4,Never,Monthly,DVD,Rarely,Weekly,889757,Rarely,Rarely,Cable,Spouse/Partner,98
+39,"Bachelor's Degree",Female,Own,"Cable Modem",Married,3.5,5,2,2,2,Monthly,Monthly,DVD,Rarely,Weekly,889773,Monthly,Weekly,"Digital Satellite",Me,98
+41,"Bachelor's Degree",Male,Own,IDSN,Married,2,3,2,3,1,Never,Rarely,VHS,Rarely,Monthly,889775,Rarely,Weekly,Cable,Me,98
+32,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,3,1,1,2,Rarely,Never,DVD,Weekly,Weekly,889738,Rarely,Never,Cable,Me,98
+35,"Grade School",Male,Own,Dial-Up,Married,2.5,4,2,1,2,Never,Rarely,DVD,Weekly,Weekly,889477,Monthly,Rarely,Cable,Me,99
+41,"Bachelor's Degree",Male,Own,DSL,Married,3,5,2,2,5,Never,Monthly,DVD,Weekly,Daily,889478,Rarely,Daily,Cable,Children,99
+38,"Bachelor's Degree",Female,Own,"Cable Modem",Married,1,2,2,1,1,Never,Rarely,DVD,Monthly,Weekly,889480,Monthly,Rarely,Cable,Me,99
+51,"Master's Degree",Male,Rent,DSL,Married,2.5,5,1,2,2,Never,Never,DVD,Weekly,Weekly,889487,Rarely,Never,"Analog antennae",Spouse/Partner,99
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,1.5,3,3,2,1,Never,Monthly,DVD,Weekly,Weekly,889494,Rarely,Monthly,Cable,Me,99
+33,"Associate's Degree",Male,Own,DSL,Married,3,4,2,2,3,Rarely,Monthly,DVD,Weekly,Weekly,889499,Monthly,Monthly,Cable,Spouse/Partner,99
+41,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,2,Rarely,Monthly,DVD,Weekly,Weekly,889504,Monthly,Weekly,"Digital Satellite",Me,99
+44,"Bachelor's Degree",Female,Rent,DSL,Married,2,3,3,2,3,Rarely,Monthly,DVD,Weekly,Weekly,889512,Weekly,Weekly,Cable,Spouse/Partner,99
+43,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,3,2,2,Never,Monthly,DVD,Weekly,Weekly,889513,Rarely,Rarely,"Don't watch TV",Children,99
+33,"Associate's Degree",Female,Own,DSL,Married,1.5,3,2,2,3,Never,Monthly,DVD,Weekly,Weekly,889519,Rarely,Rarely,Cable,Children,99
+35,"Master's Degree",Male,Own,DSL,Married,2,3,1,2,1,Rarely,Rarely,DVD,Weekly,Weekly,885297,Rarely,Daily,"Analog Satellite",Spouse/Partner,100
+35,"Associate's Degree",Female,Own,Dial-Up,Married,3,4,1,3,4,Weekly,Rarely,DVD,Weekly,Weekly,885301,Rarely,Weekly,"Digital Satellite",Me,100
+36,"Bachelor's Degree",Male,Own,"Cable Modem",Married,4,5,2,2,4,Never,Rarely,DVD,Monthly,Weekly,885316,Monthly,Weekly,Cable,Me,100
+30,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,2,1,1,2,Never,Rarely,DVD,Rarely,Monthly,885344,Rarely,Rarely,"Analog antennae",Other,100
+35,"Bachelor's Degree",Male,Own,IDSN,Married,3,4,1,2,3,Rarely,Monthly,DVD,Never,Monthly,885360,Rarely,Rarely,"Digital Satellite",Me,100
+40,"Bachelor's Degree",Female,Own,DSL,Married,2.5,3,3,3,3,Never,Monthly,DVD,Rarely,Weekly,888752,Monthly,Weekly,Cable,Me,101
+30,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,2,1,1,1,Never,Never,VHS,Weekly,Weekly,888769,Rarely,Weekly,Cable,Me,101
+34,"Master's Degree",Male,Own,Dial-Up,Married,2.5,4,2,1,2,Never,Rarely,DVD,Monthly,Monthly,888773,Rarely,Never,"Analog antennae",Me,101
+33,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,1,2,Never,Rarely,DVD,Monthly,Monthly,888778,Rarely,Monthly,Cable,Me,101
+32,"Bachelor's Degree",Male,Own,Dial-Up,Married,1.5,3,3,1,2,Never,Rarely,DVD,Rarely,Weekly,888749,Rarely,Daily,Cable,Spouse/Partner,101
+40,"Some College",Female,Own,"Cable Modem",Married,2.5,3,2,3,3,Rarely,Weekly,DVD,Rarely,Weekly,906121,Never,Daily,Cable,Spouse/Partner,102
+40,"Master's Degree",Male,Own,Dial-Up,Married,2.5,5,2,3,3,Weekly,Weekly,DVD,Weekly,Weekly,906137,Monthly,Rarely,"Digital Satellite",Me,102
+31,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,2,2,Never,Rarely,DVD,Weekly,Weekly,906142,Monthly,Weekly,Cable,Me,102
+42,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,2,Never,Rarely,DVD,Weekly,Weekly,906147,Rarely,Rarely,Cable,Other,102
+30,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,6,2,2,4,Never,Monthly,DVD,Never,Monthly,906148,Rarely,Weekly,"Digital Satellite",Me,102
+39,"Bachelor's Degree",Female,Rent,DSL,Divorced,2.5,3,1,1,4,Never,Rarely,VHS,Weekly,Weekly,906149,Monthly,Never,"Digital Satellite",Other,102
+33,"Master's Degree",Male,Own,Dial-Up,Married,3,4,2,3,3,Monthly,Rarely,DVD,Rarely,Daily,906118,Monthly,Weekly,"Digital Satellite",Spouse/Partner,102
+35,"Some College",Female,Own,Dial-Up,Divorced,1.5,3,1,2,4,Rarely,Weekly,DVD,Rarely,Weekly,892126,Monthly,Daily,Cable,Me,103
+30,"Some College",Male,Own,"Cable Modem",Married,1,3,1,1,1,Rarely,Monthly,DVD,Monthly,Weekly,892129,Monthly,Weekly,"Digital Satellite",Me,103
+47,"Master's Degree",Male,Own,DSL,Married,2.5,3,2,2,2,Rarely,Rarely,DVD,Weekly,Weekly,892155,Monthly,Rarely,Cable,Me,103
+31,"Bachelor's Degree",Male,Rent,"Cable Modem",Married,2.5,3,1,1,2,Never,Monthly,DVD,Monthly,Weekly,892159,Monthly,Weekly,Cable,Me,103
+36,"Bachelor's Degree",Male,Own,DSL,Married,2,3,2,2,2,Never,Rarely,DVD,Weekly,Weekly,892169,Monthly,Rarely,"Analog antennae",Me,103
+35,"Master's Degree",Female,Own,"Cable Modem",Married,5,4,3,1,4,Rarely,Monthly,DVD,Rarely,Monthly,892182,Rarely,Never,"Digital Satellite",Spouse/Partner,103
+46,"Master's Degree",Female,Own,DSL,Married,2.5,4,2,1,1,Never,Never,VHS,Rarely,Rarely,882938,Rarely,Monthly,Cable,Me,104
+29,"Master's Degree",Male,Rent,DSL,Married,1,2,1,1,1,Never,Rarely,DVD,Weekly,Weekly,878907,Monthly,Rarely,"Analog antennae",Me,105
+41,Doctorate,Male,Own,Dial-Up,Married,2.5,4,2,4,4,Never,Rarely,DVD,Never,Weekly,878908,Rarely,Weekly,Cable,Other,105
+44,Doctorate,Female,Own,DSL,"Never Married",0.5,2,1,1,1,Never,Monthly,VHS,Rarely,Monthly,878912,Never,Rarely,"Analog antennae",Spouse/Partner,105
+59,"Master's Degree",Male,Own,DSL,Married,3.5,5,3,2,3,Never,Rarely,Betamax,Weekly,Weekly,878919,Rarely,Monthly,Cable,Other,105
+39,"Bachelor's Degree",Male,Own,DSL,Married,3,4,2,2,2,Never,Monthly,DVD,Weekly,Weekly,911366,Monthly,Rarely,Cable,Me,106
+30,"Master's Degree",Male,Own,DSL,Married,1.5,3,2,1,1,Rarely,Rarely,DVD,Weekly,Weekly,913633,Rarely,Rarely,"Analog antennae",Spouse/Partner,107
+37,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,5,2,3,3,Rarely,Monthly,DVD,Rarely,Weekly,891917,Rarely,Weekly,Cable,Spouse/Partner,108
+38,"Master's Degree",Male,Own,"Cable Modem",Married,2,3,2,2,3,Rarely,Monthly,DVD,Monthly,Weekly,891925,Monthly,Daily,Cable,Me,108
+34,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,3,Never,Rarely,DVD,Weekly,Weekly,891927,Rarely,Rarely,Cable,Me,108
+35,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,4,2,2,2,Never,Rarely,VHS,Monthly,Monthly,891929,Rarely,Monthly,Cable,Me,108
+46,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,1,1,Never,Monthly,DVD,Daily,Daily,891933,Rarely,Rarely,Cable,Me,108
+26,"Some College",Male,Own,DSL,Married,2.5,3,2,2,2,Never,Monthly,DVD,Weekly,Weekly,891935,Rarely,Monthly,Cable,Me,108
+37,"Bachelor's Degree",Female,Own,DSL,Married,2.5,5,1,1,1,Never,Monthly,DVD,Monthly,Rarely,891937,Rarely,Rarely,Cable,Other,108
+40,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,1,2,Never,Monthly,VHS,Monthly,Weekly,891939,Monthly,Monthly,Cable,Me,108
+33,"Bachelor's Degree",Male,Own,DSL,Married,2,3,3,1,4,Never,Weekly,DVD,Monthly,Weekly,891946,Monthly,Daily,"Digital Satellite",Me,108
+44,"Master's Degree",Female,Rent,DSL,Other,2.5,5,2,4,4,Never,Monthly,DVD,Monthly,Weekly,891961,Monthly,Daily,Cable,Me,108
+29,"Bachelor's Degree",Male,Own,DSL,Married,2,3,1,1,1,Monthly,Monthly,DVD,Rarely,Monthly,891962,Rarely,Monthly,"Digital Satellite",Spouse/Partner,108
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,5,2,2,3,Never,Monthly,DVD,Monthly,Monthly,883670,Rarely,Monthly,Cable,Me,109
+49,"Some College",Female,Rent,DSL,Married,3,4,2,2,3,Rarely,Rarely,VHS,Weekly,Weekly,904283,Monthly,Weekly,Cable,Spouse/Partner,110
+30,"Bachelor's Degree",Male,Rent,DSL,Married,2,2,1,1,1,Never,Rarely,DVD,Monthly,Weekly,904294,Rarely,Weekly,Cable,Other,110
+29,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,4,2,2,2,Rarely,Rarely,DVD,Weekly,Weekly,904318,Monthly,Monthly,"Digital Satellite",Me,110
+38,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,5,4,Rarely,Monthly,VHS,Rarely,Monthly,904319,Monthly,Weekly,"Digital Satellite",Me,110
+44,"Bachelor's Degree",Female,Own,DSL,Married,2,3,2,3,4,Never,Rarely,DVD,Weekly,Weekly,892086,Rarely,Weekly,Cable,Me,111
+32,"Bachelor's Degree",Male,Own,DSL,"Never Married",3,4,2,1,3,Rarely,Never,VHS,Weekly,Weekly,892088,Monthly,Daily,Cable,Me,111
+42,"Bachelor's Degree",Female,Own,Other,Married,2.5,4,4,2,4,Never,Monthly,DVD,Monthly,Weekly,892092,Rarely,Never,Cable,Me,111
+28,"Some College",Male,Own,DSL,Married,3,4,2,1,2,Never,Monthly,DVD,Rarely,Daily,892097,Weekly,Weekly,"Analog antennae",Me,111
+36,"Some College",Male,Own,Dial-Up,Married,2.5,3,2,1,2,Never,Monthly,DVD,Monthly,Weekly,892100,Rarely,Weekly,Cable,Me,111
+31,"Bachelor's Degree",Male,Rent,"Cable Modem",Married,1,2,2,2,1,Rarely,Never,DVD,Monthly,Weekly,892110,Monthly,Weekly,Cable,Spouse/Partner,111
+41,"Associate's Degree",Male,Own,"Cable Modem",Married,3,5,2,2,6,Monthly,Monthly,DVD,Monthly,Weekly,917738,Monthly,Daily,Cable,Me,112
+26,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,3,2,1,1,Never,Rarely,DVD,Monthly,Monthly,917772,Rarely,Weekly,Cable,Me,112
+47,"Bachelor's Degree",Female,Own,"Cable Modem",Divorced,2.5,3,1,2,2,Rarely,Never,VHS,Monthly,Monthly,917773,Monthly,Rarely,Cable,Me,112
+48,"Associate's Degree",Male,Own,"Cable Modem",Married,2.5,4,6,3,4,Never,Monthly,DVD,Weekly,Weekly,883062,Monthly,Weekly,"Digital Satellite",Me,113
+49,"Bachelor's Degree",Male,Own,DSL,Married,3,3,2,2,4,Never,Monthly,DVD,Monthly,Monthly,883072,Rarely,Monthly,Cable,Children,113
+40,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,4,2,3,2,Never,Monthly,DVD,Rarely,Weekly,883077,Monthly,Weekly,Cable,Spouse/Partner,113
+36,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3.5,3,2,2,4,Rarely,Weekly,DVD,Weekly,Weekly,883079,Monthly,Monthly,"Digital Satellite",Me,113
+49,Doctorate,Male,Own,DSL,Married,2.5,2,2,5,3,Never,Monthly,DVD,Monthly,Weekly,883102,Monthly,Weekly,Cable,Me,113
+33,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,1,2,Monthly,Monthly,DVD,Monthly,Weekly,883122,Rarely,Daily,Cable,Me,113
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3.5,3,2,2,4,Rarely,Monthly,DVD,Weekly,Weekly,894048,Monthly,Rarely,Cable,Me,114
+35,"Master's Degree",Male,Own,DSL,Divorced,2,3,2,1,3,Never,Rarely,DVD,Weekly,Weekly,894203,Monthly,Rarely,"Digital Satellite",Me,114
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,2,Never,Rarely,DVD,Monthly,Weekly,894247,Rarely,Monthly,Cable,Me,114
+32,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,3,1,3,3,Never,Monthly,DVD,Monthly,Weekly,919062,Rarely,Weekly,Cable,Me,115
+41,"Some College",Female,Own,"Cable Modem",Married,4.5,5,3,4,7,Never,Monthly,DVD,Weekly,Weekly,919076,Weekly,Monthly,Cable,Me,115
+27,"Bachelor's Degree",Male,Own,DSL,Married,3,4,2,2,3,Never,Monthly,DVD,Monthly,Monthly,891425,Monthly,Weekly,Cable,Me,116
+31,"Bachelor's Degree",Male,Own,Dial-Up,Married,1,3,2,1,1,Rarely,Rarely,VHS,Rarely,Rarely,891433,Rarely,Monthly,Cable,Me,116
+44,"Bachelor's Degree",Male,Rent,"Cable Modem",Married,2.5,4,2,4,2,Rarely,Never,VHS,Monthly,Monthly,891434,Rarely,Monthly,Cable,Me,116
+42,"Some College",Male,Own,DSL,Married,3,4,2,3,2,Never,Monthly,DVD,Rarely,Daily,891441,Monthly,Weekly,"Digital Satellite",Spouse/Partner,116
+29,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,4,1,1,1,Rarely,Rarely,DVD,Rarely,Rarely,891451,Rarely,Monthly,"Analog antennae",Me,116
+41,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,1,2,4,Weekly,Monthly,DVD,Daily,Daily,891480,Monthly,Rarely,Cable,Me,116
+31,"Some College",Male,Rent,"Cable Modem","Never Married",2.5,3,2,2,3,Rarely,Weekly,DVD,Rarely,Daily,891481,Monthly,Rarely,"Digital Satellite",Me,116
+34,"Bachelor's Degree",Male,Own,DSL,Married,2,3,2,1,1,Never,Rarely,DVD,Weekly,Weekly,891492,Monthly,Rarely,Cable,Spouse/Partner,116
+51,"Bachelor's Degree",Male,Own,DSL,Married,2,4,4,3,4,Rarely,Monthly,DVD,Monthly,Weekly,888928,Rarely,Weekly,Cable,Me,117
+45,"Master's Degree",Male,Own,DSL,Married,3.5,4,3,2,2,Never,Monthly,DVD,Weekly,Weekly,888940,Rarely,Monthly,Cable,Spouse/Partner,117
+41,"Bachelor's Degree",Male,Own,Dial-Up,Other,2,4,2,1,3,Never,Rarely,DVD,Weekly,Weekly,888945,Monthly,Weekly,Cable,Me,117
+32,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3.5,4,2,2,3,Rarely,Monthly,DVD,Weekly,Weekly,888946,Monthly,Weekly,Cable,Me,117
+39,Doctorate,Male,Own,Dial-Up,Married,2.5,4,1,5,1,Never,Monthly,DVD,Weekly,Weekly,888951,Monthly,Never,"Don't watch TV",Spouse/Partner,117
+33,"Master's Degree",Male,Own,"Cable Modem",Married,3,4,2,1,3,Rarely,Monthly,DVD,Monthly,Weekly,888956,Monthly,Weekly,"Digital Satellite",Me,117
+32,"Some College",Female,Own,Dial-Up,Married,3,4,2,3,6,Never,Monthly,DVD,Monthly,Weekly,888960,Rarely,Rarely,Cable,Spouse/Partner,117
+32,"Master's Degree",Male,Own,DSL,Married,3,3,3,2,5,Rarely,Monthly,DVD,Rarely,Monthly,915414,Monthly,Weekly,Cable,Children,118
+36,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,1,2,2,Rarely,Rarely,DVD,Weekly,Monthly,915437,Monthly,Monthly,Cable,Spouse/Partner,118
+60,"Bachelor's Degree",Female,Own,DSL,Divorced,1.5,2,1,2,2,Never,Monthly,DVD,Monthly,Monthly,915454,Monthly,Never,Cable,Me,118
+39,Doctorate,Male,Rent,DSL,Married,2,3,2,2,2,Rarely,Rarely,DVD,Weekly,Weekly,905345,Monthly,Weekly,Cable,Me,119
+50,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,4,4,3,3,Never,Monthly,DVD,Weekly,Weekly,905366,Monthly,Rarely,Cable,Me,119
+50,"Master's Degree",Male,Rent,DSL,Divorced,1,1,1,2,1,Never,Rarely,VHS,Rarely,Rarely,905457,Monthly,Rarely,Cable,Me,119
+32,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,4,3,1,4,Rarely,Monthly,DVD,Rarely,Weekly,885914,Rarely,Weekly,Cable,Me,120
+36,Doctorate,Male,Own,Dial-Up,Married,2.5,4,2,6,1,Never,Never,VHS,Monthly,Monthly,917392,Monthly,Never,"Don't watch TV",Children,121
+38,"Master's Degree",Male,Own,"Cable Modem",Married,3,5,2,1,2,Rarely,Monthly,DVD,Monthly,Monthly,917406,Rarely,Weekly,Cable,Me,121
+56,"Bachelor's Degree",Male,Own,DSL,Married,3.5,4,2,2,4,Never,Monthly,DVD,Weekly,Weekly,917411,Monthly,Weekly,Cable,Spouse/Partner,121
+31,"Bachelor's Degree",Male,Own,DSL,Married,1.5,5,3,2,1,Rarely,Rarely,DVD,Monthly,Monthly,917427,Rarely,Rarely,Cable,Me,121
+34,"Bachelor's Degree",Male,Own,Other,Married,2.5,4,2,3,4,Never,Monthly,DVD,Weekly,Weekly,917448,Monthly,Monthly,Cable,Spouse/Partner,121
+31,"Master's Degree",Male,Own,Dial-Up,Married,2.5,4,2,1,1,Never,Rarely,DVD,Weekly,Weekly,917454,Monthly,Weekly,Cable,Spouse/Partner,121
+44,"Master's Degree",Male,Own,DSL,Married,2,3,3,2,4,Never,Monthly,DVD,Weekly,Weekly,917465,Rarely,Monthly,Cable,Spouse/Partner,121
+29,"Master's Degree",Male,Rent,DSL,Married,2,3,2,1,1,Monthly,Monthly,DVD,Weekly,Weekly,903500,Monthly,Daily,Cable,Me,122
+46,"Some College",Female,Own,"Cable Modem",Married,3,5,3,3,3,Never,Rarely,DVD,Weekly,Weekly,909729,Monthly,Monthly,Cable,Me,123
+41,"Master's Degree",Female,Own,"Cable Modem",Married,2.5,4,2,1,4,Never,Monthly,DVD,Weekly,Weekly,913079,Weekly,Weekly,Cable,Spouse/Partner,124
+29,"High School",Male,Rent,DSL,Married,2,3,2,3,2,Rarely,Monthly,DVD,Rarely,Daily,913081,Rarely,Monthly,Cable,Me,124
+30,"Bachelor's Degree",Male,Rent,"Cable Modem",Married,1,2,2,2,1,Rarely,Rarely,DVD,Monthly,Monthly,913108,Rarely,Monthly,"Don't watch TV",Me,124
+27,"Grade School",Male,Own,"Cable Modem",Married,2.5,4,2,1,4,Rarely,Rarely,DVD,Weekly,Weekly,913118,Monthly,Daily,Cable,Me,124
+52,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,4,3,2,3,Never,Never,VHS,Monthly,Weekly,913119,Monthly,Rarely,Cable,Spouse/Partner,124
+31,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,1,1,1,Rarely,Rarely,DVD,Monthly,Monthly,913128,Rarely,Weekly,Cable,Me,124
+38,"High School",Male,Own,"Cable Modem",Married,1.5,3,2,1,2,Rarely,Rarely,DVD,Weekly,Weekly,907560,Rarely,Never,"Digital Satellite",Me,125
+32,"Master's Degree",Male,Own,"Cable Modem",Married,2,4,1,3,1,Never,Monthly,DVD,Weekly,Weekly,904104,Monthly,Monthly,Cable,Me,126
+30,"Bachelor's Degree",Male,Own,Dial-Up,Married,3,4,3,2,3,Never,Never,DVD,Monthly,Rarely,904114,Rarely,Monthly,Cable,Spouse/Partner,126
+30,"Some College",Male,Own,DSL,Married,1,3,1,1,1,Never,Monthly,DVD,Monthly,Weekly,904121,Rarely,Rarely,"Digital Satellite",Spouse/Partner,126
+35,"Some College",Male,Own,"Cable Modem",Married,1,3,2,1,2,Rarely,Monthly,DVD,Rarely,Daily,904123,Monthly,Weekly,"Digital Satellite",Other,126
+34,"Bachelor's Degree",Male,Own,DSL,Married,2,3,1,1,2,Monthly,Monthly,DVD,Monthly,Monthly,904128,Rarely,Weekly,"Digital Satellite",Spouse/Partner,126
+37,"High School",Male,Own,IDSN,Married,5,5,3,2,2,Weekly,Never,VHS,Never,Rarely,884596,Rarely,Weekly,Cable,Me,127
+37,"Bachelor's Degree",Male,Own,DSL,Married,4.5,4,2,2,5,Never,Rarely,DVD,Monthly,Monthly,884624,Monthly,Weekly,Cable,Spouse/Partner,127
+27,"Some College",Male,Rent,DSL,Married,2,4,1,4,4,Rarely,Monthly,DVD,Monthly,Weekly,917886,Rarely,Daily,Cable,Spouse/Partner,128
+31,"Some College",Male,Own,DSL,Married,1,2,3,1,1,Never,Monthly,DVD,Weekly,Weekly,917890,Rarely,Monthly,Cable,Me,128
+47,"Some College",Male,Own,Dial-Up,Divorced,2.5,4,6,2,3,Never,Rarely,DVD,Weekly,Weekly,917904,Monthly,Weekly,Cable,Me,128
+53,"Bachelor's Degree",Female,Own,"Cable Modem",Married,2.5,3,3,2,1,Never,Monthly,DVD,Weekly,Weekly,917933,Monthly,Never,"Don't watch TV",Me,128
+36,"Bachelor's Degree",Female,Own,DSL,Married,2,3,2,2,3,Never,Rarely,DVD,Monthly,Weekly,917949,Rarely,Monthly,Cable,Me,128
+34,"Bachelor's Degree",Male,Own,DSL,Married,3,4,2,1,4,Rarely,Rarely,DVD,Monthly,Monthly,892784,Monthly,Daily,Cable,Me,129
+30,"Bachelor's Degree",Male,Rent,Dial-Up,Married,1,2,1,1,1,Never,Rarely,DVD,Weekly,Weekly,892807,Weekly,Rarely,"Analog antennae",Spouse/Partner,129
+37,"Bachelor's Degree",Female,Own,"No Internet Connection",Married,1,3,3,1,2,Rarely,Monthly,VHS,Rarely,Weekly,892863,Rarely,Monthly,Cable,Spouse/Partner,129
+39,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,4,2,2,3,Never,Rarely,DVD,Monthly,Monthly,913467,Rarely,Weekly,Cable,Me,130
+36,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,2,2,2,Never,Rarely,VHS,Rarely,Monthly,913475,Rarely,Weekly,Cable,Me,130
+42,"Bachelor's Degree",Male,Own,Dial-Up,Married,1,4,2,3,3,Never,Monthly,VHS,Rarely,Weekly,913480,Rarely,Rarely,"Analog antennae",Children,130
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,4,2,1,7,Rarely,Weekly,DVD,Rarely,Weekly,913483,Monthly,Monthly,"Digital Satellite",Me,130
+36,"Bachelor's Degree",Male,Own,"Cable Modem",Married,1.5,3,2,3,2,Never,Monthly,DVD,Monthly,Daily,913486,Monthly,Rarely,Cable,Spouse/Partner,130
+34,"Master's Degree",Male,Rent,Dial-Up,Married,2,3,3,2,3,Daily,Monthly,DVD,Weekly,Daily,913491,Monthly,Weekly,"Digital Satellite",Children,130
+25,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,4,2,1,3,Rarely,Monthly,DVD,Monthly,Weekly,913493,Monthly,Monthly,Cable,Me,130
+31,"Bachelor's Degree",Male,Own,DSL,Married,2,3,3,2,3,Never,Monthly,VHS,Weekly,Weekly,913460,Monthly,Weekly,Cable,Me,130
+41,"Master's Degree",Male,Own,"Cable Modem",Married,2,5,2,4,5,Never,Weekly,DVD,Never,Weekly,892028,Monthly,Weekly,"Digital Satellite",Spouse/Partner,131
+26,"Some College",Male,Own,"Cable Modem",Married,2,3,3,1,2,Monthly,Monthly,DVD,Monthly,Weekly,892045,Rarely,Weekly,Cable,Me,131
+29,"Some College",Male,Own,DSL,Married,2.5,3,1,1,4,Never,Monthly,DVD,Weekly,Weekly,892021,Monthly,Rarely,Cable,Me,131
+40,"Master's Degree",Female,Own,IDSN,Divorced,2.5,3,2,1,2,Rarely,Monthly,DVD,Monthly,Weekly,924570,Weekly,Daily,"Analog Satellite",Me,132
+35,"Bachelor's Degree",Male,Own,"Cable Modem",Married,4,4,2,3,3,Never,Monthly,DVD,Weekly,Weekly,924737,Monthly,Never,Cable,Me,132
+37,Doctorate,Male,Own,DSL,Married,2.5,3,2,3,2,Never,Rarely,DVD,Weekly,Weekly,887987,Monthly,Weekly,Cable,Me,133
+36,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3.5,4,2,2,2,Never,Monthly,DVD,Weekly,Weekly,887991,Rarely,Rarely,"Digital Satellite",Me,133
+43,"Bachelor's Degree",Male,Own,DSL,Married,3.5,5,2,3,2,Never,Rarely,DVD,Rarely,Rarely,887992,Rarely,Never,Cable,Spouse/Partner,133
+45,"Master's Degree",Male,Own,"Cable Modem",Married,3,4,3,4,3,Rarely,Rarely,DVD,Monthly,Monthly,888005,Rarely,Rarely,Cable,Me,133
+45,"High School",Male,Rent,"Cable Modem",Married,2,2,2,1,3,Rarely,Monthly,DVD,Rarely,Monthly,888014,Rarely,Weekly,Cable,Me,133
+27,"Some College",Male,Own,"Cable Modem",Married,2.5,3,2,1,4,Never,Monthly,DVD,Monthly,Weekly,888006,Rarely,Daily,Cable,Me,133
+31,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,2,2,2,Never,Monthly,DVD,Rarely,Weekly,888007,Rarely,Weekly,Cable,Children,133
+35,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,3,1,3,Never,Rarely,DVD,Monthly,Monthly,884248,Monthly,Daily,"Digital Satellite",Spouse/Partner,134
+33,"Master's Degree",Male,Rent,DSL,Married,2,3,2,1,1,Never,Never,DVD,Monthly,Monthly,884303,Monthly,Weekly,Cable,Me,134
+41,"Associate's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,1,5,Rarely,Rarely,DVD,Weekly,Weekly,884339,Rarely,Monthly,Cable,Me,134
+44,"Master's Degree",Male,Own,DSL,Married,3.5,4,2,4,3,Never,Rarely,DVD,Weekly,Weekly,884384,Rarely,Monthly,Cable,Me,134
+50,"Master's Degree",Female,Own,Dial-Up,Divorced,2,2,1,2,4,Monthly,Monthly,DVD,Monthly,Monthly,918299,Rarely,Daily,Cable,Me,135
+40,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,1,1,1,Never,Monthly,DVD,Weekly,Weekly,885126,Rarely,Never,Cable,Me,136
+47,Doctorate,Male,Own,"Cable Modem",Married,3.5,4,3,2,5,Rarely,Rarely,DVD,Rarely,Rarely,885129,Rarely,Rarely,"Digital Satellite",Spouse/Partner,136
+39,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3.5,4,3,3,3,Never,Monthly,DVD,Weekly,Weekly,891235,Monthly,Weekly,Cable,Spouse/Partner,137
+49,"Bachelor's Degree",Male,Own,"Cable Modem",Married,4,4,2,1,3,Never,Rarely,DVD,Weekly,Weekly,891175,Monthly,Rarely,Cable,Me,137
+46,"Associate's Degree",Male,Rent,DSL,Married,1.5,5,2,4,3,Never,Rarely,DVD,Monthly,Weekly,888228,Rarely,Never,Cable,Me,138
+35,"Bachelor's Degree",Male,Own,"Cable Modem",Married,1.5,4,3,2,2,Weekly,Never,VHS,Monthly,Monthly,888265,Monthly,Weekly,"Digital Satellite",Me,138
+37,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,4,2,2,1,Never,Never,VHS,Weekly,Weekly,888268,Rarely,Never,"Analog antennae",Spouse/Partner,138
+34,Doctorate,Male,Own,"Cable Modem",Married,3,4,2,3,2,Rarely,Rarely,VHS,Weekly,Weekly,914013,Rarely,Monthly,Cable,Spouse/Partner,139
+40,"Master's Degree",Male,Own,DSL,Married,3,4,2,1,3,Never,Rarely,VHS,Monthly,Monthly,914049,Never,Never,Cable,Spouse/Partner,139
+50,"Bachelor's Degree",Female,Own,"Cable Modem",Married,3,3,2,2,6,Rarely,Rarely,DVD,Monthly,Monthly,914162,Monthly,Weekly,Cable,Spouse/Partner,139
+34,"Some College",Male,Own,"No Internet Connection",Married,2.5,4,2,2,4,Rarely,Monthly,DVD,Rarely,Monthly,884673,Weekly,Monthly,Cable,Children,140
+41,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,3,3,3,2,Rarely,Monthly,DVD,Rarely,Weekly,884717,Monthly,Weekly,Cable,Me,140
+35,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,3,2,1,3,Rarely,Never,DVD,Monthly,Monthly,912594,Rarely,Weekly,Cable,Me,141
+33,"Bachelor's Degree",Male,Rent,Dial-Up,Married,2,2,2,1,3,Weekly,Monthly,DVD,Monthly,Daily,912603,Monthly,Weekly,Cable,Me,141
+30,"Some College",Male,Own,DSL,Married,2.5,4,1,3,2,Monthly,Rarely,DVD,Monthly,Monthly,912614,Rarely,Monthly,"Digital Satellite",Spouse/Partner,141
+31,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,4,2,2,2,Never,Monthly,DVD,Monthly,Weekly,912618,Monthly,Weekly,Cable,Me,141
+39,"Master's Degree",Male,Own,IDSN,Married,2.5,3,2,2,1,Never,Rarely,DVD,Weekly,Weekly,912625,Rarely,Monthly,"Analog antennae",Spouse/Partner,141
+32,"Some College",Male,Own,"Cable Modem",Married,2,3,3,2,4,Rarely,Weekly,DVD,Monthly,Monthly,912627,Monthly,Weekly,Cable,Spouse/Partner,141
+44,"Bachelor's Degree",Female,Own,"Cable Modem",Married,3,5,3,2,3,Never,Rarely,DVD,Weekly,Weekly,912630,Monthly,Monthly,Cable,Children,141
+39,"Bachelor's Degree",Female,Own,Dial-Up,Married,2.5,4,2,2,4,Weekly,Rarely,DVD,Weekly,Weekly,912632,Monthly,Daily,Cable,Me,141
+31,"Master's Degree",Male,Own,Dial-Up,Married,2.5,3,2,1,2,Rarely,Rarely,VHS,Weekly,Weekly,912640,Rarely,Weekly,"Digital Satellite",Me,141
+45,"Some College",Male,Own,"Cable Modem",Married,3,4,2,2,3,Never,Rarely,VHS,Rarely,Rarely,912641,Rarely,Never,"Don't watch TV",Me,141
+40,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,2,1,Never,Monthly,DVD,Monthly,Weekly,912649,Rarely,Never,Cable,Me,141
+38,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,4,2,2,2,Never,Monthly,VHS,Monthly,Weekly,912658,Rarely,Rarely,Cable,Spouse/Partner,141
+39,"Bachelor's Degree",Male,Own,DSL,Married,3,4,2,1,1,Never,Rarely,DVD,Monthly,Monthly,915586,Rarely,Weekly,Cable,Spouse/Partner,142
+26,"Bachelor's Degree",Male,Own,"Cable Modem",Married,1,3,1,1,2,Never,Weekly,DVD,Monthly,Daily,915614,Rarely,Rarely,"Digital Satellite",Me,142
+25,"Bachelor's Degree",Male,Rent,"Cable Modem",Married,2,2,2,1,2,Never,Monthly,DVD,Weekly,Weekly,915625,Rarely,Daily,Cable,Me,142
+48,Doctorate,Male,Own,DSL,Married,3,4,2,2,10,Weekly,Rarely,DVD,Monthly,Monthly,906493,Monthly,Monthly,"Digital Satellite",Spouse/Partner,143
+30,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,3,1,1,Monthly,Rarely,DVD,Weekly,Weekly,906499,Monthly,Weekly,"Digital Satellite",Me,143
+31,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,4,4,2,4,Rarely,Weekly,DVD,Weekly,Weekly,906535,Monthly,Rarely,"Digital Satellite",Me,143
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,1.5,4,2,1,2,Never,Rarely,VHS,Weekly,Weekly,906430,Monthly,Weekly,Cable,Me,143
+40,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,2,2,Never,Monthly,DVD,Weekly,Weekly,917677,Rarely,Weekly,Cable,Me,144
+41,Doctorate,Female,Rent,"No Internet Connection",Other,2,3,1,1,1,Never,Never,VHS,Rarely,Rarely,917684,Monthly,Never,"Digital Satellite",Me,144
+46,"Master's Degree",Female,Own,DSL,Married,2.5,4,3,2,2,Never,Rarely,DVD,Never,Monthly,917693,Rarely,Weekly,Cable,Me,144
+31,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,5,2,1,2,Never,Never,DVD,Weekly,Weekly,917699,Rarely,Weekly,Cable,Me,144
+31,"Some College",Male,Own,Dial-Up,Married,2.5,4,2,1,3,Monthly,Monthly,DVD,Weekly,Daily,917711,Monthly,Daily,Cable,Me,144
+32,"Bachelor's Degree",Male,Rent,DSL,Married,2,2,1,2,1,Weekly,Monthly,DVD,Monthly,Weekly,889387,Monthly,Daily,Cable,Me,145
+33,"Master's Degree",Male,Rent,DSL,Married,2.5,3,1,1,2,Daily,Weekly,DVD,Weekly,Weekly,889393,Rarely,Monthly,"Analog antennae",Me,145
+37,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,2,2,Never,Rarely,DVD,Weekly,Weekly,889411,Monthly,Weekly,Cable,Me,145
+38,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,2,2,Never,Rarely,DVD,Monthly,Weekly,892204,Rarely,Never,"Digital Satellite",Spouse/Partner,146
+31,"Some College",Male,Rent,DSL,Married,2,2,1,1,2,Rarely,Monthly,DVD,Monthly,Weekly,892218,Monthly,Rarely,Cable,Other,146
+48,"Master's Degree",Male,Own,Dial-Up,Married,2.5,4,3,2,3,Rarely,Rarely,DVD,Monthly,Monthly,892222,Monthly,Monthly,Cable,Children,146
+35,"Master's Degree",Male,Own,DSL,Married,2.5,3,2,4,2,Never,Rarely,VHS,Rarely,Monthly,892227,Rarely,Monthly,"Digital Satellite",Me,146
+28,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,1,3,Rarely,Rarely,DVD,Monthly,Monthly,892249,Monthly,Rarely,Cable,Spouse/Partner,146
+33,"Bachelor's Degree",Male,Own,DSL,Married,2.5,5,1,3,1,Never,Monthly,DVD,Rarely,Monthly,892254,Never,Never,Cable,Me,146
+47,"Bachelor's Degree",Female,Own,DSL,Other,3,4,2,2,2,Rarely,Monthly,DVD,Monthly,Daily,892256,Monthly,Weekly,Cable,Children,146
+34,"Some College",Male,Own,"Cable Modem",Married,1,3,2,2,3,Rarely,Monthly,DVD,Rarely,Monthly,892257,Monthly,Weekly,Cable,Me,146
+48,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,4,3,Never,Rarely,DVD,Weekly,Weekly,912680,Monthly,Never,Cable,Children,147
+45,"Trade School",Male,Own,"Cable Modem",Married,2.5,4,3,3,5,Never,Weekly,DVD,Rarely,Weekly,912694,Rarely,Rarely,Cable,Me,147
+39,"Master's Degree",Male,Own,DSL,Married,2.5,3,2,2,3,Never,Rarely,DVD,Monthly,Monthly,912695,Monthly,Rarely,"Analog antennae",Me,147
+39,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,3,4,3,4,Never,Weekly,DVD,Rarely,Weekly,912707,Monthly,Weekly,Cable,Me,147
+41,"Master's Degree",Female,Own,Dial-Up,Divorced,2.5,4,1,3,2,Never,Monthly,DVD,Rarely,Daily,912713,Rarely,Never,Cable,Children,147
+39,"Some College",Female,Own,Dial-Up,Married,2.5,4,2,2,4,Never,Rarely,DVD,Rarely,Monthly,912719,Monthly,Weekly,Cable,Spouse/Partner,147
+36,Doctorate,Male,Own,"Cable Modem",Married,3.5,4,2,2,2,Never,Monthly,DVD,Weekly,Weekly,912727,Monthly,Weekly,Cable,Me,147
+32,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,2,Never,Rarely,DVD,Rarely,Monthly,912730,Monthly,Rarely,Cable,Spouse/Partner,147
+36,"Bachelor's Degree",Female,Own,DSL,Married,3,4,2,3,4,Never,Rarely,DVD,Monthly,Monthly,912732,Monthly,Weekly,"Digital Satellite",Me,147
+31,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,1,1,Never,Rarely,DVD,Monthly,Monthly,912741,Monthly,Weekly,Cable,Spouse/Partner,147
+38,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,3,2,2,2,Never,Monthly,VHS,Rarely,Monthly,905118,Rarely,Monthly,"Analog antennae",Me,148
+44,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,4,Monthly,Rarely,DVD,Monthly,Rarely,905160,Weekly,Weekly,"Digital Satellite",Spouse/Partner,148
+31,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,3,1,Never,Monthly,DVD,Monthly,Weekly,905166,Rarely,Rarely,Cable,Spouse/Partner,148
+35,"Bachelor's Degree",Male,Rent,DSL,Separated,1,2,2,1,1,Never,Rarely,DVD,Monthly,Monthly,905206,Rarely,Monthly,Cable,Me,148
+45,"Some College",Male,Own,"Cable Modem",Married,2.5,4,2,4,3,Never,Monthly,DVD,Monthly,Weekly,905210,Monthly,Daily,"Analog antennae",Me,148
+52,Doctorate,Female,Own,Dial-Up,Married,2,4,2,2,1,Never,Rarely,DVD,Rarely,Rarely,905215,Weekly,Never,Cable,Other,148
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,1,Never,Rarely,DVD,Monthly,Weekly,905257,Rarely,Rarely,Cable,Me,148
+43,"Bachelor's Degree",Male,Own,DSL,Married,3.5,4,2,2,3,Never,Rarely,VHS,Weekly,Weekly,905267,Monthly,Never,Cable,Children,148
+40,"Some College",Male,Own,DSL,Married,2.5,4,3,4,2,Rarely,Monthly,DVD,Weekly,Weekly,907893,Monthly,Weekly,Cable,Me,149
+44,"Bachelor's Degree",Male,Own,DSL,Married,3.5,4,2,3,2,Monthly,Rarely,DVD,Monthly,Monthly,907904,Monthly,Monthly,"Digital Satellite",Me,149
+38,"Master's Degree",Male,Own,Other,Married,2,3,2,3,2,Never,Monthly,DVD,Weekly,Weekly,926360,Monthly,Never,"Analog antennae",Me,150
+40,"Bachelor's Degree",Male,Rent,Dial-Up,Divorced,2,2,2,2,2,Never,Monthly,DVD,Daily,Daily,899809,Monthly,Rarely,"Analog antennae",Me,151
+39,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,3,2,4,1,Never,Monthly,VHS,Weekly,Daily,899833,Rarely,Monthly,"Analog antennae",Spouse/Partner,151
+33,"Associate's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,1,5,Rarely,Monthly,DVD,Rarely,Monthly,899860,Rarely,Weekly,Cable,Spouse/Partner,151
+36,"Bachelor's Degree",Male,Own,DSL,Married,3,4,2,3,4,Never,Monthly,DVD,Weekly,Weekly,899873,Rarely,Weekly,Cable,Me,151
+36,"Master's Degree",Male,Own,IDSN,Married,2,4,2,2,2,Rarely,Weekly,DVD,Weekly,Weekly,918597,Weekly,Weekly,"Digital Satellite",Me,152
+33,"Some College",Male,Own,"Cable Modem",Married,2.5,3,2,1,3,Rarely,Monthly,DVD,Monthly,Weekly,918614,Monthly,Weekly,Cable,Me,152
+37,"Bachelor's Degree",Male,Own,"Cable Modem",Married,5,5,2,3,4,Monthly,Monthly,DVD,Monthly,Weekly,918639,Monthly,Weekly,"Digital Satellite",Spouse/Partner,152
+39,"Some College",Female,Own,Dial-Up,Separated,2,2,1,1,5,Never,Weekly,VHS,Never,Weekly,918657,Rarely,Weekly,"Analog antennae",Spouse/Partner,152
+35,"Trade School",Female,Own,Dial-Up,Divorced,2.5,4,4,3,4,Rarely,Monthly,DVD,Monthly,Weekly,919792,Rarely,Daily,"Digital Satellite",Children,153
+35,"Bachelor's Degree",Male,Rent,Dial-Up,Married,1.5,2,1,2,1,Never,Monthly,"Video CD",Never,Monthly,913251,Monthly,Rarely,"Analog antennae",Me,154
+31,"Some College",Male,Own,Dial-Up,Married,1,2,1,2,3,Never,Weekly,DVD,Weekly,Daily,913287,Monthly,Daily,"Digital Satellite",Me,154
+43,"Bachelor's Degree",Male,Own,IDSN,Married,2,4,2,3,4,Never,Rarely,VHS,Monthly,Weekly,913310,Monthly,Weekly,"Analog antennae",Spouse/Partner,154
+38,"Some College",Female,Own,Dial-Up,Married,3.5,4,2,1,3,Monthly,Rarely,DVD,Weekly,Weekly,913314,Rarely,Monthly,"Digital Satellite",Spouse/Partner,154
+38,"Some College",Male,Own,"Cable Modem",Married,2,3,2,2,1,Never,Rarely,DVD,Monthly,Monthly,913317,Rarely,Rarely,Cable,Spouse/Partner,154
+39,"Master's Degree",Male,Own,Dial-Up,Married,3,3,1,2,1,Rarely,Rarely,DVD,Rarely,Rarely,913321,Monthly,Monthly,Cable,Children,154
+35,Post-Doc,Male,Own,"Cable Modem",Married,2.5,3,2,1,1,Never,Never,DVD,Monthly,Weekly,913338,Monthly,Weekly,Cable,Other,154
+40,"Bachelor's Degree",Male,Rent,DSL,Divorced,2,2,1,1,2,Never,Rarely,DVD,Rarely,Monthly,884851,Monthly,Weekly,Cable,Me,155
+29,Doctorate,Male,Own,Dial-Up,Married,2,2,2,1,1,Never,Never,DVD,Weekly,Weekly,884856,Rarely,Never,"Don't watch TV",Me,155
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3.5,4,3,3,3,Never,Rarely,DVD,Monthly,Monthly,883931,Rarely,Monthly,Cable,Me,156
+34,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,2,2,Monthly,Monthly,DVD,Monthly,Monthly,883950,Rarely,Never,"Digital Satellite",Spouse/Partner,156
+32,"Master's Degree",Male,Own,"Cable Modem",Married,3,4,3,2,3,Never,Rarely,DVD,Weekly,Weekly,883956,Rarely,Weekly,Cable,Spouse/Partner,156
+36,"Master's Degree",Male,Own,"Cable Modem",Married,3,4,2,4,3,Rarely,Rarely,DVD,Weekly,Weekly,883476,Rarely,Never,Cable,Me,157
+37,"Master's Degree",Male,Rent,IDSN,Married,2,3,1,1,2,Weekly,Monthly,"Video CD",Weekly,Rarely,883483,Monthly,Never,"Analog antennae",Spouse/Partner,157
+37,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,4,2,Rarely,Monthly,DVD,Rarely,Weekly,883486,Monthly,Monthly,Cable,Me,157
+38,"Bachelor's Degree",Male,Own,"Cable Modem",Married,1.5,3,2,1,2,Never,Rarely,DVD,Monthly,Monthly,883498,Rarely,Monthly,Cable,Me,157
+41,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,3,3,Never,Rarely,VHS,Weekly,Weekly,883507,Rarely,Weekly,Cable,Me,157
+38,"Bachelor's Degree",Male,Own,"Cable Modem",Divorced,3,4,2,2,3,Rarely,Monthly,DVD,Weekly,Weekly,883513,Monthly,Rarely,Cable,Me,157
+43,"Bachelor's Degree",Male,Own,DSL,Married,2,4,3,2,4,Never,Monthly,DVD,Monthly,Monthly,883522,Monthly,Weekly,Cable,Spouse/Partner,157
+42,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,4,3,Never,Monthly,DVD,Monthly,Monthly,883526,Rarely,Daily,Cable,Me,157
+37,Doctorate,Male,Own,"Cable Modem",Married,2,4,2,2,1,Never,Rarely,DVD,Weekly,Weekly,883527,Monthly,Monthly,Cable,Me,157
+34,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3.5,4,2,2,3,Rarely,Rarely,VHS,Weekly,Weekly,883546,Rarely,Weekly,Cable,Me,157
+29,"Bachelor's Degree",Male,Own,"Cable Modem",Married,1,2,2,2,5,Rarely,Weekly,DVD,Weekly,Weekly,892576,Rarely,Weekly,Cable,Me,158
+34,"Bachelor's Degree",Male,Own,DSL,Married,3,4,2,2,3,Never,Rarely,DVD,Monthly,Monthly,892592,Rarely,Monthly,Cable,Me,158
+35,"Some College",Male,Own,DSL,Married,2,5,2,1,3,Rarely,Rarely,DVD,Monthly,Weekly,892593,Monthly,Weekly,Cable,Spouse/Partner,158
+32,"Bachelor's Degree",Male,Rent,Dial-Up,Married,2,3,2,1,2,Never,Rarely,DVD,Weekly,Weekly,903909,Monthly,Weekly,Cable,Me,159
+35,"Grade School",Female,Rent,"Cable Modem",Married,2.5,4,2,1,2,Never,Never,DVD,Rarely,Monthly,903911,Rarely,Never,"Analog antennae",Spouse/Partner,159
+34,"High School",Male,Own,"Cable Modem",Married,2,3,2,2,4,Rarely,Rarely,DVD,Weekly,Weekly,903919,Rarely,Weekly,"Analog antennae",Me,159
+24,"Bachelor's Degree",Male,Rent,Dial-Up,Married,1,1,2,1,1,Never,Monthly,DVD,Monthly,Weekly,903930,Monthly,Never,"Analog antennae",Me,159
+33,"Bachelor's Degree",Female,Own,"Cable Modem",Married,2,4,3,3,3,Rarely,Monthly,DVD,Monthly,Weekly,903941,Monthly,Weekly,"Digital Satellite",Me,159
+42,"Some College",Male,Rent,Dial-Up,Divorced,2,2,1,3,4,Rarely,Weekly,DVD,Never,Weekly,903948,Weekly,Weekly,"Digital Satellite",Me,159
+43,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,2,2,Rarely,Never,DVD,Monthly,Monthly,903949,Rarely,Never,"Digital Satellite",Spouse/Partner,159
+34,"Master's Degree",Male,Own,Dial-Up,Married,2.5,4,2,3,1,Never,Rarely,DVD,Monthly,Monthly,903951,Rarely,Rarely,"Digital Satellite",Me,159
+42,"Master's Degree",Male,Own,"Cable Modem",Divorced,2,3,1,1,1,Never,Rarely,DVD,Monthly,Monthly,903955,Rarely,Never,"Don't watch TV",Me,159
+44,"Master's Degree",Male,Own,Dial-Up,Married,2.5,4,2,3,1,Never,Monthly,VHS,Monthly,Weekly,891978,Monthly,Rarely,"Analog antennae",Spouse/Partner,160
+34,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,1,1,Never,Never,DVD,Monthly,Monthly,891983,Monthly,Weekly,"Digital Satellite",Me,160
+30,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,4,2,2,2,Rarely,Rarely,DVD,Weekly,Weekly,892007,Monthly,Never,Cable,Me,160
+40,"Associate's Degree",Female,Rent,Dial-Up,Divorced,1,2,1,2,2,Never,Monthly,DVD,Weekly,Weekly,892008,Rarely,Weekly,Cable,Me,160
+36,"Master's Degree",Male,Own,DSL,Married,2.5,4,2,2,2,Rarely,Monthly,DVD,Rarely,Monthly,892010,Monthly,Weekly,"Digital Satellite",Me,160
+32,"Bachelor's Degree",Male,Own,Dial-Up,Married,5,5,3,1,2,Weekly,Rarely,DVD,Monthly,Rarely,892013,Monthly,Rarely,"Digital Satellite",Me,160
+29,"Bachelor's Degree",Male,Own,"Cable Modem",Married,1,2,1,2,1,Never,Rarely,DVD,Weekly,Weekly,892016,Monthly,Weekly,Cable,Me,160
+42,"Master's Degree",Male,Own,"Cable Modem",Married,1.5,3,2,3,5,Monthly,Rarely,DVD,Weekly,Weekly,899007,Monthly,Never,Cable,Spouse/Partner,161
+30,"Master's Degree",Male,Own,DSL,Married,2.5,3,2,3,4,Never,Monthly,DVD,Never,Monthly,899035,Rarely,Daily,Cable,Me,161
+56,Doctorate,Male,Own,Dial-Up,Married,2,5,1,2,2,Never,Rarely,VHS,Never,Rarely,885449,Rarely,Monthly,"Analog antennae",Me,162
+31,"Master's Degree",Male,Own,"Cable Modem",Married,3,4,2,2,2,Rarely,Rarely,DVD,Weekly,Weekly,884939,Rarely,Monthly,Cable,Me,163
+52,Post-Doc,Male,Own,Dial-Up,Married,3,3,1,2,1,Never,Rarely,DVD,Weekly,Weekly,884945,Monthly,Never,"Don't watch TV",Me,163
+26,Doctorate,Male,Rent,"Cable Modem",Married,2.5,3,1,2,1,Rarely,Never,DVD,Monthly,Monthly,884947,Never,Monthly,Cable,Spouse/Partner,163
+33,"Master's Degree",Male,Own,"Cable Modem",Married,1,3,2,1,2,Never,Rarely,DVD,Weekly,Weekly,884948,Rarely,Monthly,"Digital Satellite",Me,163
+54,Doctorate,Male,Own,DSL,Married,3,4,3,2,3,Never,Monthly,DVD,Monthly,Weekly,884961,Rarely,Weekly,"Digital Satellite",Me,163
+35,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,2,3,Never,Rarely,DVD,Monthly,Weekly,916265,Monthly,Rarely,Cable,Spouse/Partner,164
+32,"Master's Degree",Male,Own,"Cable Modem",Married,2,3,2,1,3,Monthly,Monthly,DVD,Weekly,Daily,916309,Monthly,Weekly,"Digital Satellite",Me,164
+39,"High School",Male,Own,"Cable Modem",Married,2.5,3,3,3,2,Never,Monthly,DVD,Weekly,Weekly,916321,Rarely,Never,"Digital Satellite",Spouse/Partner,164
+37,"Some College",Male,Own,DSL,Divorced,1,2,1,1,2,Rarely,Rarely,DVD,Monthly,Monthly,916326,Monthly,Monthly,Cable,Me,164
+39,Post-Doc,Male,Own,DSL,Married,2.5,4,2,3,3,Rarely,Rarely,DVD,Monthly,Monthly,896430,Monthly,Weekly,"Digital Satellite",Spouse/Partner,165
+30,"Master's Degree",Male,Own,"Cable Modem",Married,3,5,2,1,2,Never,Rarely,VHS,Weekly,Weekly,896473,Monthly,Weekly,Cable,Me,165
+34,"Bachelor's Degree",Male,Own,DSL,Married,2,3,2,2,2,Never,Monthly,DVD,Monthly,Weekly,889218,Monthly,Monthly,Cable,Children,166
+37,"Bachelor's Degree",Male,Rent,DSL,Divorced,2,2,1,1,1,Never,Rarely,DVD,Weekly,Weekly,889221,Rarely,Monthly,Cable,Children,166
+34,"Bachelor's Degree",Male,Rent,DSL,Married,2,2,1,2,2,Monthly,Monthly,DVD,Weekly,Weekly,889231,Monthly,Weekly,Cable,Me,166
+43,Doctorate,Male,Own,"Cable Modem",Married,2,5,2,3,3,Monthly,Rarely,DVD,Weekly,Weekly,889236,Monthly,Monthly,Cable,Me,166
+34,"Master's Degree",Female,Rent,"Cable Modem",Married,2,2,2,1,2,Never,Rarely,DVD,Rarely,Rarely,889237,Rarely,Daily,Cable,Me,166
+35,"Master's Degree",Male,Own,"Cable Modem",Married,1.5,4,2,2,2,Rarely,Monthly,DVD,Monthly,Weekly,889238,Monthly,Monthly,Cable,Me,166
+38,"Bachelor's Degree",Male,Own,Dial-Up,Married,1.5,3,2,1,1,Never,Rarely,DVD,Weekly,Weekly,892280,Monthly,Monthly,Cable,Spouse/Partner,167
+30,"Bachelor's Degree",Female,Own,"Cable Modem",Married,2.5,3,2,1,2,Never,Never,DVD,Rarely,Rarely,892311,Rarely,Monthly,Cable,Me,167
+49,Doctorate,Female,Own,DSL,Married,3.5,5,3,2,3,Never,Monthly,DVD,Monthly,Monthly,892312,Rarely,Weekly,Cable,Me,167
+44,Doctorate,Female,Own,DSL,Married,3.5,4,3,2,3,Never,Weekly,DVD,Monthly,Weekly,892316,Monthly,Weekly,Cable,Spouse/Partner,167
+35,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,4,2,1,2,Never,Rarely,DVD,Weekly,Weekly,892321,Monthly,Weekly,Cable,Me,167
+40,"Master's Degree",Male,Own,Dial-Up,Married,2.5,4,2,2,2,Never,Monthly,DVD,Weekly,Daily,892559,Rarely,Rarely,Cable,Children,168
+50,Doctorate,Male,Own,DSL,Married,2,3,2,1,2,Never,Rarely,DVD,Weekly,Weekly,917311,Rarely,Rarely,"Analog antennae",Other,169
+52,"Master's Degree",Male,Own,Dial-Up,Married,2,3,2,2,4,Never,Rarely,DVD,Monthly,Weekly,917319,Monthly,Daily,Cable,Me,169
+32,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,1,Never,Rarely,DVD,Monthly,Monthly,917325,Rarely,Weekly,Cable,Spouse/Partner,169
+30,"High School",Male,Own,DSL,Married,1,2,3,1,1,Rarely,Monthly,DVD,Rarely,Weekly,917329,Rarely,Weekly,"Digital Satellite",Me,169
+32,"Master's Degree",Male,Rent,DSL,Married,1.5,2,1,1,2,Never,Rarely,DVD,Monthly,Rarely,917346,Monthly,Daily,Cable,Me,169
+32,"Bachelor's Degree",Male,Rent,"Cable Modem",Married,2.5,3,2,2,3,Rarely,Rarely,DVD,Weekly,Weekly,917351,Monthly,Weekly,"Digital Satellite",Me,169
+41,"Trade School",Male,Own,DSL,Married,2.5,3,3,1,3,Monthly,Monthly,DVD,Weekly,Weekly,917356,Monthly,Rarely,"Digital Satellite",Spouse/Partner,169
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,1,2,Rarely,Monthly,DVD,Weekly,Weekly,917370,Rarely,Weekly,Cable,Me,169
+37,"Master's Degree",Male,Own,Dial-Up,Married,2.5,5,2,3,2,Never,Rarely,DVD,Weekly,Weekly,888418,Rarely,Never,"Analog antennae",Me,170
+29,"Bachelor's Degree",Male,Own,DSL,Married,1.5,2,1,1,1,Never,Never,DVD,Rarely,Rarely,888420,Monthly,Weekly,Cable,Me,170
+35,"Bachelor's Degree",Male,Own,"Cable Modem",Married,4,6,2,2,3,Monthly,Rarely,DVD,Monthly,Monthly,888431,Rarely,Monthly,Cable,Me,170
+38,"Bachelor's Degree",Male,Own,"Cable Modem",Married,1.5,3,2,2,3,Never,Monthly,DVD,Monthly,Monthly,888437,Monthly,Daily,Cable,Children,170
+35,"Master's Degree",Female,Own,"Cable Modem",Married,2.5,4,2,2,2,Monthly,Rarely,DVD,Weekly,Weekly,888451,Rarely,Monthly,Cable,Spouse/Partner,170
+42,"Bachelor's Degree",Male,Own,DSL,Married,3.5,5,3,3,2,Never,Rarely,DVD,Monthly,Monthly,888474,Rarely,Never,"Analog antennae",Me,170
+31,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3.5,4,2,2,2,Monthly,Rarely,DVD,Monthly,Monthly,892562,Rarely,Weekly,"Digital Satellite",Me,171
+31,Doctorate,Male,Own,DSL,Married,2.5,4,2,1,1,Never,Never,VHS,Rarely,Rarely,891788,Monthly,Weekly,"Digital Satellite",Other,172
+31,"Master's Degree",Male,Own,Dial-Up,Married,2.5,4,2,2,1,Never,Rarely,DVD,Monthly,Monthly,891792,Rarely,Monthly,"Analog antennae",Me,172
+33,"Bachelor's Degree",Female,Own,DSL,Married,3,5,2,1,2,Never,Rarely,DVD,Never,Rarely,891812,Rarely,Monthly,"Analog Satellite",Me,172
+28,"Some College",Male,Rent,"Cable Modem",Married,2,3,1,4,2,Rarely,Monthly,DVD,Rarely,Weekly,891814,Monthly,Rarely,Cable,Me,172
+40,"Some College",Male,Own,DSL,Married,1.5,3,2,1,3,Rarely,Rarely,DVD,Weekly,Weekly,891817,Monthly,Daily,Cable,Me,172
+39,"Master's Degree",Male,Own,"Cable Modem",Married,3.5,4,3,4,2,Monthly,Monthly,DVD,Weekly,Weekly,891836,Rarely,Never,Cable,Me,172
+32,"Master's Degree",Male,Own,"Cable Modem",Married,2,4,2,1,1,Rarely,Rarely,DVD,Weekly,Weekly,891780,Monthly,Rarely,"Analog antennae",Me,172
+38,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,2,5,Rarely,Monthly,DVD,Monthly,Monthly,888133,Rarely,Monthly,"Digital Satellite",Me,173
+32,"Bachelor's Degree",Male,Own,DSL,Married,3,4,2,2,2,Never,Rarely,DVD,Monthly,Monthly,888139,Rarely,Weekly,Cable,Me,173
+42,"Master's Degree",Female,Own,DSL,Married,2.5,4,2,1,2,Never,Rarely,DVD,Monthly,Weekly,888140,Monthly,Weekly,Cable,Spouse/Partner,173
+34,"Bachelor's Degree",Male,Own,Dial-Up,Married,3,5,2,4,4,Never,Monthly,DVD,Weekly,Weekly,888142,Monthly,Weekly,Cable,Me,173
+40,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,3,Never,Monthly,DVD,Rarely,Monthly,888146,Rarely,Monthly,Cable,Spouse/Partner,173
+40,"Bachelor's Degree",Female,Own,DSL,Other,1,2,1,1,1,Never,Rarely,DVD,Weekly,Weekly,888156,Rarely,Weekly,Cable,Me,173
+44,"Some College",Male,Rent,"Cable Modem",Married,3,4,1,2,2,Rarely,Monthly,DVD,Weekly,Weekly,888157,Rarely,Weekly,Cable,Spouse/Partner,173
+45,"Some College",Female,Rent,Dial-Up,Other,2,3,1,2,3,Never,Monthly,DVD,Monthly,Weekly,888158,Monthly,Daily,"Analog antennae",Me,173
+41,"Master's Degree",Male,Own,DSL,Married,2.5,4,1,2,2,Rarely,Monthly,VHS,Rarely,Monthly,888177,Rarely,Weekly,"Analog Satellite",Me,173
+54,"Master's Degree",Male,Own,"Cable Modem",Married,3,4,2,1,4,Never,Weekly,DVD,Rarely,Daily,888178,Monthly,Daily,Cable,Me,173
+35,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,2,2,3,Never,Rarely,DVD,Monthly,Monthly,904210,Rarely,Never,Cable,Spouse/Partner,174
+39,"Bachelor's Degree",Female,Own,DSL,Married,2.5,4,4,2,2,Never,Monthly,DVD,Monthly,Weekly,904215,Monthly,Weekly,Cable,Me,174
+38,"Master's Degree",Male,Own,DSL,Married,4,5,2,2,4,Never,Never,DVD,Weekly,Weekly,904225,Rarely,Monthly,"Digital Satellite",Me,174
+43,"Bachelor's Degree",Female,Own,Dial-Up,Married,3,4,4,2,4,Rarely,Monthly,DVD,Weekly,Weekly,904241,Monthly,Rarely,Cable,Me,174
+40,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,3,2,2,Never,Rarely,DVD,Monthly,Monthly,904251,Rarely,Monthly,"Digital Satellite",Children,174
+28,"Bachelor's Degree",Male,Own,DSL,Married,2,4,2,1,2,Rarely,Monthly,DVD,Monthly,Weekly,904263,Monthly,Rarely,Cable,Me,174
+35,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,2,Rarely,Rarely,DVD,Monthly,Monthly,877792,Rarely,Daily,Cable,Me,175
+32,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3.5,5,2,2,3,Never,Rarely,DVD,Monthly,Monthly,877840,Monthly,Weekly,Cable,Me,175
+37,"High School",Male,Own,DSL,Married,2,4,1,2,1,Rarely,Rarely,DVD,Weekly,Weekly,927058,Monthly,Daily,Cable,Me,176
+40,"Some College",Male,Own,Dial-Up,Married,2.5,3,3,2,4,Rarely,Weekly,DVD,Never,Monthly,891604,Rarely,Never,"Digital Satellite",Spouse/Partner,177
+32,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,1,2,Never,Monthly,DVD,Monthly,Monthly,891611,Monthly,Weekly,Cable,Me,177
+46,"Bachelor's Degree",Female,Own,Dial-Up,Married,2,3,4,2,1,Never,Rarely,DVD,Monthly,Monthly,891615,Monthly,Weekly,Cable,Me,177
+50,Doctorate,Female,Own,IDSN,Married,3,4,2,2,2,Monthly,Rarely,DVD,Rarely,Monthly,891637,Monthly,Weekly,Cable,Spouse/Partner,177
+42,"Bachelor's Degree",Female,Own,Dial-Up,Married,2.5,3,3,2,4,Rarely,Never,VHS,Never,Monthly,891594,Rarely,Weekly,Cable,Other,177
+37,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,3,3,4,2,Never,Rarely,DVD,Monthly,Weekly,890470,Rarely,Weekly,"Analog antennae",Spouse/Partner,178
+50,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,3,3,4,2,Never,Rarely,VHS,Monthly,Weekly,890459,Rarely,Rarely,Cable,Spouse/Partner,178
+30,"Master's Degree",Male,Rent,DSL,Married,2,2,2,2,1,Rarely,Weekly,DVD,Monthly,Monthly,889958,Monthly,Daily,Cable,Spouse/Partner,179
+31,"Bachelor's Degree",Male,Rent,Dial-Up,Married,2.5,3,2,2,1,Never,Rarely,DVD,Weekly,Weekly,889960,Monthly,Monthly,Cable,Me,179
+32,"Some College",Female,Rent,Dial-Up,"Never Married",1,2,1,1,1,Weekly,Monthly,VHS,Rarely,Weekly,889965,Rarely,Daily,Cable,Children,179
+30,"Bachelor's Degree",Male,Rent,DSL,Married,1,2,1,1,2,Monthly,Monthly,DVD,Monthly,Weekly,889975,Rarely,Monthly,Cable,Me,179
+35,"Some College",Male,Own,DSL,Married,3,4,2,2,2,Never,Monthly,DVD,Monthly,Weekly,889977,Monthly,Monthly,"Digital Satellite",Me,179
+33,"Bachelor's Degree",Male,Own,DSL,Married,2.5,5,2,1,2,Monthly,Rarely,DVD,Weekly,Weekly,889984,Rarely,Weekly,"Digital Satellite",Spouse/Partner,179
+37,"Bachelor's Degree",Male,Own,DSL,Married,5,5,2,4,5,Never,Rarely,VHS,Weekly,Weekly,889987,Rarely,Never,Cable,Spouse/Partner,179
+45,"Trade School",Male,Own,DSL,Married,2,2,2,1,3,Never,Monthly,DVD,Weekly,Weekly,889995,Monthly,Never,Cable,Spouse/Partner,179
+40,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,5,2,3,3,Rarely,Monthly,DVD,Monthly,Weekly,889996,Monthly,Weekly,"Digital Satellite",Me,179
+54,"Bachelor's Degree",Male,Own,DSL,Married,3,3,2,2,2,Never,Rarely,DVD,Monthly,Weekly,890000,Rarely,Never,"Analog antennae",Me,179
+34,"Bachelor's Degree",Male,Own,DSL,Married,3,3,3,1,2,Never,Monthly,DVD,Weekly,Weekly,888589,Monthly,Weekly,Cable,Me,180
+32,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,3,3,Never,Rarely,DVD,Monthly,Weekly,888600,Rarely,Weekly,Cable,Children,180
+34,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,3,2,1,1,Never,Monthly,DVD,Weekly,Weekly,888601,Monthly,Rarely,"Analog antennae",Me,180
+35,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,2,3,Rarely,Never,DVD,Rarely,Rarely,888613,Monthly,Daily,Cable,Me,180
+27,"Some College",Male,Rent,DSL,Married,2.5,4,2,3,2,Never,Weekly,DVD,Monthly,Weekly,879889,Rarely,Never,"Don't watch TV",Me,181
+33,"Bachelor's Degree",Female,Own,DSL,Other,1.5,2,2,1,1,Rarely,Rarely,DVD,Weekly,Weekly,899392,Rarely,Monthly,Cable,Me,182
+40,"Bachelor's Degree",Male,Own,Dial-Up,"Never Married",2,3,1,1,2,Never,Monthly,DVD,Rarely,Weekly,899418,Rarely,Weekly,Cable,Me,182
+35,Doctorate,Male,Own,"Cable Modem",Married,2.5,4,1,1,1,Rarely,Rarely,DVD,Rarely,Rarely,893591,Monthly,Weekly,Cable,Me,183
+37,"Bachelor's Degree",Female,Own,Dial-Up,Divorced,3,4,1,1,1,Never,Monthly,DVD,Weekly,Weekly,891522,Weekly,Rarely,Cable,Children,184
+35,"Some College",Male,Own,DSL,Married,2.5,3,2,1,2,Monthly,Rarely,DVD,Rarely,Monthly,891523,Monthly,Weekly,Cable,Me,184
+32,"Bachelor's Degree",Male,Own,DSL,Married,2,3,2,3,3,Never,Monthly,DVD,Monthly,Weekly,891545,Monthly,Weekly,Cable,Spouse/Partner,184
+36,"Bachelor's Degree",Female,Own,DSL,Married,4,4,1,1,1,Rarely,Monthly,DVD,Weekly,Weekly,891551,Monthly,Never,Cable,Other,184
+33,"Some College",Male,Own,Dial-Up,Married,1,3,2,2,1,Never,Never,DVD,Weekly,Weekly,891559,Monthly,Never,"Don't watch TV",Me,184
+26,"Grade School",Male,Own,DSL,Married,2.5,3,1,1,1,Never,Monthly,DVD,Monthly,Daily,882626,Rarely,Rarely,"Don't watch TV",Me,185
+35,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,2,2,Never,Rarely,DVD,Monthly,Monthly,882631,Rarely,Weekly,Cable,Me,185
+33,Doctorate,Male,Own,DSL,Married,2,3,2,1,2,Never,Never,DVD,Rarely,Rarely,882652,Rarely,Monthly,"Analog antennae",Spouse/Partner,185
+35,"Associate's Degree",Male,Own,DSL,Married,3,3,2,2,3,Rarely,Monthly,DVD,Rarely,Monthly,882616,Rarely,Daily,Cable,Me,185
+30,"Master's Degree",Male,Rent,"Cable Modem",Married,2,2,1,2,1,Never,Rarely,DVD,Monthly,Monthly,882612,Monthly,Never,Cable,Me,185
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,3,2,1,3,Never,Monthly,DVD,Rarely,Weekly,923843,Monthly,Weekly,Cable,Me,186
+33,Doctorate,Male,Own,"Cable Modem",Married,3.5,4,2,2,2,Never,Rarely,DVD,Rarely,Monthly,889052,Monthly,Weekly,Cable,Me,187
+36,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,2,1,1,2,Never,Monthly,DVD,Weekly,Weekly,889066,Monthly,Rarely,"Don't watch TV",Me,187
+36,"Master's Degree",Male,Own,DSL,Married,2.5,4,2,1,2,Never,Rarely,VHS,Weekly,Weekly,889075,Rarely,Rarely,Cable,Spouse/Partner,187
+45,"Bachelor's Degree",Male,Own,Dial-Up,Married,3,5,6,3,6,Never,Monthly,DVD,Rarely,Weekly,889077,Monthly,Weekly,Cable,Me,187
+38,"Some College",Male,Own,"Cable Modem",Married,2,4,2,3,1,Never,Rarely,DVD,Monthly,Monthly,889094,Rarely,Never,Cable,Me,187
+36,"Some College",Male,Own,"Cable Modem",Married,2,3,2,2,3,Monthly,Monthly,DVD,Weekly,Weekly,889095,Monthly,Daily,"Digital Satellite",Spouse/Partner,187
+25,"Bachelor's Degree",Male,Rent,Dial-Up,Married,1.5,2,1,1,2,Rarely,Weekly,DVD,Rarely,Weekly,889109,Rarely,Rarely,Cable,Me,187
+30,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,1,1,Monthly,Rarely,DVD,Weekly,Weekly,906162,Rarely,Rarely,"Digital Satellite",Spouse/Partner,188
+34,"Master's Degree",Female,Own,Dial-Up,Married,2.5,4,5,1,1,Rarely,Monthly,DVD,Monthly,Monthly,906165,Weekly,Daily,Cable,Me,188
+40,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,2,2,3,Never,Rarely,DVD,Weekly,Weekly,906176,Monthly,Monthly,Cable,Me,188
+27,"Some College",Male,Own,DSL,Married,2.5,4,2,1,2,Never,Never,VHS,Monthly,Monthly,891024,Rarely,Never,Cable,Spouse/Partner,189
+34,"Bachelor's Degree",Male,Rent,Dial-Up,Married,1,2,2,1,1,Never,Rarely,DVD,Monthly,Monthly,891032,Rarely,Monthly,"Analog antennae",Me,189
+44,"Master's Degree",Male,Own,"Cable Modem",Married,3.5,4,3,2,4,Rarely,Monthly,DVD,Rarely,Monthly,891040,Monthly,Monthly,Cable,Me,189
+43,"Bachelor's Degree",Male,Own,"Cable Modem",Married,4,5,2,1,5,Rarely,Weekly,DVD,Monthly,Weekly,891058,Weekly,Daily,Cable,Spouse/Partner,189
+36,"High School",Male,Own,DSL,Married,2,4,1,2,3,Never,Monthly,DVD,Rarely,Weekly,891063,Rarely,Weekly,Cable,Me,189
+34,"Master's Degree",Male,Own,"Cable Modem",Married,4,5,2,1,4,Monthly,Monthly,DVD,Weekly,Weekly,891074,Monthly,Weekly,Cable,Me,189
+42,"Bachelor's Degree",Male,Own,DSL,Married,3,4,3,3,7,Never,Monthly,DVD,Weekly,Weekly,891088,Monthly,Weekly,Cable,Me,189
+41,"Bachelor's Degree",Male,Own,DSL,Divorced,2,4,2,2,1,Monthly,Rarely,DVD,Monthly,Monthly,891126,Rarely,Monthly,"Digital Satellite",Me,189
+28,"Some College",Male,Own,DSL,Married,2,3,2,3,2,Weekly,Weekly,DVD,Weekly,Weekly,882868,Rarely,Weekly,"Digital Satellite",Me,190
+35,Doctorate,Female,Own,Dial-Up,Married,2.5,4,2,2,1,Rarely,Rarely,DVD,Weekly,Weekly,882869,Rarely,Rarely,Cable,Children,190
+34,"Master's Degree",Male,Own,"Cable Modem",Married,3,4,2,2,2,Never,Monthly,DVD,Monthly,Weekly,882886,Monthly,Weekly,Cable,Me,190
+34,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3.5,4,2,1,4,Rarely,Monthly,DVD,Weekly,Weekly,882891,Monthly,Weekly,Cable,Me,190
+35,"Master's Degree",Male,Own,DSL,Separated,3,4,2,1,3,Monthly,Monthly,DVD,Monthly,Monthly,882837,Monthly,Daily,Cable,Me,190
+34,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,1,4,Rarely,Rarely,DVD,Monthly,Monthly,895043,Monthly,Weekly,Cable,Me,191
+41,"Bachelor's Degree",Female,Own,"Cable Modem",Married,2.5,3,4,2,5,Never,Rarely,DVD,Weekly,Weekly,895103,Rarely,Rarely,Cable,Spouse/Partner,191
+26,"Some College",Male,Own,"Cable Modem",Married,2.5,4,2,1,2,Monthly,Never,VHS,Rarely,Monthly,890022,Rarely,Weekly,"Digital Satellite",Spouse/Partner,192
+49,"Bachelor's Degree",Female,Own,DSL,Married,3,4,2,1,5,Never,Never,VHS,Weekly,Weekly,890027,Rarely,Monthly,Cable,Me,192
+45,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,4,2,2,3,Rarely,Monthly,DVD,Weekly,Weekly,884971,Rarely,Rarely,Cable,Other,193
+38,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,1,1,3,Rarely,Rarely,DVD,Weekly,Weekly,884979,Monthly,Never,"Don't watch TV",Me,193
+42,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,3,Never,Rarely,DVD,Weekly,Weekly,884980,Rarely,Monthly,Cable,Me,193
+42,Doctorate,Male,Own,IDSN,Married,2,5,2,1,3,Never,Weekly,Laserdisk,Weekly,Weekly,884987,Weekly,Weekly,Cable,Me,193
+39,Doctorate,Male,Own,"Cable Modem",Married,3.5,4,2,1,3,Never,Rarely,DVD,Weekly,Weekly,884988,Monthly,Daily,Cable,Me,193
+43,"Master's Degree",Female,Rent,DSL,Married,1,3,3,2,1,Never,Monthly,DVD,Rarely,Weekly,884989,Rarely,Never,"Don't watch TV",Other,193
+37,Doctorate,Male,Rent,"Cable Modem",Married,2.5,3,2,2,1,Monthly,Rarely,DVD,Weekly,Weekly,885004,Rarely,Weekly,Cable,Spouse/Partner,193
+37,Doctorate,Male,Own,Dial-Up,Married,4,5,3,2,2,Rarely,Rarely,DVD,Rarely,Rarely,885008,Monthly,Weekly,"Digital Satellite",Spouse/Partner,193
+28,"Grade School",Male,Own,"Cable Modem",Married,2.5,4,1,1,2,Monthly,Rarely,DVD,Monthly,Monthly,916208,Monthly,Daily,Cable,Me,194
+28,"Some College",Female,Rent,DSL,Divorced,2,2,2,1,1,Rarely,Monthly,DVD,Weekly,Weekly,916215,Never,Monthly,"Digital Satellite",Me,194
+27,"Bachelor's Degree",Male,Rent,DSL,Married,1,2,1,1,1,Never,Monthly,DVD,Rarely,Weekly,916198,Rarely,Daily,Cable,Me,194
+30,"Master's Degree",Male,Rent,Dial-Up,Married,2,2,1,1,1,Never,Never,DVD,Monthly,Monthly,882320,Rarely,Monthly,Cable,Spouse/Partner,195
+42,"Bachelor's Degree",Male,Own,Dial-Up,Married,3,5,2,3,1,Never,Rarely,DVD,Weekly,Weekly,882324,Monthly,Never,"Don't watch TV",Spouse/Partner,195
+28,"Bachelor's Degree",Male,Own,"Cable Modem",Married,1.5,4,2,2,3,Never,Monthly,DVD,Weekly,Weekly,882330,Monthly,Rarely,"Analog antennae",Me,195
+32,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,2,2,Never,Rarely,DVD,Weekly,Weekly,882332,Monthly,Never,Cable,Other,195
+31,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,2,2,2,Never,Rarely,VHS,Weekly,Weekly,882459,Monthly,Rarely,Cable,Children,196
+52,"Master's Degree",Male,Own,Dial-Up,Married,2.5,4,3,3,2,Rarely,Rarely,VHS,Monthly,Monthly,882469,Rarely,Weekly,Cable,Spouse/Partner,196
+31,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,1,1,Rarely,Rarely,VHS,Weekly,Weekly,882478,Rarely,Monthly,Cable,Me,196
+35,"Bachelor's Degree",Male,Own,DSL,Married,2,4,2,2,4,Rarely,Monthly,DVD,Rarely,Monthly,882479,Rarely,Monthly,Cable,Me,196
+36,"Master's Degree",Male,Own,"Cable Modem",Married,1.5,4,2,2,1,Never,Monthly,DVD,Monthly,Weekly,882483,Monthly,Weekly,Cable,Spouse/Partner,196
+27,"Master's Degree",Male,Rent,"Cable Modem",Married,1.5,3,2,2,2,Rarely,Monthly,DVD,Monthly,Weekly,882497,Monthly,Daily,Cable,Me,196
+37,"Some College",Female,Own,DSL,Married,2,4,3,3,2,Never,Never,VHS,Monthly,Weekly,897636,Rarely,Weekly,Cable,Spouse/Partner,197
+33,"Bachelor's Degree",Male,Own,DSL,Married,4.5,5,3,2,4,Never,Rarely,DVD,Weekly,Weekly,888368,Rarely,Weekly,"Digital Satellite",Me,198
+38,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,3,2,8,Rarely,Monthly,DVD,Rarely,Weekly,888371,Rarely,Rarely,"Digital Satellite",Spouse/Partner,198
+30,"Bachelor's Degree",Male,Rent,"Cable Modem",Married,2,2,1,1,1,Never,Rarely,DVD,Weekly,Monthly,888378,Monthly,Weekly,Cable,Spouse/Partner,198
+32,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,1,2,Never,Monthly,DVD,Weekly,Weekly,888389,Rarely,Rarely,Cable,Me,198
+32,"Some College",Male,Own,"Cable Modem",Married,1,3,2,1,2,Never,Rarely,DVD,Monthly,Monthly,888399,Rarely,Weekly,Cable,Me,198
+39,"Master's Degree",Male,Own,DSL,Married,5,4,2,2,2,Rarely,Rarely,DVD,Weekly,Weekly,915521,Monthly,Rarely,"Digital Satellite",Other,199
+38,"Master's Degree",Female,Own,Dial-Up,Married,2.5,4,2,2,3,Rarely,Rarely,VHS,Monthly,Monthly,915522,Rarely,Weekly,"Digital Satellite",Spouse/Partner,199
+45,"Bachelor's Degree",Female,Own,"Cable Modem",Married,1,3,4,2,7,Never,Weekly,DVD,Rarely,Daily,915564,Rarely,Monthly,"Digital Satellite",Me,199
+48,"Bachelor's Degree",Male,Own,DSL,Separated,2.5,4,4,2,2,Never,Monthly,DVD,Monthly,Weekly,892507,Rarely,Rarely,"Analog antennae",Me,200
+33,Doctorate,Male,Own,DSL,Married,2.5,3,2,2,2,Never,Rarely,DVD,Weekly,Weekly,892510,Rarely,Never,"Digital Satellite",Me,200
+38,"Master's Degree",Male,Rent,"No Internet Connection",Married,2,3,1,3,2,Never,Monthly,DVD,Monthly,Daily,892514,Monthly,Monthly,Cable,Me,200
+25,"Bachelor's Degree",Male,Rent,DSL,Married,2,3,2,1,1,Monthly,Rarely,DVD,Weekly,Weekly,916519,Monthly,Weekly,Cable,Spouse/Partner,201
+36,"Bachelor's Degree",Male,Own,"Cable Modem",Married,4.5,4,2,2,3,Monthly,Monthly,DVD,Rarely,Weekly,888895,Rarely,Weekly,"Digital Satellite",Me,202
+40,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,2,2,Never,Monthly,DVD,Rarely,Monthly,888902,Rarely,Rarely,Cable,Me,202
+56,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,3,2,2,Never,Monthly,DVD,Monthly,Weekly,906166,Rarely,Rarely,Cable,Me,203
+37,Post-Doc,Male,Own,"Cable Modem",Married,3,4,2,2,3,Never,Rarely,DVD,Weekly,Weekly,885149,Rarely,Monthly,"Digital Satellite",Me,204
+33,"Master's Degree",Male,Own,DSL,Married,1,2,2,1,1,Never,Never,VHS,Weekly,Weekly,885159,Monthly,Never,"Analog antennae",Spouse/Partner,204
+41,Post-Doc,Female,Own,DSL,Married,2,4,2,1,1,Never,Never,VHS,Monthly,Monthly,885163,Monthly,Never,"Analog antennae",Spouse/Partner,204
+31,"Bachelor's Degree",Female,Own,"Cable Modem",Married,1,2,1,2,1,Never,Monthly,DVD,Rarely,Weekly,914765,Monthly,Weekly,"Digital Satellite",Spouse/Partner,205
+34,Doctorate,Male,Own,Dial-Up,Married,3,4,2,4,1,Never,Rarely,DVD,Monthly,Monthly,914770,Rarely,Monthly,Cable,Me,205
+33,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,4,2,2,2,Never,Rarely,DVD,Weekly,Weekly,889292,Rarely,Rarely,Cable,Spouse/Partner,206
+44,"Some College",Male,Own,"Cable Modem",Married,2.5,3,2,1,2,Never,Monthly,DVD,Never,Weekly,889299,Rarely,Monthly,Cable,Me,206
+30,"Master's Degree",Female,Rent,DSL,Married,2,2,1,2,1,Never,Rarely,DVD,Weekly,Weekly,889307,Rarely,Daily,Cable,Me,206
+30,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,3,1,Monthly,Rarely,DVD,Weekly,Weekly,889319,Monthly,Daily,Cable,Me,206
+23,"Some College",Male,Own,"Cable Modem",Married,2,5,2,2,3,Rarely,Monthly,DVD,Monthly,Weekly,900576,Monthly,Monthly,"Digital Satellite",Spouse/Partner,207
+38,"Bachelor's Degree",Male,Own,Other,Married,2.5,3,2,1,1,Never,Monthly,DVD,Rarely,Weekly,887298,Monthly,Weekly,Cable,Other,208
+55,Doctorate,Male,Own,"Cable Modem",Married,3.5,3,3,2,2,Rarely,Monthly,DVD,Monthly,Monthly,887325,Monthly,Weekly,Cable,Me,208
+55,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,4,2,3,2,Never,Never,VHS,Weekly,Weekly,887347,Rarely,Daily,Cable,Children,208
+31,"Bachelor's Degree",Male,Own,DSL,Married,2,4,2,1,2,Never,Monthly,DVD,Monthly,Weekly,916159,Monthly,Rarely,Cable,Me,209
+36,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,5,2,3,3,Monthly,Rarely,DVD,Rarely,Monthly,916189,Monthly,Never,"Digital Satellite",Me,209
+29,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,1,1,Never,Rarely,VHS,Weekly,Weekly,882341,Monthly,Weekly,Cable,Spouse/Partner,210
+31,"Some College",Male,Own,DSL,Separated,2,3,2,3,1,Rarely,Rarely,DVD,Monthly,Weekly,882342,Monthly,Weekly,Cable,Me,210
+33,"Master's Degree",Female,Own,"Cable Modem",Married,1.5,4,2,1,1,Rarely,Monthly,DVD,Weekly,Weekly,882348,Monthly,Never,"Don't watch TV",Spouse/Partner,210
+37,"Master's Degree",Male,Own,DSL,Divorced,2.5,3,1,3,1,Never,Rarely,DVD,Weekly,Weekly,882350,Monthly,Never,Cable,Other,210
+40,"Master's Degree",Male,Own,Dial-Up,Married,2.5,4,2,4,1,Never,Rarely,DVD,Monthly,Weekly,882356,Rarely,Weekly,Cable,Other,210
+23,"Master's Degree",Male,Own,"Cable Modem",Married,2,2,1,1,1,Rarely,Rarely,DVD,Rarely,Monthly,882360,Rarely,Rarely,Cable,Me,210
+38,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,5,2,4,3,Never,Monthly,DVD,Monthly,Weekly,889007,Rarely,Daily,Cable,Other,211
+41,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,4,3,2,1,Never,Weekly,DVD,Monthly,Weekly,889008,Rarely,Weekly,Cable,Me,211
+36,"Bachelor's Degree",Male,Rent,"Cable Modem",Married,1.5,2,2,1,2,Rarely,Rarely,DVD,Monthly,Monthly,889010,Rarely,Weekly,Cable,Me,211
+29,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,3,3,Rarely,Rarely,DVD,Weekly,Weekly,889014,Rarely,Weekly,Cable,Spouse/Partner,211
+60,"Associate's Degree",Male,Own,Dial-Up,Married,3,4,2,2,3,Never,Monthly,DVD,Weekly,Daily,889022,Monthly,Never,Cable,Me,211
+29,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,4,2,2,2,Never,Monthly,DVD,Weekly,Weekly,887966,Monthly,Never,Cable,Spouse/Partner,212
+39,Doctorate,Male,Own,Dial-Up,Divorced,2.5,2,1,1,2,Never,Monthly,DVD,Weekly,Weekly,887973,Monthly,Monthly,Cable,Me,212
+28,"Master's Degree",Male,Own,DSL,Married,1,3,2,2,1,Never,Monthly,DVD,Monthly,Weekly,887982,Rarely,Monthly,Cable,Me,212
+42,"Master's Degree",Male,Own,DSL,Married,2.5,3,2,2,3,Weekly,Monthly,DVD,Never,Monthly,913147,Rarely,Weekly,"Digital Satellite",Spouse/Partner,213
+25,"Some College",Male,Rent,Dial-Up,Married,3.5,6,2,2,4,Rarely,Rarely,DVD,Weekly,Weekly,913156,Weekly,Monthly,Cable,Me,213
+30,"Master's Degree",Male,Own,DSL,Married,2,3,1,2,2,Rarely,Monthly,DVD,Rarely,Monthly,913173,Monthly,Weekly,"Analog antennae",Me,213
+38,"Master's Degree",Female,Own,DSL,Married,2.5,4,2,2,3,Never,Rarely,VHS,Weekly,Weekly,913183,Monthly,Never,Cable,Children,213
+32,"Master's Degree",Male,Own,DSL,Married,2,3,1,1,2,Rarely,Monthly,DVD,Monthly,Weekly,913198,Monthly,Daily,Cable,Me,213
+40,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,3,Rarely,Monthly,DVD,Rarely,Weekly,913205,Monthly,Daily,Cable,Me,213
+45,"Associate's Degree",Female,Rent,"Cable Modem",Divorced,1,3,1,3,4,Never,Monthly,DVD,Weekly,Weekly,918710,Rarely,Monthly,Cable,Spouse/Partner,214
+36,"High School",Male,Own,DSL,Separated,4,5,3,2,3,Never,Monthly,DVD,Daily,Weekly,918730,Monthly,Weekly,Cable,Spouse/Partner,214
+49,"Some College",Male,Own,Dial-Up,Married,2.5,3,2,2,1,Never,Monthly,VHS,Weekly,Weekly,918742,Rarely,Weekly,Cable,Me,214
+33,"Bachelor's Degree",Male,Own,DSL,Married,1,3,2,1,1,Never,Rarely,DVD,Weekly,Weekly,918773,Weekly,Never,"Analog antennae",Me,214
+39,"Some College",Male,Own,DSL,Married,2,3,1,2,3,Never,Rarely,DVD,Never,Weekly,918775,Monthly,Never,Cable,Children,214
+30,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,3,1,1,2,Rarely,Rarely,VHS,Weekly,Monthly,893132,Monthly,Daily,Cable,Me,215
+35,"Bachelor's Degree",Female,Own,"Cable Modem",Married,4.5,5,2,2,4,Never,Rarely,DVD,Weekly,Weekly,893128,Rarely,Rarely,Cable,Spouse/Partner,215
+32,"Bachelor's Degree",Female,Rent,Dial-Up,Divorced,2,2,1,1,1,Never,Monthly,DVD,Weekly,Weekly,904817,Monthly,Never,Cable,Me,216
+38,"Bachelor's Degree",Male,Own,Dial-Up,Married,3,5,2,3,2,Never,Monthly,DVD,Weekly,Weekly,904823,Rarely,Never,"Don't watch TV",Other,216
+55,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,3,3,1,Never,Monthly,DVD,Weekly,Weekly,904984,Rarely,Rarely,Cable,Me,216
+43,Doctorate,Male,Own,DSL,Married,2.5,4,2,3,3,Never,Monthly,VHS,Rarely,Weekly,890047,Rarely,Rarely,Cable,Other,217
+45,"Master's Degree",Male,Own,Dial-Up,Married,2.5,3,2,2,4,Never,Never,DVD,Rarely,Daily,890052,Monthly,Never,"Analog antennae",Me,217
+26,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,3,2,2,1,Never,Rarely,DVD,Monthly,Rarely,890055,Rarely,Monthly,Cable,Me,217
+25,"Master's Degree",Male,Own,DSL,Married,2.5,3,1,1,2,Rarely,Weekly,"Video CD",Daily,Daily,890056,Monthly,Daily,"Digital Satellite",Me,217
+30,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,1,2,Rarely,Monthly,DVD,Weekly,Weekly,890057,Rarely,Weekly,Cable,Me,217
+46,"Master's Degree",Female,Own,Dial-Up,Married,3,4,2,3,3,Monthly,Rarely,DVD,Weekly,Monthly,890059,Weekly,Rarely,"Digital Satellite",Children,217
+40,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,1,1,4,Rarely,Monthly,DVD,Weekly,Weekly,890061,Monthly,Rarely,Cable,Me,217
+44,"Master's Degree",Female,Own,"Cable Modem",Married,3,5,3,1,3,Never,Rarely,VHS,Weekly,Weekly,903826,Rarely,Rarely,Cable,Children,218
+41,"Bachelor's Degree",Male,Own,Dial-Up,Married,1.5,4,2,2,2,Never,Rarely,DVD,Weekly,Weekly,903828,Monthly,Weekly,Cable,Me,218
+28,"Some College",Male,Own,"Cable Modem",Married,3.5,5,2,4,4,Never,Monthly,DVD,Weekly,Weekly,903863,Monthly,Monthly,Cable,Spouse/Partner,218
+48,"Some College",Male,Rent,Dial-Up,Married,3,4,3,3,3,Never,Never,VHS,Monthly,Weekly,917610,Monthly,Weekly,Cable,Other,219
+31,"Some College",Male,Own,DSL,Divorced,2.5,2,1,2,2,Never,Monthly,DVD,Monthly,Weekly,917613,Monthly,Never,"Digital Satellite",Spouse/Partner,219
+32,Doctorate,Male,Own,Dial-Up,Married,2.5,4,2,2,1,Never,Rarely,DVD,Weekly,Weekly,917626,Monthly,Weekly,Cable,Me,219
+32,"Bachelor's Degree",Male,Own,DSL,Married,2,3,2,2,3,Never,Rarely,DVD,Monthly,Weekly,917632,Monthly,Weekly,Cable,Me,219
+43,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,4,2,2,3,Never,Rarely,DVD,Monthly,Monthly,917649,Rarely,Monthly,Cable,Children,219
+43,"Some College",Female,Own,DSL,Married,2.5,3,2,1,2,Rarely,Monthly,DVD,Weekly,Weekly,917653,Rarely,Monthly,"Digital Satellite",Me,219
+28,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,3,2,1,3,Rarely,Monthly,DVD,Weekly,Weekly,917654,Monthly,Rarely,Cable,Me,219
+34,"Associate's Degree",Male,Own,"Cable Modem",Married,2,3,2,2,3,Never,Rarely,DVD,Weekly,Weekly,917603,Rarely,Rarely,Cable,Me,219
+36,"Master's Degree",Female,Own,"Cable Modem",Divorced,2.5,4,1,1,4,Never,Never,VHS,Never,Monthly,917586,Monthly,Monthly,Cable,Me,219
+35,"Some College",Male,Own,DSL,Married,3,4,2,2,3,Monthly,Monthly,DVD,Weekly,Weekly,889424,Monthly,Daily,"Digital Satellite",Me,220
+47,Doctorate,Male,Own,DSL,Married,3,3,3,3,2,Never,Monthly,DVD,Monthly,Weekly,889426,Weekly,Monthly,"Digital Satellite",Children,220
+28,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,1,1,1,Rarely,Rarely,DVD,Monthly,Weekly,889435,Rarely,Monthly,Cable,Spouse/Partner,220
+35,"Master's Degree",Female,Own,"Cable Modem",Married,3,4,3,1,1,Never,Rarely,VHS,Weekly,Weekly,889443,Monthly,Never,Cable,Spouse/Partner,220
+35,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,1,1,Never,Rarely,DVD,Rarely,Monthly,889465,Rarely,Rarely,"Don't watch TV",Spouse/Partner,220
+43,"Master's Degree",Male,Own,Dial-Up,Married,3,4,2,2,3,Never,Rarely,DVD,Weekly,Weekly,889468,Monthly,Weekly,Cable,Spouse/Partner,220
+47,"Master's Degree",Male,Own,Dial-Up,Married,4,4,2,3,3,Monthly,Rarely,DVD,Rarely,Weekly,889471,Rarely,Rarely,Cable,Me,220
+40,"High School",Male,Own,DSL,Married,3.5,4,2,1,4,Never,Weekly,DVD,Rarely,Weekly,915887,Rarely,Weekly,"Digital Satellite",Me,221
+37,"Bachelor's Degree",Male,Own,Dial-Up,Married,1,3,2,1,2,Never,Never,VHS,Weekly,Weekly,915897,Monthly,Weekly,"Digital Satellite",Me,221
+25,"Bachelor's Degree",Female,Own,"Cable Modem",Married,2.5,4,2,2,5,Never,Rarely,DVD,Monthly,Monthly,915909,Monthly,Rarely,Cable,Me,221
+40,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,4,1,4,Rarely,Rarely,DVD,Weekly,Weekly,915938,Rarely,Weekly,"Analog antennae",Spouse/Partner,221
+30,"Master's Degree",Male,Own,"Cable Modem",Married,4,4,2,1,3,Rarely,Monthly,DVD,Monthly,Weekly,915958,Monthly,Weekly,Cable,Me,221
+35,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,2,1,Never,Rarely,DVD,Weekly,Daily,915983,Monthly,Weekly,Cable,Children,221
+41,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,2,2,Never,Weekly,DVD,Weekly,Weekly,915994,Weekly,Never,Cable,Me,221
+47,"Master's Degree",Female,Own,"Cable Modem",Married,2.5,4,2,1,2,Never,Rarely,DVD,Weekly,Weekly,889826,Monthly,Never,Cable,Me,222
+37,Doctorate,Male,Own,Dial-Up,Married,2.5,4,2,2,2,Never,Rarely,DVD,Weekly,Weekly,889839,Rarely,Rarely,Cable,Me,222
+30,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,2,4,2,Rarely,Monthly,VHS,Weekly,Weekly,889823,Rarely,Rarely,Cable,Me,222
+34,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,3,2,Monthly,Rarely,DVD,Weekly,Weekly,921894,Monthly,Daily,Cable,Me,223
+37,"Bachelor's Degree",Male,Own,"Cable Modem",Other,2,3,2,4,1,Never,Monthly,DVD,Weekly,Weekly,885032,Rarely,Rarely,Cable,Spouse/Partner,224
+41,"Master's Degree",Male,Own,DSL,Married,5,6,2,3,5,Monthly,Monthly,DVD,Monthly,Weekly,885041,Rarely,Monthly,Cable,Me,224
+30,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,1,2,Never,Monthly,DVD,Rarely,Rarely,885047,Rarely,Never,"Don't watch TV",Me,224
+34,"Bachelor's Degree",Male,Own,Dial-Up,Married,3,4,2,2,3,Rarely,Monthly,DVD,Weekly,Weekly,885052,Rarely,Rarely,Cable,Me,224
+48,"Master's Degree",Male,Own,DSL,Married,5,10,1,3,2,Never,Rarely,DVD,Never,Rarely,885056,Weekly,Monthly,"Digital Satellite",Me,224
+56,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,3,2,3,Never,Rarely,DVD,Weekly,Weekly,904043,Rarely,Never,Cable,Spouse/Partner,225
+53,"Some College",Female,Rent,IDSN,Divorced,1,3,2,3,3,Rarely,Rarely,VHS,Weekly,Weekly,904045,Monthly,Monthly,Cable,Me,225
+36,"Some College",Female,Own,Dial-Up,Married,2,2,2,2,2,Never,Monthly,DVD,Monthly,Weekly,904073,Rarely,Rarely,"Analog antennae",Me,225
+32,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,5,2,1,2,Never,Rarely,DVD,Monthly,Monthly,904074,Rarely,Rarely,Cable,Spouse/Partner,225
+48,"Some College",Female,Own,Dial-Up,Married,2.5,3,3,3,3,Weekly,Never,"Video CD",Rarely,Rarely,904076,Rarely,Weekly,"Digital Satellite",Me,225
+48,"Bachelor's Degree",Male,Own,DSL,Married,1,3,2,2,4,Rarely,Monthly,DVD,Monthly,Weekly,889345,Rarely,Weekly,"Digital Satellite",Me,226
+35,"Master's Degree",Female,Own,Dial-Up,Married,3,5,2,1,2,Never,Rarely,DVD,Weekly,Weekly,889346,Rarely,Never,Cable,Spouse/Partner,226
+43,"Bachelor's Degree",Male,Own,Dial-Up,Married,3,3,2,1,2,Rarely,Rarely,VHS,Weekly,Weekly,889349,Rarely,Rarely,Cable,Children,226
+38,"Bachelor's Degree",Male,Own,Dial-Up,Married,3.5,4,3,1,2,Rarely,Monthly,DVD,Monthly,Monthly,889350,Monthly,Weekly,Cable,Spouse/Partner,226
+55,Doctorate,Male,Own,Dial-Up,Married,2.5,4,3,1,3,Never,Rarely,DVD,Weekly,Weekly,889376,Rarely,Weekly,Cable,Spouse/Partner,226
+39,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,2,2,Never,Monthly,DVD,Monthly,Weekly,905587,Rarely,Rarely,"Digital Satellite",Me,227
+35,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,4,2,3,7,Rarely,Monthly,DVD,Rarely,Weekly,905634,Rarely,Weekly,"Digital Satellite",Me,227
+40,"Some College",Male,Own,"Cable Modem",Married,2.5,3,2,2,3,Never,Monthly,DVD,Weekly,Weekly,911158,Monthly,Weekly,Cable,Me,228
+35,"Bachelor's Degree",Male,Own,DSL,Married,2,4,2,2,2,Never,Rarely,DVD,Monthly,Monthly,904161,Monthly,Rarely,Cable,Me,229
+34,"Bachelor's Degree",Male,Own,DSL,Married,2.5,2,2,1,1,Never,Rarely,DVD,Weekly,Weekly,904167,Rarely,Weekly,Cable,Me,229
+36,"Master's Degree",Male,Own,Dial-Up,Married,2.5,3,2,2,3,Rarely,Rarely,DVD,Monthly,Rarely,889525,Monthly,Daily,Cable,Me,230
+40,"Bachelor's Degree",Female,Own,"Cable Modem",Married,3.5,4,3,4,4,Rarely,Rarely,DVD,Weekly,Weekly,889534,Rarely,Never,Cable,Me,230
+36,"Master's Degree",Female,Own,DSL,Married,3.5,5,2,2,4,Rarely,Monthly,VHS,Monthly,Weekly,889538,Monthly,Monthly,Cable,Children,230
+35,"Bachelor's Degree",Female,Own,Dial-Up,Married,3,4,2,2,4,Never,Monthly,DVD,Weekly,Weekly,889556,Rarely,Monthly,"Digital Satellite",Me,230
+47,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,2,2,Never,Rarely,DVD,Weekly,Weekly,889557,Monthly,Never,"Analog antennae",Me,230
+33,"Bachelor's Degree",Male,Own,Other,Married,3,4,2,2,5,Rarely,Rarely,DVD,Weekly,Weekly,889563,Monthly,Weekly,"Digital Satellite",Spouse/Partner,230
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,3,2,Never,Rarely,DVD,Weekly,Weekly,889570,Rarely,Rarely,Cable,Me,230
+33,"Master's Degree",Male,Own,Dial-Up,Married,3.5,3,2,1,2,Never,Never,DVD,Weekly,Weekly,925876,Monthly,Rarely,Cable,Me,231
+30,"Bachelor's Degree",Female,Own,"Cable Modem",Married,2.5,4,2,1,2,Rarely,Rarely,"Video CD",Rarely,Rarely,882919,Rarely,Monthly,Cable,Spouse/Partner,232
+41,Post-Doc,Male,Own,"Cable Modem",Married,2.5,4,2,2,3,Never,Rarely,DVD,Weekly,Weekly,882923,Monthly,Weekly,Cable,Me,232
+36,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3.5,4,2,4,2,Never,Rarely,DVD,Monthly,Monthly,882927,Monthly,Weekly,"Analog antennae",Children,232
+25,"Some College",Male,Own,Other,Married,2.5,4,2,1,3,Never,Rarely,DVD,Rarely,Monthly,882934,Rarely,Rarely,"Digital Satellite",Me,232
+33,"Associate's Degree",Male,Own,DSL,Married,2.5,3,2,3,1,Rarely,Rarely,DVD,Weekly,Weekly,913600,Rarely,Daily,Cable,Me,233
+37,"Bachelor's Degree",Female,Own,DSL,Married,2.5,4,2,1,1,Never,Rarely,DVD,Monthly,Monthly,913602,Rarely,Weekly,Cable,Me,233
+31,"Some College",Male,Own,"Cable Modem",Married,3.5,4,2,3,4,Rarely,Weekly,DVD,Weekly,Weekly,913609,Rarely,Weekly,Cable,Me,233
+37,"Master's Degree",Male,Own,"Cable Modem",Married,3,3,2,1,2,Rarely,Rarely,VHS,Monthly,Monthly,916500,Rarely,Rarely,Cable,Me,234
+38,"Bachelor's Degree",Female,Own,DSL,Married,2.5,4,2,2,5,Never,Monthly,DVD,Weekly,Weekly,916506,Monthly,Weekly,"Digital Satellite",Me,234
+35,"Master's Degree",Male,Own,DSL,Married,2.5,4,2,2,3,Rarely,Monthly,DVD,Monthly,Weekly,916819,Rarely,Never,"Digital Satellite",Me,235
+54,"Some College",Female,Own,Dial-Up,Married,2,2,2,1,2,Never,Monthly,DVD,Weekly,Weekly,916838,Monthly,Weekly,Cable,Spouse/Partner,235
+38,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,3,3,2,3,Rarely,Rarely,VHS,Rarely,Rarely,916861,Monthly,Weekly,Cable,Me,235
+42,"Associate's Degree",Male,Own,DSL,Married,3.5,5,2,3,2,Monthly,Monthly,DVD,Monthly,Monthly,916866,Monthly,Monthly,"Digital Satellite",Other,235
+42,"Bachelor's Degree",Male,Own,"Cable Modem",Married,4,4,2,2,3,Rarely,Monthly,DVD,Monthly,Weekly,883011,Rarely,Never,"Digital Satellite",Me,236
+46,"Bachelor's Degree",Male,Own,DSL,Married,3,4,2,3,2,Rarely,Monthly,DVD,Weekly,Weekly,883016,Monthly,Rarely,"Analog antennae",Me,236
+47,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,2,2,Never,Rarely,DVD,Monthly,Monthly,883018,Rarely,Rarely,"Analog antennae",Spouse/Partner,236
+35,"Master's Degree",Male,Own,"Cable Modem",Married,1,3,2,2,3,Never,Rarely,DVD,Monthly,Weekly,883021,Rarely,Weekly,Cable,Spouse/Partner,236
+41,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,3,4,Never,Rarely,DVD,Monthly,Monthly,883028,Rarely,Weekly,Cable,Children,236
+33,"Grade School",Male,Own,DSL,Married,3,3,1,1,4,Rarely,Rarely,DVD,Weekly,Weekly,883035,Monthly,Daily,Cable,Me,236
+42,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,3,3,Never,Monthly,DVD,Monthly,Weekly,889182,Monthly,Rarely,Cable,Me,237
+34,"Bachelor's Degree",Male,Own,DSL,Married,3.5,4,3,2,4,Rarely,Monthly,DVD,Rarely,Weekly,889191,Monthly,Weekly,"Digital Satellite",Spouse/Partner,237
+31,"Master's Degree",Male,Own,DSL,Married,2.5,4,1,1,2,Never,Rarely,DVD,Weekly,Weekly,889195,Monthly,Weekly,Cable,Spouse/Partner,237
+35,"Bachelor's Degree",Female,Own,Dial-Up,Married,3,4,2,1,1,Rarely,Rarely,DVD,Weekly,Weekly,889197,Rarely,Weekly,"Digital Satellite",Me,237
+33,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,2,Rarely,Monthly,DVD,Monthly,Daily,889207,Monthly,Weekly,Cable,Spouse/Partner,237
+31,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,1,3,Never,Rarely,DVD,Weekly,Weekly,889210,Monthly,Weekly,Cable,Me,237
+27,"Bachelor's Degree",Male,Own,Dial-Up,Married,3.5,4,2,1,1,Never,Rarely,DVD,Monthly,Monthly,889174,Rarely,Never,"Analog antennae",Me,237
+37,"Bachelor's Degree",Female,Own,Dial-Up,Married,1,3,2,1,2,Never,Rarely,VHS,Weekly,Weekly,891854,Monthly,Weekly,Cable,Me,238
+41,"Bachelor's Degree",Female,Own,Dial-Up,Other,2.5,6,2,2,2,Never,Monthly,VHS,Monthly,Weekly,891866,Weekly,Never,"Analog antennae",Spouse/Partner,238
+32,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,3,2,1,5,Rarely,Rarely,DVD,Monthly,Weekly,891871,Rarely,Monthly,Cable,Me,238
+28,"Bachelor's Degree",Male,Rent,DSL,Married,2.5,4,2,2,2,Rarely,Monthly,DVD,Monthly,Monthly,891887,Rarely,Weekly,Cable,Me,238
+39,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,4,2,2,3,Rarely,Weekly,DVD,Never,Weekly,891890,Monthly,Weekly,"Digital Satellite",Spouse/Partner,238
+36,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,5,2,1,1,Rarely,Monthly,DVD,Rarely,Daily,891893,Rarely,Rarely,"Digital Satellite",Spouse/Partner,238
+32,"Master's Degree",Male,Own,DSL,Married,2.5,2,1,1,1,Monthly,Rarely,VHS,Weekly,Weekly,891903,Rarely,Rarely,Cable,Spouse/Partner,238
+47,"Master's Degree",Male,Own,Other,Married,3.5,5,3,2,9,Never,Monthly,DVD,Rarely,Monthly,892041,Monthly,Weekly,Cable,Children,239
+46,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,3,3,2,Monthly,Rarely,DVD,Weekly,Weekly,892060,Rarely,Weekly,Cable,Me,239
+35,"Bachelor's Degree",Male,Own,IDSN,Married,2.5,4,2,3,3,Monthly,Never,DVD,Monthly,Monthly,882957,Monthly,Weekly,"Digital Satellite",Spouse/Partner,240
+37,"Bachelor's Degree",Male,Own,DSL,Married,3,3,2,2,1,Never,Rarely,VHS,Weekly,Weekly,882973,Rarely,Monthly,Cable,Me,240
+41,"Some College",Male,Own,DSL,Married,1.5,2,1,1,1,Never,Monthly,DVD,Rarely,Rarely,882975,Rarely,Never,"Don't watch TV",Children,240
+35,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,3,1,2,5,Never,Monthly,DVD,Monthly,Weekly,882977,Rarely,Weekly,Cable,Me,240
+34,"Bachelor's Degree",Male,Own,Dial-Up,Married,4,4,2,2,2,Never,Rarely,VHS,Monthly,Monthly,882987,Rarely,Rarely,Cable,Me,240
+30,"Bachelor's Degree",Female,Rent,DSL,Married,2,2,2,1,2,Rarely,Weekly,DVD,Weekly,Weekly,909885,Monthly,Weekly,Cable,Me,241
+33,"Master's Degree",Male,Rent,Dial-Up,Married,2,2,2,1,1,Never,Rarely,VHS,Monthly,Monthly,918328,Rarely,Weekly,Cable,Me,242
+37,Doctorate,Male,Own,"Cable Modem",Married,3,4,2,1,2,Never,Monthly,DVD,Weekly,Weekly,918338,Rarely,Monthly,Cable,Me,242
+29,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,1,1,1,Rarely,Never,DVD,Weekly,Monthly,918347,Monthly,Weekly,Cable,Spouse/Partner,242
+21,"Master's Degree",Female,Rent,"Cable Modem",Married,2,3,1,1,2,Never,Weekly,DVD,Rarely,Weekly,918011,Monthly,Daily,Cable,Me,243
+62,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,5,5,2,3,Rarely,Weekly,DVD,Rarely,Weekly,918025,Monthly,Daily,"Don't watch TV",Me,243
+32,Doctorate,Male,Own,IDSN,Married,2.5,3,1,1,2,Never,Never,Other,Never,Monthly,918039,Rarely,Monthly,"Analog antennae",Me,243
+25,"Some College",Male,Rent,DSL,Separated,2.5,2,2,1,1,Weekly,Weekly,DVD,Monthly,Daily,918077,Rarely,Daily,"Digital Satellite",Me,243
+23,"Bachelor's Degree",Male,Rent,DSL,Married,1,2,1,1,2,Rarely,Monthly,DVD,Weekly,Weekly,918083,Monthly,Weekly,"Analog antennae",Me,243
+36,"Master's Degree",Male,Own,DSL,Married,3,4,2,4,3,Never,Rarely,DVD,Weekly,Weekly,918098,Monthly,Daily,Cable,Spouse/Partner,243
+46,"Associate's Degree",Female,Own,Dial-Up,Married,3,3,2,2,3,Monthly,Rarely,DVD,Monthly,Monthly,917984,Monthly,Daily,"Digital Satellite",Spouse/Partner,243
+34,"Master's Degree",Male,Rent,DSL,Married,2,2,1,1,1,Rarely,Rarely,DVD,Weekly,Weekly,888019,Monthly,Weekly,Cable,Me,244
+32,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,3,2,3,3,Never,Monthly,DVD,Rarely,Weekly,888025,Rarely,Weekly,"Digital Satellite",Me,244
+37,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,4,3,1,3,Never,Never,DVD,Monthly,Monthly,888029,Rarely,Weekly,Cable,Me,244
+35,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,3,2,Never,Monthly,DVD,Weekly,Weekly,888031,Monthly,Monthly,Cable,Me,244
+38,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,3,2,2,1,Monthly,Monthly,DVD,Weekly,Weekly,888032,Rarely,Weekly,"Digital Satellite",Spouse/Partner,244
+31,"Bachelor's Degree",Male,Own,Dial-Up,Married,3,5,2,1,2,Never,Monthly,DVD,Rarely,Daily,888045,Rarely,Monthly,Cable,Me,244
+46,Doctorate,Male,Rent,DSL,Married,2,2,2,2,2,Rarely,Rarely,VHS,Monthly,Monthly,888020,Rarely,Daily,Cable,Spouse/Partner,244
+30,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,2,1,Never,Monthly,DVD,Rarely,Weekly,889251,Rarely,Never,"Analog antennae",Me,245
+33,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,2,1,4,Never,Monthly,VHS,Weekly,Weekly,889254,Rarely,Weekly,Cable,Other,245
+36,"Master's Degree",Female,Own,DSL,Married,1.5,3,3,1,2,Monthly,Monthly,VHS,Weekly,Weekly,917255,Rarely,Monthly,"Analog antennae",Spouse/Partner,246
+29,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,2,Never,Rarely,DVD,Weekly,Weekly,917273,Monthly,Weekly,Cable,Spouse/Partner,246
+26,"Master's Degree",Male,Rent,Dial-Up,Married,2,2,1,1,1,Rarely,Never,DVD,Weekly,Weekly,917283,Rarely,Rarely,"Digital Satellite",Me,246
+28,"Master's Degree",Male,Own,DSL,Married,2.5,2,1,1,1,Never,Rarely,DVD,Weekly,Weekly,917290,Monthly,Weekly,Cable,Me,246
+33,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,4,2,2,1,Never,Monthly,VHS,Weekly,Weekly,917300,Monthly,Monthly,Cable,Me,246
+39,"Bachelor's Degree",Male,Own,Dial-Up,Married,3,5,2,3,1,Rarely,Rarely,DVD,Monthly,Monthly,888967,Rarely,Weekly,"Digital Satellite",Me,247
+29,"High School",Male,Own,"Cable Modem",Married,2.5,4,1,4,4,Rarely,Rarely,DVD,Rarely,Rarely,888973,Never,Rarely,"Digital Satellite",Spouse/Partner,247
+38,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,2,1,Never,Rarely,DVD,Weekly,Weekly,888979,Never,Never,"Don't watch TV",Me,247
+37,"High School",Male,Own,Other,Married,2.5,3,2,4,5,Never,Weekly,DVD,Rarely,Daily,888982,Monthly,Weekly,"Analog antennae",Me,247
+35,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,2,4,Never,Rarely,DVD,Monthly,Monthly,888991,Weekly,Rarely,"Analog antennae",Spouse/Partner,247
+30,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,1,3,Never,Rarely,DVD,Rarely,Monthly,888997,Rarely,Monthly,Cable,Me,247
+25,"Master's Degree",Female,Rent,"Cable Modem",Married,1.5,2,1,1,1,Rarely,Never,DVD,Weekly,Weekly,888998,Rarely,Weekly,Cable,Me,247
+33,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,2,1,4,Weekly,Monthly,DVD,Monthly,Weekly,883364,Rarely,Rarely,"Digital Satellite",Other,248
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,2,Never,Rarely,DVD,Monthly,Weekly,883418,Monthly,Weekly,Cable,Me,248
+54,"Master's Degree",Female,Own,DSL,Married,3.5,5,3,2,3,Monthly,Monthly,DVD,Never,Monthly,883424,Never,Monthly,"Analog antennae",Me,248
+38,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,4,Rarely,Monthly,DVD,Monthly,Weekly,883432,Monthly,Daily,Cable,Spouse/Partner,248
+34,"Associate's Degree",Female,Own,"Cable Modem",Married,2,5,2,3,5,Never,Weekly,DVD,Weekly,Weekly,883438,Monthly,Weekly,Cable,Spouse/Partner,248
+44,"Some College",Male,Rent,"Cable Modem",Divorced,2,3,2,4,1,Never,Monthly,DVD,Weekly,Weekly,883441,Rarely,Rarely,"Don't watch TV",Me,248
+37,"Master's Degree",Female,Own,"Cable Modem",Married,2.5,4,2,1,4,Rarely,Never,DVD,Weekly,Weekly,883444,Rarely,Weekly,"Digital Satellite",Me,248
+37,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,3,2,Never,Rarely,DVD,Monthly,Monthly,883449,Monthly,Never,Cable,Spouse/Partner,248
+39,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,3,2,2,4,Rarely,Monthly,DVD,Weekly,Weekly,883450,Monthly,Weekly,Cable,Me,248
+31,"Bachelor's Degree",Female,Own,"Cable Modem",Married,3,5,2,1,5,Never,Rarely,DVD,Monthly,Weekly,883455,Rarely,Rarely,Cable,Me,248
+40,"Master's Degree",Male,Own,"Cable Modem",Married,3,3,2,1,3,Never,Monthly,DVD,Monthly,Weekly,883463,Monthly,Weekly,Cable,Spouse/Partner,248
+38,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,4,2,1,2,Never,Monthly,DVD,Rarely,Weekly,909302,Rarely,Weekly,"Digital Satellite",Me,249
+45,"Master's Degree",Male,Rent,"Cable Modem",Married,3,3,2,2,5,Weekly,Monthly,DVD,Weekly,Weekly,918943,Rarely,Weekly,"Digital Satellite",Me,250
+31,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,2,2,Never,Monthly,DVD,Weekly,Weekly,915362,Rarely,Daily,Cable,Me,251
+44,Doctorate,Male,Own,DSL,Married,4,5,4,3,4,Rarely,Monthly,DVD,Monthly,Monthly,893104,Weekly,Rarely,"Analog antennae",Me,252
+39,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,3,1,1,3,Rarely,Weekly,DVD,Monthly,Weekly,893071,Weekly,Monthly,Cable,Me,252
+37,"Some College",Male,Own,"Cable Modem",Married,2.5,5,3,3,4,Monthly,Monthly,DVD,Weekly,Weekly,916975,Weekly,Monthly,"Digital Satellite",Spouse/Partner,253
+28,"Bachelor's Degree",Male,Rent,DSL,Divorced,1.5,2,1,1,1,Rarely,Monthly,DVD,Monthly,Weekly,916980,Monthly,Monthly,Cable,Me,253
+45,"Bachelor's Degree",Male,Own,Dial-Up,Married,3,4,2,2,2,Never,Rarely,DVD,Weekly,Weekly,916984,Monthly,Monthly,"Analog antennae",Spouse/Partner,253
+39,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,3,2,Rarely,Rarely,DVD,Rarely,Monthly,900157,Rarely,Monthly,Cable,Spouse/Partner,254
+31,"Some College",Male,Rent,DSL,Married,3,3,2,1,3,Rarely,Rarely,DVD,Monthly,Monthly,900163,Rarely,Rarely,Cable,Me,254
+45,"Associate's Degree",Male,Own,Dial-Up,Married,2.5,3,2,2,2,Rarely,Rarely,DVD,Weekly,Weekly,900137,Monthly,Weekly,Cable,Children,254
+32,"Master's Degree",Male,Own,Dial-Up,Married,2,5,1,2,1,Never,Rarely,DVD,Monthly,Monthly,900145,Rarely,Never,"Analog antennae",Me,254
+29,"Master's Degree",Male,Own,DSL,Married,2.5,3,1,1,2,Rarely,Never,DVD,Monthly,Monthly,900148,Rarely,Daily,"Analog Satellite",Me,254
+29,"Bachelor's Degree",Male,Own,DSL,Married,2,4,2,5,1,Never,Monthly,DVD,Weekly,Weekly,884909,Rarely,Rarely,"Analog Satellite",Spouse/Partner,255
+34,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,3,2,Rarely,Rarely,DVD,Monthly,Daily,884913,Monthly,Weekly,Cable,Spouse/Partner,255
+36,"Bachelor's Degree",Male,Own,DSL,Married,3,4,2,2,3,Never,Rarely,DVD,Weekly,Weekly,884916,Monthly,Rarely,Cable,Spouse/Partner,255
+25,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,1,1,1,Rarely,Rarely,DVD,Weekly,Weekly,916469,Monthly,Rarely,"Analog antennae",Me,256
+38,"Some College",Male,Own,Other,Married,2.5,3,2,2,3,Monthly,Monthly,DVD,Monthly,Weekly,916483,Monthly,Rarely,"Digital Satellite",Spouse/Partner,256
+32,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,1,2,Never,Rarely,DVD,Weekly,Weekly,915472,Rarely,Monthly,Cable,Me,257
+40,"Bachelor's Degree",Male,Rent,DSL,Divorced,1,1,1,2,1,Rarely,Monthly,DVD,Rarely,Weekly,882506,Weekly,Daily,"Digital Satellite",Me,258
+51,"Trade School",Male,Own,Dial-Up,Married,3,5,3,2,4,Never,Weekly,DVD,Never,Weekly,882507,Rarely,Weekly,"Digital Satellite",Me,258
+29,"Associate's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,1,3,Never,Rarely,DVD,Monthly,Weekly,882508,Rarely,Daily,Cable,Me,258
+28,"Some College",Male,Own,DSL,Married,2,4,3,3,4,Never,Rarely,DVD,Monthly,Monthly,882512,Rarely,Never,Cable,Spouse/Partner,258
+36,"Master's Degree",Male,Own,Dial-Up,Married,2.5,5,2,1,2,Never,Rarely,DVD,Rarely,Monthly,882515,Rarely,Weekly,Cable,Me,258
+37,"Master's Degree",Female,Own,DSL,Married,3,4,2,2,2,Never,Rarely,DVD,Weekly,Weekly,882518,Monthly,Weekly,Cable,Spouse/Partner,258
+38,"Bachelor's Degree",Male,Own,"Cable Modem",Married,5,6,2,4,5,Rarely,Rarely,DVD,Monthly,Monthly,882522,Rarely,Monthly,Cable,Me,258
+28,"Some College",Male,Own,"Cable Modem",Married,2.5,4,2,1,2,Rarely,Monthly,DVD,Never,Monthly,882532,Never,Weekly,Cable,Spouse/Partner,258
+38,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,5,2,3,4,Rarely,Never,VHS,Weekly,Weekly,882543,Monthly,Monthly,Cable,Spouse/Partner,258
+32,"Master's Degree",Male,Own,DSL,Married,2.5,4,2,1,2,Rarely,Monthly,DVD,Weekly,Weekly,882545,Weekly,Rarely,Cable,Me,258
+34,"Associate's Degree",Male,Own,Dial-Up,Married,2,3,3,2,2,Never,Monthly,DVD,Weekly,Weekly,904339,Rarely,Rarely,Cable,Spouse/Partner,259
+42,"Trade School",Male,Own,DSL,Married,2.5,3,3,3,4,Rarely,Rarely,DVD,Monthly,Monthly,904348,Monthly,Weekly,"Digital Satellite",Me,259
+32,"Bachelor's Degree",Male,Rent,DSL,Married,2,2,2,1,1,Weekly,Rarely,DVD,Monthly,Monthly,904392,Weekly,Weekly,"Digital Satellite",Me,259
+37,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,2,3,Never,Rarely,DVD,Monthly,Weekly,904394,Rarely,Daily,Cable,Me,259
+31,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,1,1,Monthly,Never,DVD,Rarely,Monthly,914839,Never,Monthly,"Analog Satellite",Me,260
+31,"Master's Degree",Male,Own,DSL,Married,3,4,2,2,1,Never,Never,VHS,Monthly,Monthly,914864,Rarely,Never,"Analog antennae",Me,260
+37,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,1,3,3,Rarely,Rarely,DVD,Weekly,Weekly,887658,Never,Rarely,Cable,Me,261
+37,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,5,2,3,1,Never,Rarely,DVD,Rarely,Monthly,891376,Monthly,Never,"Analog antennae",Spouse/Partner,262
+38,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,5,2,2,2,Never,Monthly,DVD,Monthly,Weekly,891384,Monthly,Never,Cable,Me,262
+36,"Bachelor's Degree",Female,Own,DSL,Married,3,5,2,1,1,Monthly,Monthly,VHS,Rarely,Monthly,891385,Rarely,Weekly,"Digital Satellite",Me,262
+36,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,3,2,3,1,Monthly,Rarely,VHS,Rarely,Weekly,891394,Rarely,Weekly,"Analog antennae",Me,262
+39,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,5,2,2,3,Rarely,Monthly,DVD,Weekly,Weekly,891409,Rarely,Weekly,Cable,Spouse/Partner,262
+42,"Some College",Male,Rent,DSL,Married,2,2,2,1,2,Monthly,Rarely,DVD,Monthly,Weekly,891411,Monthly,Weekly,Cable,Spouse/Partner,262
+57,"Bachelor's Degree",Female,Own,"Cable Modem",Married,3,4,3,2,3,Rarely,Rarely,DVD,Monthly,Monthly,891372,Rarely,Weekly,Cable,Spouse/Partner,262
+35,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,2,4,Monthly,Monthly,DVD,Rarely,Weekly,891369,Rarely,Monthly,"Digital Satellite",Spouse/Partner,262
+38,"Bachelor's Degree",Male,Rent,DSL,Married,2,3,1,3,4,Never,Weekly,DVD,Rarely,Weekly,891358,Monthly,Weekly,Cable,Children,262
+45,"Some College",Female,Rent,DSL,Married,2,4,2,2,4,Never,Monthly,DVD,Monthly,Weekly,908351,Rarely,Weekly,Cable,Me,263
+26,"Trade School",Male,Rent,Dial-Up,Married,2,2,2,2,2,Never,Monthly,DVD,Weekly,Weekly,908397,Rarely,Daily,Cable,Children,263
+39,"Bachelor's Degree",Female,Own,Dial-Up,Married,2.5,3,3,2,3,Rarely,Monthly,DVD,Monthly,Weekly,914636,Monthly,Monthly,Cable,Children,264
+34,"Bachelor's Degree",Female,Own,"Cable Modem",Married,2.5,4,2,2,3,Never,Rarely,DVD,Rarely,Monthly,914652,Rarely,Never,Cable,Other,264
+43,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3.5,4,2,3,2,Never,Rarely,DVD,Rarely,Monthly,884878,Rarely,Rarely,Cable,Children,265
+41,Doctorate,Male,Own,"No Internet Connection",Married,2.5,4,2,1,1,Never,Rarely,DVD,Weekly,Weekly,884879,Rarely,Rarely,Cable,Other,265
+41,Doctorate,Male,Own,"Cable Modem",Married,2.5,4,2,2,2,Never,Rarely,DVD,Monthly,Monthly,884881,Rarely,Rarely,Cable,Spouse/Partner,265
+38,"Bachelor's Degree",Female,Own,"Cable Modem",Married,2.5,4,3,2,5,Rarely,Monthly,DVD,Monthly,Weekly,906228,Monthly,Weekly,"Analog Satellite",Me,266
+35,"Bachelor's Degree",Male,Own,Dial-Up,Married,1.5,3,3,2,2,Never,Never,VHS,Monthly,Monthly,906232,Monthly,Weekly,Cable,Spouse/Partner,266
+47,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,4,2,1,1,Rarely,Never,VHS,Monthly,Monthly,906253,Monthly,Rarely,Cable,Spouse/Partner,266
+52,"Associate's Degree",Male,Own,DSL,Married,1.5,3,3,1,3,Rarely,Rarely,DVD,Weekly,Weekly,906275,Monthly,Weekly,Cable,Me,266
+47,"Bachelor's Degree",Female,Own,DSL,Married,2.5,3,2,2,2,Never,Monthly,DVD,Weekly,Weekly,906287,Rarely,Rarely,Cable,Spouse/Partner,266
+50,"Master's Degree",Female,Rent,DSL,Married,1.5,4,2,6,2,Never,Rarely,DVD,Rarely,Weekly,916730,Rarely,Daily,"Analog Satellite",Children,267
+33,"Some College",Female,Rent,"Cable Modem",Married,2.5,3,2,2,5,Monthly,Weekly,DVD,Weekly,Daily,916735,Rarely,Weekly,Cable,Me,267
+38,"Bachelor's Degree",Male,Own,"Cable Modem",Married,1,3,2,1,4,Never,Monthly,DVD,Monthly,Weekly,916747,Monthly,Weekly,Cable,Me,267
+31,"Bachelor's Degree",Male,Own,DSL,Married,2,3,2,2,2,Monthly,Rarely,DVD,Monthly,Weekly,916757,Monthly,Weekly,Cable,Me,267
+46,"Associate's Degree",Male,Own,DSL,Married,2,3,3,1,4,Weekly,Never,DVD,Monthly,Weekly,916787,Monthly,Never,"Digital Satellite",Spouse/Partner,267
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,2,2,1,1,Never,Rarely,DVD,Rarely,Weekly,916797,Rarely,Rarely,Cable,Me,267
+58,"Master's Degree",Male,Own,DSL,Other,2.5,3,2,2,4,Never,Rarely,DVD,Monthly,Weekly,916705,Monthly,Weekly,Cable,Me,267
+35,"Bachelor's Degree",Female,Own,Dial-Up,Married,3,4,3,2,4,Rarely,Rarely,Other,Rarely,Weekly,885220,Rarely,Weekly,Cable,Me,268
+40,Doctorate,Male,Own,DSL,Married,2,3,2,1,3,Never,Rarely,DVD,Monthly,Monthly,885260,Rarely,Rarely,Cable,Spouse/Partner,268
+28,Post-Doc,Male,Rent,DSL,Married,1,2,1,1,1,Never,Monthly,DVD,Weekly,Weekly,885269,Monthly,Never,"Analog antennae",Me,268
+36,"Bachelor's Degree",Female,Own,Dial-Up,Separated,2,3,1,2,2,Rarely,Rarely,DVD,Weekly,Rarely,885279,Monthly,Weekly,Cable,Me,268
+51,"Master's Degree",Male,Own,"Cable Modem",Married,3,3,3,3,3,Monthly,Monthly,DVD,Weekly,Weekly,907747,Rarely,Rarely,Cable,Me,269
+44,"Bachelor's Degree",Male,Rent,"No Internet Connection",Separated,1,2,1,1,1,Never,Rarely,VHS,Monthly,Weekly,882991,Monthly,Rarely,"Don't watch TV",Me,270
+47,"Master's Degree",Male,Own,"Cable Modem",Married,4,3,5,2,4,Rarely,Monthly,DVD,Monthly,Weekly,882999,Monthly,Rarely,"Digital Satellite",Me,270
+35,"Master's Degree",Male,Rent,DSL,Married,2.5,4,2,2,1,Never,Rarely,DVD,Weekly,Weekly,889880,Rarely,Never,"Don't watch TV",Children,271
+36,"Bachelor's Degree",Male,Own,Dial-Up,Divorced,1,2,2,1,2,Never,Rarely,DVD,Weekly,Weekly,889883,Weekly,Never,"Analog antennae",Me,271
+38,"Bachelor's Degree",Male,Own,DSL,Married,3,5,2,4,2,Never,Monthly,DVD,Monthly,Weekly,889892,Rarely,Rarely,Cable,Spouse/Partner,271
+28,"Master's Degree",Male,Rent,Dial-Up,Married,2,2,2,1,1,Rarely,Rarely,DVD,Weekly,Weekly,889894,Rarely,Daily,Cable,Me,271
+35,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,5,2,2,1,Rarely,Weekly,DVD,Never,Weekly,889895,Monthly,Daily,"Digital Satellite",Me,271
+33,"Associate's Degree",Male,Own,Dial-Up,Married,2.5,4,2,2,3,Never,Monthly,DVD,Monthly,Weekly,889896,Rarely,Weekly,Cable,Other,271
+40,"Bachelor's Degree",Female,Own,"Cable Modem",Married,2.5,4,3,2,4,Monthly,Rarely,DVD,Monthly,Monthly,889905,Monthly,Rarely,Cable,Me,271
+31,"Bachelor's Degree",Female,Rent,DSL,Married,2,3,2,2,1,Rarely,Monthly,DVD,Monthly,Weekly,889906,Monthly,Weekly,Cable,Me,271
+45,"Bachelor's Degree",Male,Own,"Cable Modem",Married,4,5,2,1,7,Never,Never,DVD,Monthly,Monthly,878974,Monthly,Never,Cable,Me,272
+32,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,2,2,Monthly,Rarely,DVD,Weekly,Weekly,878977,Rarely,Weekly,Cable,Me,272
+32,"Bachelor's Degree",Male,Rent,DSL,Married,1,1,2,1,1,Never,Never,DVD,Rarely,Monthly,878993,Rarely,Weekly,"Digital Satellite",Me,272
+40,"Associate's Degree",Male,Own,DSL,Married,3,6,2,2,3,Never,Rarely,DVD,Monthly,Monthly,879020,Rarely,Weekly,"Analog antennae",Me,272
+39,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,3,1,2,Rarely,Rarely,DVD,Rarely,Rarely,879033,Monthly,Monthly,"Digital Satellite",Me,272
+31,"Bachelor's Degree",Male,Rent,Other,Married,1,2,2,1,1,Weekly,Monthly,DVD,Monthly,Weekly,879061,Monthly,Daily,Cable,Me,272
+33,"Master's Degree",Male,Own,"Cable Modem",Married,2.5,4,2,1,3,Rarely,Rarely,DVD,Monthly,Monthly,891709,Rarely,Monthly,Cable,Spouse/Partner,273
+38,"Bachelor's Degree",Female,Own,DSL,Married,2.5,4,3,2,3,Rarely,Rarely,DVD,Monthly,Weekly,891713,Rarely,Daily,"Digital Satellite",Spouse/Partner,273
+42,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,3,2,2,1,Never,Rarely,DVD,Monthly,Weekly,891714,Rarely,Never,"Don't watch TV",Me,273
+35,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,1,4,Rarely,Rarely,DVD,Monthly,Daily,891724,Rarely,Rarely,Cable,Spouse/Partner,273
+35,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,3,2,4,Never,Monthly,DVD,Weekly,Weekly,891733,Monthly,Weekly,Cable,Me,273
+40,"Master's Degree",Male,Own,DSL,Married,2.5,4,1,4,2,Never,Rarely,DVD,Weekly,Weekly,891762,Rarely,Weekly,Cable,Me,273
+45,"Associate's Degree",Female,Own,Dial-Up,Married,2.5,4,3,4,3,Monthly,Rarely,DVD,Monthly,Weekly,891703,Monthly,Rarely,"Digital Satellite",Spouse/Partner,273
+33,"Master's Degree",Female,Own,DSL,Married,2.5,4,2,1,2,Rarely,Rarely,DVD,Weekly,Weekly,882387,Monthly,Monthly,Cable,Spouse/Partner,274
+33,"Bachelor's Degree",Female,Own,DSL,Married,3,5,2,2,3,Monthly,Never,DVD,Rarely,Rarely,882392,Monthly,Never,Cable,Me,274
+26,"Bachelor's Degree",Male,Rent,Dial-Up,Married,1,2,1,1,1,Never,Monthly,DVD,Monthly,Monthly,882393,Monthly,Rarely,Cable,Me,274
+38,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,3,2,2,1,Rarely,Rarely,VHS,Weekly,Weekly,882402,Monthly,Weekly,Cable,Spouse/Partner,274
+33,"Bachelor's Degree",Male,Own,Dial-Up,Married,3,3,4,2,4,Never,Rarely,DVD,Rarely,Weekly,882410,Rarely,Never,Cable,Children,274
+47,"Master's Degree",Male,Rent,Dial-Up,Divorced,1,2,1,2,1,Never,Never,DVD,Monthly,Monthly,882391,Monthly,Weekly,Cable,Me,274
+41,"Bachelor's Degree",Female,Own,Dial-Up,Married,3,3,2,1,2,Never,Never,VHS,Rarely,Rarely,912331,Rarely,Monthly,Cable,Me,275
+37,"Master's Degree",Female,Rent,Dial-Up,"Never Married",1,2,1,1,1,Never,Rarely,VHS,Monthly,Monthly,912332,Monthly,Weekly,Cable,Me,275
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,1.5,4,2,1,2,Never,Monthly,Betamax,Monthly,Monthly,912343,Rarely,Weekly,Cable,Spouse/Partner,275
+49,Doctorate,Male,Own,"Cable Modem",Married,2.5,5,4,2,5,Rarely,Monthly,DVD,Rarely,Monthly,912351,Rarely,Rarely,"Digital Satellite",Me,275
+45,"Bachelor's Degree",Female,Own,"Cable Modem",Married,2,4,2,2,3,Monthly,Rarely,DVD,Weekly,Weekly,912354,Rarely,Monthly,"Digital Satellite",Other,275
+34,"Some College",Male,Own,DSL,Married,2.5,3,2,1,3,Rarely,Rarely,DVD,Rarely,Rarely,912357,Monthly,Weekly,"Digital Satellite",Me,275
+39,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3.5,5,4,2,3,Never,Rarely,DVD,Weekly,Weekly,912374,Rarely,Weekly,Cable,Spouse/Partner,275
+40,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,5,2,2,2,Never,Rarely,DVD,Weekly,Weekly,912385,Rarely,Monthly,Cable,Spouse/Partner,275
+31,"Bachelor's Degree",Male,Rent,DSL,Other,3,4,2,1,4,Rarely,Monthly,DVD,Weekly,Weekly,912388,Monthly,Weekly,Cable,Other,275
+32,"Associate's Degree",Female,Own,Dial-Up,Divorced,1,2,1,1,6,Rarely,Monthly,DVD,Monthly,Weekly,903997,Monthly,Daily,Cable,Me,276
+38,"Bachelor's Degree",Male,Own,Dial-Up,Married,4,3,3,1,2,Never,Rarely,DVD,Weekly,Weekly,900306,Rarely,Rarely,"Digital Satellite",Me,277
+34,"Master's Degree",Male,Own,Dial-Up,Married,2.5,4,2,2,2,Never,Rarely,VHS,Rarely,Weekly,900309,Rarely,Rarely,Cable,Children,277
+32,"Master's Degree",Male,Own,Dial-Up,Married,2.5,3,1,2,1,Monthly,Never,VHS,Weekly,Daily,900339,Monthly,Weekly,"Digital Satellite",Me,277
+41,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,4,2,2,5,Never,Weekly,DVD,Never,Weekly,883169,Rarely,Rarely,Cable,Me,278
+45,"Bachelor's Degree",Female,Own,DSL,Married,3,4,2,3,4,Rarely,Monthly,DVD,Weekly,Weekly,915222,Monthly,Monthly,Cable,Me,279
+33,"Bachelor's Degree",Male,Own,DSL,Married,3,5,2,2,2,Rarely,Monthly,DVD,Monthly,Weekly,915240,Monthly,Weekly,Cable,Spouse/Partner,279
+33,Doctorate,Male,Own,"Cable Modem",Married,3.5,4,1,3,2,Never,Weekly,DVD,Never,Daily,915291,Never,Never,"Don't watch TV",Me,279
+48,"Some College",Female,Own,DSL,Married,2.5,3,3,2,2,Never,Rarely,DVD,Weekly,Weekly,905969,Weekly,Daily,Cable,Me,280
+50,"Master's Degree",Male,Own,IDSN,Married,3.5,6,1,3,4,Never,Monthly,VHS,Monthly,Weekly,906010,Monthly,Weekly,Cable,Spouse/Partner,280
+32,"Bachelor's Degree",Male,Own,DSL,Married,2,3,2,2,2,Monthly,Rarely,DVD,Weekly,Weekly,906016,Monthly,Weekly,Cable,Spouse/Partner,280
+29,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,3,2,2,2,Rarely,Rarely,DVD,Weekly,Weekly,906036,Monthly,Rarely,Cable,Me,280
+34,"Bachelor's Degree",Female,Own,DSL,Other,2.5,2,1,1,2,Never,Rarely,DVD,Monthly,Monthly,906038,Rarely,Rarely,"Analog antennae",Me,280
+32,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,1,1,Rarely,Rarely,DVD,Weekly,Weekly,912262,Monthly,Rarely,"Analog antennae",Spouse/Partner,281
+32,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,3,2,1,3,Rarely,Never,DVD,Monthly,Weekly,912278,Monthly,Weekly,"Digital Satellite",Me,281
+29,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,1,1,2,Rarely,Monthly,DVD,Rarely,Weekly,912280,Rarely,Weekly,"Digital Satellite",Me,281
+38,"Master's Degree",Male,Own,"Cable Modem",Married,3.5,4,2,2,2,Never,Rarely,DVD,Weekly,Weekly,912287,Rarely,Rarely,Cable,Me,281
+36,"Bachelor's Degree",Female,Own,Dial-Up,Divorced,2.5,4,1,1,1,Never,Never,VHS,Monthly,Monthly,912292,Monthly,Monthly,Cable,Me,281
+33,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,2,3,Never,Monthly,DVD,Monthly,Weekly,912305,Rarely,Rarely,Cable,Spouse/Partner,281
+35,"Bachelor's Degree",Male,Own,DSL,Married,3.5,4,2,3,5,Never,Monthly,DVD,Weekly,Weekly,912310,Monthly,Weekly,Cable,Me,281
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,3,2,1,4,Never,Rarely,DVD,Monthly,Monthly,912322,Rarely,Rarely,"Analog antennae",Spouse/Partner,281
+35,"Some College",Male,Own,"Cable Modem",Married,2,4,2,2,2,Never,Rarely,DVD,Weekly,Weekly,915810,Rarely,Weekly,"Digital Satellite",Me,282
+37,"Bachelor's Degree",Female,Own,Dial-Up,Married,2.5,4,2,2,3,Never,Monthly,DVD,Weekly,Weekly,915811,Monthly,Monthly,Cable,Me,282
+38,"Master's Degree",Male,Own,DSL,Married,3.5,4,2,3,2,Never,Monthly,DVD,Monthly,Weekly,915841,Rarely,Monthly,Cable,Me,282
+36,"Master's Degree",Male,Own,"Cable Modem",Married,3,4,3,2,2,Never,Monthly,DVD,Rarely,Rarely,915847,Rarely,Rarely,Cable,Spouse/Partner,282
+50,"Master's Degree",Male,Rent,"Cable Modem",Married,2,3,2,2,1,Never,Monthly,DVD,Monthly,Monthly,887894,Rarely,Weekly,Cable,Me,283
+29,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,2,2,Never,Monthly,DVD,Rarely,Monthly,887898,Monthly,Monthly,"Analog antennae",Me,283
+30,"Master's Degree",Male,Rent,Dial-Up,Married,2,2,2,1,1,Never,Monthly,DVD,Monthly,Monthly,887905,Rarely,Rarely,Cable,Me,283
+32,"Bachelor's Degree",Male,Rent,DSL,Married,2,3,2,1,1,Never,Never,VHS,Weekly,Weekly,887920,Rarely,Weekly,Cable,Me,283
+36,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,3,2,2,1,Never,Never,DVD,Weekly,Weekly,889812,Rarely,Never,"Don't watch TV",Me,284
+40,"Bachelor's Degree",Male,Own,DSL,Married,3,4,3,3,3,Never,Rarely,DVD,Monthly,Monthly,889813,Monthly,Weekly,Cable,Me,284
+28,"Bachelor's Degree",Male,Rent,Other,Married,2,2,2,1,1,Monthly,Rarely,DVD,Monthly,Monthly,889806,Monthly,Monthly,Cable,Me,284
+30,"Bachelor's Degree",Male,Own,DSL,Divorced,3,4,2,1,1,Rarely,Monthly,DVD,Weekly,Weekly,889797,Rarely,Weekly,Cable,Me,284
+32,"Bachelor's Degree",Male,Own,"Cable Modem",Married,3,3,2,1,3,Rarely,Weekly,DVD,Weekly,Weekly,889793,Rarely,Rarely,"Digital Satellite",Me,284
+28,"Master's Degree",Male,Own,"Cable Modem",Married,2,3,2,2,2,Never,Rarely,DVD,Weekly,Weekly,889790,Monthly,Monthly,"Digital Satellite",Spouse/Partner,284
+37,"Bachelor's Degree",Male,Own,Dial-Up,Married,3,4,2,2,3,Rarely,Monthly,DVD,Weekly,Weekly,889791,Rarely,Rarely,"Digital Satellite",Spouse/Partner,284
+34,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2,3,2,3,2,Never,Rarely,DVD,Weekly,Monthly,889784,Monthly,Weekly,Cable,Me,284
+32,"Some College",Male,Own,"Cable Modem",Married,3,3,2,3,4,Rarely,Monthly,DVD,Weekly,Weekly,902212,Monthly,Weekly,Cable,Me,285
+42,"Bachelor's Degree",Male,Own,IDSN,Married,2.5,4,2,3,1,Never,Rarely,DVD,Monthly,Monthly,890603,Rarely,Weekly,"Digital Satellite",Me,286
+26,"Some College",Male,Own,"Cable Modem",Married,1,3,1,3,1,Never,Monthly,DVD,Weekly,Weekly,890621,Rarely,Rarely,Cable,Me,286
+31,"Bachelor's Degree",Male,Own,DSL,Married,2,4,2,2,3,Rarely,Monthly,DVD,Monthly,Weekly,879403,Rarely,Weekly,Cable,Me,287
+45,"Master's Degree",Male,Own,Dial-Up,Married,4,5,2,2,1,Never,Never,VHS,Weekly,Weekly,879453,Rarely,Monthly,Cable,Me,287
+42,"Master's Degree",Male,Own,DSL,Married,2.5,4,4,1,2,Never,Rarely,DVD,Monthly,Weekly,879454,Monthly,Daily,Cable,Me,287
+45,Doctorate,Male,Own,IDSN,Married,2,3,2,2,4,Weekly,Rarely,DVD,Never,Monthly,879478,Rarely,Rarely,"Digital Satellite",Me,287
+34,"Master's Degree",Female,Rent,Dial-Up,Married,1,2,2,1,1,Rarely,Rarely,DVD,Monthly,Monthly,913505,Rarely,Weekly,Cable,Me,288
+25,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,2,2,1,1,Never,Rarely,DVD,Monthly,Monthly,913515,Monthly,Monthly,"Analog antennae",Me,288
+33,"Bachelor's Degree",Male,Own,"Cable Modem",Married,2.5,4,1,2,2,Never,Monthly,DVD,Weekly,Daily,913534,Weekly,Never,Cable,Spouse/Partner,288
+50,"Master's Degree",Male,Own,DSL,Married,2,3,3,2,4,Never,Monthly,DVD,Rarely,Weekly,913547,Monthly,Rarely,"Analog antennae",Me,288
+32,"Master's Degree",Male,Own,DSL,Married,2.5,4,2,2,2,Rarely,Monthly,DVD,Weekly,Weekly,888650,Monthly,Weekly,Cable,Me,289
+32,"Bachelor's Degree",Female,Rent,DSL,Married,2,3,2,2,3,Rarely,Monthly,DVD,Never,Weekly,888655,Rarely,Daily,Cable,Me,289
+43,"Bachelor's Degree",Male,Own,Other,Married,2.5,3,2,2,1,Never,Rarely,DVD,Monthly,Monthly,888660,Rarely,Weekly,Cable,Spouse/Partner,289
+50,"Associate's Degree",Female,Own,DSL,Other,3,4,4,2,5,Weekly,Monthly,VHS,Monthly,Monthly,888673,Monthly,Rarely,Cable,Children,289
+24,"Some College",Male,Own,DSL,"Never Married",1.5,2,1,1,2,Weekly,Monthly,DVD,Weekly,Monthly,888679,Monthly,Monthly,"Digital Satellite",Children,289
+39,"Bachelor's Degree",Male,Rent,"Cable Modem",Married,2.5,4,1,2,2,Rarely,Rarely,DVD,Weekly,Weekly,888695,Monthly,Rarely,Cable,Spouse/Partner,289
+35,"Bachelor's Degree",Male,Own,Dial-Up,Married,1.5,5,2,4,2,Rarely,Monthly,DVD,Weekly,Daily,906941,Rarely,Daily,Cable,Spouse/Partner,290
+40,"Bachelor's Degree",Male,Own,DSL,Married,2.5,3,2,2,3,Never,Monthly,DVD,Rarely,Weekly,915049,Monthly,Weekly,Cable,Me,291
+36,"Associate's Degree",Female,Own,"Cable Modem",Married,2,3,2,1,2,Monthly,Rarely,VHS,Rarely,Rarely,890273,Rarely,Daily,Cable,Spouse/Partner,292
+48,"Master's Degree",Male,Own,"Cable Modem",Married,2,4,2,2,4,Never,Rarely,VHS,Rarely,Rarely,890276,Rarely,Weekly,Cable,Children,292
+49,"Master's Degree",Male,Own,Dial-Up,Married,3,4,2,1,2,Never,Rarely,DVD,Rarely,Monthly,890279,Rarely,Rarely,Cable,Me,292
+38,"Master's Degree",Male,Own,"Cable Modem",Married,2,3,2,2,1,Monthly,Rarely,DVD,Weekly,Weekly,890288,Monthly,Rarely,Cable,Spouse/Partner,292
+35,"Master's Degree",Male,Own,"Cable Modem",Married,3,4,1,1,2,Never,Rarely,VHS,Monthly,Monthly,890292,Monthly,Rarely,Cable,Spouse/Partner,292
+32,"Some College",Male,Rent,"Cable Modem",Married,1.5,4,2,4,3,Rarely,Monthly,DVD,Rarely,Daily,912472,Rarely,Daily,"Digital Satellite",Me,293
+46,"Some College",Male,Own,DSL,Married,2,3,2,2,2,Never,Monthly,DVD,Monthly,Daily,912479,Rarely,Never,"Don't watch TV",Spouse/Partner,293
+31,"Master's Degree",Male,Own,DSL,Married,2.5,4,2,1,2,Never,Rarely,DVD,Monthly,Monthly,912486,Rarely,Weekly,"Analog antennae",Me,293
+48,"Master's Degree",Male,Own,Dial-Up,Married,3,4,3,2,6,Never,Monthly,DVD,Weekly,Daily,912495,Monthly,Daily,Cable,Me,293
+59,"Master's Degree",Male,Own,"Cable Modem",Married,3,4,3,3,3,Never,Weekly,DVD,Monthly,Weekly,912499,Rarely,Monthly,Cable,Spouse/Partner,293
+43,"Bachelor's Degree",Male,Own,DSL,Married,2,4,1,2,3,Never,Rarely,"Video CD",Rarely,Weekly,890657,Monthly,Daily,Cable,Me,294
+35,"Some College",Male,Own,DSL,Married,3,4,2,2,3,Monthly,Rarely,DVD,Monthly,Monthly,890671,Monthly,Weekly,Cable,Spouse/Partner,294
+40,"Bachelor's Degree",Male,Own,"Cable Modem",Married,5,4,3,3,3,Never,Monthly,DVD,Monthly,Weekly,899513,Rarely,Monthly,Cable,Spouse/Partner,295
+39,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,3,3,4,Rarely,Rarely,DVD,Monthly,Monthly,899598,Rarely,Weekly,Cable,Me,295
+37,"Bachelor's Degree",Male,Own,Dial-Up,Married,2,3,2,2,4,Never,Rarely,VHS,Monthly,Monthly,905837,Rarely,Rarely,"Digital Satellite",Me,296
+30,"Bachelor's Degree",Male,Own,Dial-Up,Married,2.5,3,3,1,3,Rarely,Monthly,DVD,Monthly,Weekly,905871,Monthly,Weekly,"Digital Satellite",Spouse/Partner,296
+40,"Master's Degree",Male,Own,DSL,Married,3,4,2,3,4,Never,Monthly,DVD,Weekly,Daily,916894,Weekly,Weekly,Cable,Me,297
+45,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,2,2,2,Never,Monthly,DVD,Weekly,Weekly,916926,Weekly,Monthly,Cable,Other,297
+35,"Some College",Male,Own,DSL,Married,2.5,4,2,1,2,Never,Monthly,DVD,Monthly,Weekly,916933,Monthly,Never,"Digital Satellite",Me,297
+31,"Associate's Degree",Male,Own,"Cable Modem",Married,2.5,3,2,3,3,Rarely,Weekly,DVD,Monthly,Weekly,916943,Monthly,Weekly,Cable,Spouse/Partner,297
+46,"Bachelor's Degree",Male,Own,DSL,Married,2.5,4,5,2,3,Never,Rarely,DVD,Weekly,Weekly,916534,Monthly,Rarely,Cable,Me,298
+31,"Bachelor's Degree",Male,Rent,DSL,Married,1.5,2,1,2,2,Never,Rarely,DVD,Weekly,Weekly,916547,Monthly,Weekly,"Digital Satellite",Me,298
+30,Post-Doc,Male,Own,DSL,Married,3,4,2,1,2,Never,Rarely,DVD,Weekly,Weekly,916567,Rarely,Weekly,Cable,Children,298
+35,"Master's Degree",Male,Own,DSL,Married,2.5,3,3,2,1,Never,Rarely,DVD,Rarely,Rarely,890074,Rarely,Monthly,Cable,Me,299
+34,"Some College",Male,Rent,DSL,"Never Married",3,3,2,2,3,Rarely,Weekly,DVD,Monthly,Monthly,890076,Weekly,Rarely,"Don't watch TV",Me,299
+27,"Bachelor's Degree",Female,Rent,"Cable Modem",Married,2.5,2,1,1,2,Monthly,Monthly,DVD,Monthly,Weekly,890083,Monthly,Daily,Cable,Me,299
+52,"Master's Degree",Male,Own,DSL,Married,3,4,2,1,3,Never,Rarely,DVD,Rarely,Monthly,890086,Monthly,Rarely,Cable,Spouse/Partner,299
+35,"Master's Degree",Female,Rent,DSL,Divorced,1.5,2,1,1,1,Never,Rarely,DVD,Weekly,Weekly,890093,Monthly,Weekly,Cable,Spouse/Partner,299
